@@ -516,12 +516,12 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MUhMjNRWi7thEBq8D5kfXw","kid":"LBiIAkpIOki5i0jME/+znA"}],"type":"temporary"}
-https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/9735b799975b7fa455b10ec1dc0f270e/1667979058348/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDExRjlFNnxiNmYxMWZkMjgzMGNiMzM5MWU3ZGZlM2ZlOWYwOGUxMQ==
+https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/c6ac19e8ac3bda41c10124d2c95b0343/1667995635317/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDEyNDUyRXwwNjIyYjY4NDU0YzI0YzI2OGIyODcwNjI3N2I2YTFmYQ==
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine SD TV360
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J7FDG09vJTF4nfUZzbHh9Q","kid":"im6sD6n5Qx+dDVnZky0QoQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1667903691~acl=/*~hmac=51b0f3895bcb36e82db7b9c58962b68a4a3df665a0c30bc6d3929596c2e6c0a9
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1667929649~acl=/*~hmac=2b5e373b334044c4d66ae2b96e525110e308015c060df6d0c8b51d91ef11e13b
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -534,12 +534,12 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iWFGjPZD4yqU9SR4AW5SVQ","kid":"ogbfU5DaMZ+fM7ofpIpEhg"}],"type":"temporary"}
-https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/a7630380ea72fcb4cbb8cb466d041fac/1667979082500/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021_web.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXw0MDM2NDI3YS02NTMyLTRkMDktYmUxZi1hYWY1ODczYzdlNDd8bGl2ZXR2fDExRjlFQ3wyOTNhY2I3ODMwMzM5NzhjYmUxNmMwOWY5MmQ0YWFlOA==
+https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/6f864b4bd46a092d8e76938c5369e3ed/1667995682846/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021_web.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXw0MDM2NDI3YS02NTMyLTRkMDktYmUxZi1hYWY1ODczYzdlNDd8bGl2ZXR2fDEyNDU4M3w5NWYzYzFlMTM4MGQwYzE0YTI5YzYyYmVmNDRkYjJkMA==
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life SD TV360
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ONXUTM/BEWfXZ6q5a0aZYg","kid":"T0+xk9gxRD6vCQJYnGK9kg"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1667903691~acl=/*~hmac=51b0f3895bcb36e82db7b9c58962b68a4a3df665a0c30bc6d3929596c2e6c0a9
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1667929648~acl=/*~hmac=631a22ddcfabec83b03568cb090af3e802808be6e3c8dd81b7ef334d2a598d09
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -552,12 +552,12 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vz3g6rR3Y5W4RUjWN75Zgg","kid":"AJwgucFiNFCwPW9Xjn6RMA"}],"type":"temporary"}
-https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/f020d8a7adbc386b7cb08a4cdb1275b3/1667979096979/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_web.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXwxZTVlOTQ4MC0xM2QwLTRhM2MtOTcwYi03ODI4ODAwM2Q3Mjh8bGl2ZXR2fDExRjlGNnw4MzliYmMxNDYzNTNlZmI2ZGU0OTA5NzBiMTZiYTc4Nw==
+https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/f59c6cd112f8a15bb415296956943570/1667995702989/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_web.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXwxZTVlOTQ4MC0xM2QwLTRhM2MtOTcwYi03ODI4ODAwM2Q3Mjh8bGl2ZXR2fDEyNDVBOXw3ZTdhMTRjODJmZTliOTJhNTJmZWQ2M2Y1MTc5YjFmMw==
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 SD TV360
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bjUl9uzP3LXeMMkuA0RTEA","kid":"f8Fal2eeRV+mlRumcuZhUQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1667903690~acl=/*~hmac=9890511dbdf5fef6cee5a8877beedc04e52e88bc3bc312b038f6d3d49912ecbf
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1667929646~acl=/*~hmac=c7a5dffe9bbeed3cde3fc60996319ba84e2c7ea7fa068989f4bbb073d89c0198
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -570,12 +570,12 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C1m6hYwbfPIkTFdtonYsgg","kid":"PGQuhgq+PfqKyJcA93BvqA"}],"type":"temporary"}
-https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/6f015c9e36c8692d10c533ea7db1d020/1667979109838/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDExRkEwOHxiZjhiYTlkYTZhZjRjNzZiZjljMmNhMmI0YTQxOGZiYQ==
+https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/b0c3a561893e60ce697ab79b4c54d181/1667995718500/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDEyNDVCQ3w0N2FlZjNiOGU5NzY4NzU0MzJjODEzNjMwODc5NDdhZA==
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 SD TV360
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XblobMwmRx/Z7NCHdeVpBw","kid":"87+txM+eR/SddLBnp4Y7HA"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1667903691~acl=/*~hmac=51b0f3895bcb36e82db7b9c58962b68a4a3df665a0c30bc6d3929596c2e6c0a9
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1667929646~acl=/*~hmac=c7a5dffe9bbeed3cde3fc60996319ba84e2c7ea7fa068989f4bbb073d89c0198
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -588,7 +588,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iSOD8bCwY3T3RvqF4fFifg","kid":"X9rAUYedMDep0jmGFR5xbw"}],"type":"temporary"}
-https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/c3c95eb4077f795694974ecb317b8c03/1667979126550/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXwyNjBmM2FhOC01ZTQ4LTQwMjUtYmVhNC1mZmVkZDcxMjk2MjR8bGl2ZXR2fDExRkExQ3w1OTcwM2RiZGQ5Yzg0ODg2NzY2ZTYzZjliZDA4MDZmNA==
+https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/623217500a79fe93345bd07aff66aaa4/1667995733276/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd?token=NTY5ZjY3NTQtOTkzZC1lZDFkLTAyNGMtMjRmMWIwMjliYjM1fHdlYnxkOTNjNjBkZDcxNjI4MDdlODMxNDUxNGQ4MDkxMmY4YXwyNjBmM2FhOC01ZTQ4LTQwMjUtYmVhNC1mZmVkZDcxMjk2MjR8bGl2ZXR2fDEyNDVDRXxkYmRlZDM5MmViZTZlMzEzMDYxNzUxYzljMWViYWJiNQ==
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1251,8 +1251,8 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/357oze5u_banner78b23bd8d8c16aada60f0562656ab37c_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-08/11: Quay số mở thưởng Vietlott 08/11/2022
-https://code.television4you.xyz/playlist/eventvieon.php?id=51016705-f790-47be-8f57-38a3de1ec5c0
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/y8mqo57i_banner2593392934ee3de00ba8bded0a0677a1_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-09/11: Quay số mở thưởng Vietlott 09/11/2022
+https://code.television4you.xyz/playlist/eventvieon.php?id=1110a821-2928-4dc5-ab9f-b8b25c5cc959
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/03/5ifrtfir_1920x1080-master-live-sailgp_1920_1080.jpg" group-title="🗓| Sự kiện", 17:45-12/11: Giải Đua Thuyền SailGP 2022 - Chặng Dubai - Ngày 1
 https://code.television4you.xyz/playlist/eventvieon.php?id=07c84a16-ea00-45fe-a511-3a1ecbc96376
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/iifeahef_microsoftteams-image4_1920_1080.png" group-title="🗓| Sự kiện", 18:00-13/11: Chung Kết Hoa Hậu Du Lịch Việt Nam 2022
@@ -2334,21 +2334,85 @@ http://222.254.49.221:8889/ultratv.php?id=7896
 http://live-sg.cvacetv.ga:8080/stream/channelid/647006126
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/11: SD1 Rayo Vallecano - Real Madrid (Người Mới)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: SD1 Napoli - Empoli (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/11: SD2 Rayo Vallecano - Real Madrid (Người Mới)
+https://jq9sucdqmfliv.vcdn.cloud/may1SD/may1SD@456.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: SD2 Napoli - Empoli (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/11: HD Rayo Vallecano - Real Madrid (Người Mới)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: HD Napoli - Empoli (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/11: Full HD Rayo Vallecano - Real Madrid (Người Mới)
+https://1093384063.cdn.khmer-hd.com/may1001HD/chunks.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: Full HD Napoli - Empoli (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/11: Nhà Đài Rayo Vallecano - Real Madrid (Người Mới)
+https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: Nhà Đài Napoli - Empoli (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may111/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+https://jq9sucdqmfliv.vcdn.cloud/may81/may81@456.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: SD1 VfL Wolfsburg - Borussia Dortmund (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://jq9sucdqmfliv.vcdn.cloud/may10SD/may10SD@456.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: SD2 VfL Wolfsburg - Borussia Dortmund (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may10SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: HD VfL Wolfsburg - Borussia Dortmund (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1093384063.cdn.khmer-hd.com/may10HD/chunks.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: Full HD VfL Wolfsburg - Borussia Dortmund (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may10FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-09/11: Nhà Đài VfL Wolfsburg - Borussia Dortmund (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may121/chunklist.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-09/11: SD1 Bayern Munchen - Werder Bremen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://jq9sucdqmfliv.vcdn.cloud/may2SD/may2SD@456.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-09/11: SD2 Bayern Munchen - Werder Bremen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-09/11: HD Bayern Munchen - Werder Bremen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-09/11: Full HD Bayern Munchen - Werder Bremen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1093384063.cdn.khmer-hd.com/may2FHD/chunks.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-09/11: Nhà Đài Bayern Munchen - Werder Bremen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may11/chunklist.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-09/11: SD1 Cremonese - AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://jq9sucdqmfliv.vcdn.cloud/123SD/123SD@456.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-09/11: SD2 Cremonese - AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-09/11: HD Cremonese - AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1093384063.cdn.khmer-hd.com/live/chunks.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-09/11: FullHD Cremonese - AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/live/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-09/11: Nhà Đài Cremonese - AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://jq9sucdqmfliv.vcdn.cloud/may81/may81@456.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h30-09/11: SD1 Osasuna - FC Barcelona (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h30-09/11: SD2 Osasuna - FC Barcelona (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h30-09/11: HD Osasuna - FC Barcelona (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1093384063.cdn.khmer-hd.com/may1000HD/playlist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h30-09/11: Full HD Osasuna - FC Barcelona (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may1FHD/playlist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h30-09/11: Nhà Đài Osasuna - FC Barcelona (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may91/playlist.m3u8|referer=https://mitom.90phut6.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-09/11: SD 1 Napoli - Empoli (Giàng A Lử)
