@@ -1693,13 +1693,10 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 http://123.24.29.129:8889/ultratv.php?id=280621
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/26294
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="4K UHD" tvg-logo="https://i.imgur.com/094dRsI.png", MY: Astro Supersport 4K UHD
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=348094&extension=ts&play_token=4ncsHyO035
 http://123.24.29.129:8889/ultratv.php?id=279951
 #EXTINF:-1 tvg-id="" group-title="4K UHD" tvg-logo="", DE: Bundesliga UHD
 http://123.24.29.129:8889/ultratv.php?id=273890
-#EXTINF:-1 tvg-id="LoveNature4K.ca" group-title="4K UHD" tvg-logo="https://i.imgur.com/m3jRPof.png", Love Nature 4K UHD
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVUHD.fr" group-title="4K UHD" tvg-logo="https://i.imgur.com/QhJ38Hx.png", Fashion TV 4K UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="NowSports4K.hk" group-title="4K UHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115", HK: Now Sports 4K
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=117957&extension=ts&play_token=coxgvZMgUD
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425322
@@ -1709,6 +1706,18 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/10444
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553682&extension=ts&play_token=7QAeylScfQ
 #EXTINF:-1 tvg-id="RMCSportAccess2.fr" group-title="4K UHD" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport Access 2 4K
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553683&extension=ts&play_token=Roo7UruFmU
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png", FR: Canal+ Sport 360 4K
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553688&extension=ts&play_token=bDLWt4lzUt
+#EXTINF:-1 tvg-id="beIN4K.qa" group-title="4K UHD" tvg-logo="https://i.imgur.com/TTxh9tZ.png", QA: beIN 4K
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=653631&extension=ts&play_token=rF325lEWRT
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="4K UHD" tvg-logo="https://i.imgur.com/Vtk2cGI.png", QA: beIN Sports 1 UHD
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553684&extension=ts&play_token=aVoajBhMVn
+#EXTINF:-1 tvg-id="HubPremier2.sg" group-title="4K UHD" tvg-logo="https://i.postimg.cc/L80qCkjN/222-1920x1080-HTV.png", SG: Hub Premier 2 UHD
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=348096&extension=ts&play_token=NjWgFOw1q2
+#EXTINF:-1 tvg-id="LoveNature4K.ca" group-title="4K UHD" tvg-logo="https://i.imgur.com/m3jRPof.png", Love Nature 4K UHD
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" group-title="4K UHD" tvg-logo="https://i.imgur.com/QhJ38Hx.png", Fashion TV 4K UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #-*-- Sports UK -*--#
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/rsT6Cu2.png", UK: Sky Sports Football FHD
