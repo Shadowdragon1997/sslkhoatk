@@ -510,7 +510,7 @@ https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/c6ac19e8ac3bda41c10124d2c95b0343/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J7FDG09vJTF4nfUZzbHh9Q","kid":"im6sD6n5Qx+dDVnZky0QoQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1667945626~acl=/*~hmac=891615c68c9ea3a34da8eb8dae4031d14e596f2fd78a2ff2f96438a212a2954a
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668124823~acl=/*~hmac=5513b876faf6f0c8cfa58bd35f7e83cf425c98e00b910c845db0e685cc791283
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -528,7 +528,7 @@ https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/6f864b4bd46a092d8e76938c5369e3ed/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ONXUTM/BEWfXZ6q5a0aZYg","kid":"T0+xk9gxRD6vCQJYnGK9kg"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1667945626~acl=/*~hmac=891615c68c9ea3a34da8eb8dae4031d14e596f2fd78a2ff2f96438a212a2954a
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668124823~acl=/*~hmac=5513b876faf6f0c8cfa58bd35f7e83cf425c98e00b910c845db0e685cc791283
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -546,7 +546,7 @@ https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/f59c6cd112f8a15bb415296956943570/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bjUl9uzP3LXeMMkuA0RTEA","kid":"f8Fal2eeRV+mlRumcuZhUQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1667945626~acl=/*~hmac=891615c68c9ea3a34da8eb8dae4031d14e596f2fd78a2ff2f96438a212a2954a
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668124823~acl=/*~hmac=5513b876faf6f0c8cfa58bd35f7e83cf425c98e00b910c845db0e685cc791283
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -564,7 +564,7 @@ https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/b0c3a561893e60ce697ab79b4c54d181/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XblobMwmRx/Z7NCHdeVpBw","kid":"87+txM+eR/SddLBnp4Y7HA"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1667945626~acl=/*~hmac=891615c68c9ea3a34da8eb8dae4031d14e596f2fd78a2ff2f96438a212a2954a
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668124823~acl=/*~hmac=5513b876faf6f0c8cfa58bd35f7e83cf425c98e00b910c845db0e685cc791283
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1240,8 +1240,12 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/cytn4x85_banner5c93d446e6dd7de47513694f6e10ee91_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-10/11: Quay số mở thưởng Vietlott 10/11/2022
-https://code.television4you.xyz/playlist/eventvieon.php?id=ca7b39eb-3b8e-4d37-b6f9-b8a7cd2dfd44
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/09/sh570mt1_bannerbbf35b2a31b77f2e963626f6a262bb0a_1920_1080.jpg" group-title="🗓| Sự kiện", 12:30-11/11: Giải Golf Câu Lạc Bộ Toàn Quốc 2022 - Day 1
+https://code.television4you.xyz/playlist/eventvieon.php?id=7637f6d7-c30e-477d-aa9f-feb50b2abbae
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/os1944ia_banneraeb86c3201cd4ec085771595020dbd9d_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-11/11: Quay số mở thưởng Vietlott 11/11/2022
+https://code.television4you.xyz/playlist/eventvieon.php?id=a6f0b85a-dfe1-43f0-98c8-84dc70cf9745
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/09/n4swvdkz_banner03111f7391bb3c375b3abc24b07193ea_1920_1080.jpg" group-title="🗓| Sự kiện", 07:30-12/11: Giải Golf Câu Lạc Bộ Toàn Quốc 2022 - Day 2
+https://code.television4you.xyz/playlist/eventvieon.php?id=2a243b69-fbd3-4a7e-9136-4790038eacb2
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/03/5ifrtfir_1920x1080-master-live-sailgp_1920_1080.jpg" group-title="🗓| Sự kiện", 17:45-12/11: Giải Đua Thuyền SailGP 2022 - Chặng Dubai - Ngày 1
 https://code.television4you.xyz/playlist/eventvieon.php?id=07c84a16-ea00-45fe-a511-3a1ecbc96376
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/09/s6reo96k_bannera174c272c4b346a4fb6701968ac4f1cc_1920_1080.jpg" group-title="🗓| Sự kiện", 20:00-12/11: Show Diễn Thời Trang SIXDO Thu Đông 2022
@@ -2575,50 +2579,50 @@ http://14.248.238.247:8889/ultratv.php?id=7896
 http://live3.cvacetv.ga:8080/stream/channelid/1011319346
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: SD1 Sassuolo - AS Roma (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: SD2 Sassuolo - AS Roma (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: HD Sassuolo - AS Roma (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: Full HD Sassuolo - AS Roma (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may2FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: Nhà Đài Sassuolo - AS Roma (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may9/chunklist.m3u8|referer=https://mitom.90phut6.live/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: SD1 Lecce - Atalanta (Cáp Tần)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: SD2 Lecce - Atalanta (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-11/11: SD1 Verona - Juventus (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: HD Lecce - Atalanta (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-11/11: SD2 Verona - Juventus (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-11/11: HD Verona - Juventus (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: Full HD Lecce - Atalanta (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-11/11: Full HD Verona - Juventus (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-10/11: Nhà Đài Lecce - Atalanta (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-11/11: Nhà Đài Verona - Juventus (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://mitom.90phut6.live/
 
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/11: SD1 Manchester United - Aston Villa (Người Rơi + Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/11: SD2 Manchester United - Aston Villa (Người Rơi + Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/11: HD Manchester United - Aston Villa (Người Rơi + Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/11: Full HD Manchester United - Aston Villa (Người Rơi + Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/11: Nhà Đài Manchester United - Aston Villa (Người Rơi + Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-10/11: SD1 Sevilla - Real Sociedad (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-10/11: SD2 Sevilla - Real Sociedad (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may3SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+https://179672673.global.cdnfastest.com/live/may2SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-10/11: HD Sevilla - Real Sociedad (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2HD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-10/11: Full HD Sevilla - Real Sociedad (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may3FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+https://179672673.global.cdnfastest.com/live/may2FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-10/11: Nhà Đài Sevilla - Real Sociedad (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may91/chunklist.m3u8|referer=https://mitom1.90phut6.live/
