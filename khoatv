@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/th.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr.xml.gz,https://iptv-org.github.io/epg/guides/au.xml.gz,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/sg.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/bg.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/qa.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/hk.xml.gz,https://iptv-org.github.io/epg/guides/at.xml.gz,https://iptv-org.github.io/epg/guides/de.xml.gz,https://iptv-org.github.io/epg/guides/my.xml.gz,https://iptv-org.github.io/epg/guides/za.xml.gz,https://iptv-org.github.io/epg/guides/pt.xml.gz,https://iptv-org.github.io/epg/guides/pl.xml.gz,https://iptv-org.github.io/epg/guides/ro.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/ru.xml.gz"
+#EXTM3U url-tvg="https://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/th.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr.xml.gz,https://iptv-org.github.io/epg/guides/au.xml.gz,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/sg.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/bg.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/qa.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/hk.xml.gz,https://iptv-org.github.io/epg/guides/at.xml.gz,https://iptv-org.github.io/epg/guides/de.xml.gz,https://iptv-org.github.io/epg/guides/my.xml.gz,https://iptv-org.github.io/epg/guides/za.xml.gz,https://iptv-org.github.io/epg/guides/pt.xml.gz,https://iptv-org.github.io/epg/guides/pl.xml.gz,https://iptv-org.github.io/epg/guides/ro.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/ru.xml.gz"
 
 #-*-- Livestream bóng đá -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 1
@@ -1706,7 +1706,7 @@ http://123.24.29.129:8889/iprotv.php?id=15069
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/Bi8uR5O.png", UK: Sky Sports Main Event FHD
 http://123.24.29.129:8889/iprotv.php?id=7960
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/ChWdcRC.png", UK: Sky Sports Premier League FHD
-http://123.24.29.129:8889/iprotv.php?id=7952
+http://aabb.is:2095/kTEkjNyx/qU6CUg7d/347474
 #EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/XBMm9XT.png", UK: Sky Sports Arena FHD
 http://123.24.29.129:8889/iprotv.php?id=15068
 #EXTINF:-1 tvg-id="SkySportsAction.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/sngAWff.png", UK: Sky Sports Action FHD
@@ -1777,6 +1777,16 @@ http://live3.cvacetv.ga/FS1
 http://live3.cvacetv.ga/FS2
 #EXTINF:-1 tvg-id="TNTEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png", US: TNT East FHD
 http://live-vn.cvacetv.ga:8080/TNT
+#EXTINF:-1 tvg-id="NBATV.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.ibb.co/M13tgJC/nba-tv.png", US: NBA TV FHD
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=8246&extension=ts&play_token=TaDzsyNle4
+#EXTINF:-1 tvg-id="NBAtv.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/clippers/nba-tv-logo.png", US: NBA TV FHD
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=8246&extension=ts&play_token=TaDzsyNle4
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png", US: Tennis Channel FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418374
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png", US: Tennis Channel HD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418188
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.imgur.com/cArIeKS.png", US: Fubo Sports Network
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418199
 
 #-*-- Sports Spain -*--#
 #EXTINF:-1 tvg-id="DAZN1.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Dazn 1 FHD
@@ -1820,15 +1830,19 @@ http://live3.cvacetv.ga:8080/stream/channelid/665399328
 
 #-*-- Sports French -*--#
 #EXTINF:-1 tvg-ID="Eurosport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/z3fQ87X.png", FR: Eurosport 1 HD
-http://123.24.29.129:8889/ultratv.php?id=2572
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/536
 #EXTINF:-1 tvg-ID="Eurosport2.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/0xpN9B6.png", FR: Eurosport 2 HD
-http://123.24.29.129:8889/ultratv.php?id=3314
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/537
 #EXTINF:-1 tvg-ID="CanalPlusSportFrance.fr" group-title="🇫🇷| Sports French" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe02a6b1f2195c7e9.2Epng/80x80/quality/80/canalplus-sport.png", FR: Canal+ Sport FHD
 http://123.24.29.129:8889/iprotv.php?id=17071
+#EXTINF:-1 tvg-ID="CanalPlusSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/0196a023576a7e11cb863b3b1d2d0f4d", FR: Canal+ Sport 1 FHD
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=554017&extension=ts&play_token=y7O58s79pD
+#EXTINF:-1 tvg-ID="CanalPlusPremierLeague.fr" group-title="🇫🇷| Sports French" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/0196a023576a7e11cb863b3b1d2d0f4d", FR: Canal+ Premier League FHD
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=554015&extension=ts&play_token=VxAwJUSmTA
 #EXTINF:-1 tvg-ID="RMCSport1UHD.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/QuP7VoD.png", FR: RMC Sport 1 UHD
 http://123.24.29.129:8889/iprotv.php?id=186420
 #EXTINF:-1 tvg-ID="RMCSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport 1 FHD
-http://123.24.29.129:8889/iprotv.php?id=3110
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=543387&extension=ts&play_token=EixJGxQJhi
 #EXTINF:-1 tvg-ID="RMCSport2.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 2 FHD
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=554025&extension=ts&play_token=38FcakL8Q7
 #EXTINF:-1 tvg-ID="RMCSport3.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 3 FHD
@@ -1841,24 +1855,111 @@ http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=54343
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=543431&extension=ts&play_token=qtpSZXrfIk
 #EXTINF:-1 tvg-ID="RMCSport7.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 7 FHD
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=543432&extension=ts&play_token=2vfZc7NSbH
-#EXTINF:-1 tvg-ID="beINSports1France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/KPbwfw1.png", FR: Bein Sports 1 FHD
+#EXTINF:-1 tvg-ID="beINSports1France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/KPbwfw1.png", FR: beIN Sports 1 FHD
 http://123.24.29.129:8889/iprotv.php?id=10245
-#EXTINF:-1 tvg-ID="beINSports2France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/3fA6lC6.png", FR: Bein Sports 2 FHD
+#EXTINF:-1 tvg-ID="beINSports2France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/3fA6lC6.png", FR: beIN Sports 2 FHD
 http://123.24.29.129:8889/iprotv.php?id=10246
-#EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: Bein Sports 3 FHD
+#EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: beIN Sports 3 FHD
 http://123.24.29.129:8889/iprotv.php?id=2590
-#EXTINF:-1 tvg-ID="beINSportsMax4France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/XCQOl33.png", FR: Bein Sports Max 4 HD
-http://123.24.29.129:8889/iprotv.php?id=7793
-#EXTINF:-1 tvg-ID="beINSportsMax5France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/r4zjlgz.png",FR: Bein Sports Max 5 HD
-http://123.24.29.129:8889/iprotv.php?id=7794
+#EXTINF:-1 tvg-ID="beINSportsMax4France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/XCQOl33.png", FR: beIN Sports Max 4 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3187
+#EXTINF:-1 tvg-id="beINSportsMax4France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/XCQOl33.png", FR: beIN Sports Max 4 LDC HD
+http://venomtt.com:8000/kdcxxD1U/543545/190949
+#EXTINF:-1 tvg-ID="beINSportsMax5France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/r4zjlgz.png", FR: beIN Sports Max 5 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3186
+#EXTINF:-1 tvg-id="beINSportsMax5France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/r4zjlgz.png", FR: beIN Sports Max LDC HD
+http://venomtt.com:8000/kdcxxD1U/543545/190948
+#EXTINF:-1 tvg-ID="beINSportsMax6France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/Z1qxUHG.png", FR: beIN Sports Max 6 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3185
+#EXTINF:-1 tvg-ID="beINSportsMax7France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/jILGtXX.png", FR: beIN Sports Max 7 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3184
+#EXTINF:-1 tvg-ID="beINSportsMax8France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/Yz9KYlO.png", FR: beIN Sports Max 8 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3183
+#EXTINF:-1 tvg-ID="beINSportsMax9France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/OC8hE9X.png", FR: beIN Sports Max 9 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3186
+#EXTINF:-1 tvg-ID="beINSportsMax10France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/vI9HRSa.png", FR: beIN Sports Max 10 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3186
+#EXTINF:-1 tvg-ID="InfosportPlus.fr" group-title="🇫🇷| Sports French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Infosport%2B_%282016%29.svg/langfr-512px-Infosport%2B_%282016%29.svg.png", FR: Infosport+ HD
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=543408&extension=ts&play_token=yzfmaaQ5CD
 
 #-*-- Qatar beIN Sports HD -*--#
-#EXTINF:-1 tvg-ID="beINSportsPremium1.qa" group-title="🇶🇦| beIN Sports HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png", QA: beIN Sports Premium 1 HD
-http://123.24.29.129:8889/ultratv.php?id=51909
-#EXTINF:-1 tvg-ID="beINSportsPremium2.qa" group-title="🇶🇦| beIN Sports HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png", QA: Bein Sports Premium 2 HD
-http://123.24.29.129:8889/ultratv.php?id=4666
-#EXTINF:-1 tvg-ID="beINSportsPremium3.qa" group-title="🇶🇦| beIN Sports HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png", QA: Bein Sports Premium 3 HD
-http://123.24.29.129:8889/ultratv.php?id=4665
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/Vtk2cGI.png", QA: beIN Sports 01 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156463
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/Vtk2cGI.png", QA: beIN Sports 01 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156462
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/vUJZSvs.png", QA: beIN Sports 02 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156461
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/vUJZSvs.png", QA: beIN Sports 02 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156460
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/UYSMao3.png", QA: beIN Sports 03 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156459
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/UYSMao3.png", QA: beIN Sports 03 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156458
+#EXTINF:-1 tvg-id="beINSports4.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/TmDS8Ie.png", QA: beIN Sports 04 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156457
+#EXTINF:-1 tvg-id="beINSports4.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/TmDS8Ie.png", QA: beIN Sports 04 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156456
+#EXTINF:-1 tvg-id="beINSports5.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/8gEqsEh.png", QA: beIN Sports 05 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156455
+#EXTINF:-1 tvg-id="beINSports5.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/8gEqsEh.png", QA: beIN Sports 05 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156454
+#EXTINF:-1 tvg-id="beINSports6.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/4QTnRd3.png", QA: beIN Sports 06 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156453
+#EXTINF:-1 tvg-id="beINSports6.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/4QTnRd3.png", QA: beIN Sports 06 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156452
+#EXTINF:-1 tvg-id="beINSports7.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/ebnWhJm.png", QA: beIN Sports 07 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156451
+#EXTINF:-1 tvg-id="beINSports7.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/ebnWhJm.png", QA: beIN Sports 07 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156450
+http://venomtt.com:8000/kdcxxD1U/543545/156428
+#EXTINF:-1 tvg-ID="beINSportsPremium1.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png", QA: beIN Sports Premium 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156469
+#EXTINF:-1 tvg-ID="beINSportsPremium2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png", QA: Bein Sports Premium 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156467
+#EXTINF:-1 tvg-ID="beINSportsPremium3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png", QA: Bein Sports Premium 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156465
+#EXTINF:-1 tvg-id="beINSportsXtra1.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/s5xwdKE.png", QA: beIN Sports Xtra 1 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/161968
+#EXTINF:-1 tvg-id="beINSportsXtra1.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/s5xwdKE.png", QA: beIN Sports Xtra 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/161970
+#EXTINF:-1 tvg-id="beINSportsXtra2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/RXyDfyo.png", QA: beIN Sports Xtra 2 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/161967
+#EXTINF:-1 tvg-id="beINSportsXtra2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/RXyDfyo.png", QA: beIN Sports Xtra 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/161969
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/FjWQjdy.png", QA: beIN Sports Max 1 4k
+http://venomtt.com:8000/kdcxxD1U/543545/176187
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/FjWQjdy.png", QA: beIN Sports Max 1 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176193
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/FjWQjdy.png", QA: beIN Sports Max 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176199
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/5dBc5rn.png", QA: beIN Sports Max 2 4K
+http://venomtt.com:8000/kdcxxD1U/543545/176186
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/5dBc5rn.png", QA: beIN Sports Max 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176198
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/ThcM2LE.png", QA: beIN Sports Max 3 4K
+http://venomtt.com:8000/kdcxxD1U/543545/176185
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/ThcM2LE.png", QA: beIN Sports Max 3 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176191
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/ThcM2LE.png", QA: beIN Sports Max 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176197
+#EXTINF:-1 tvg-id="beINSportsMax4.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/XCQOl33.png", QA: beIN Sports Max 4 4K
+http://venomtt.com:8000/kdcxxD1U/543545/176184
+#EXTINF:-1 tvg-id="beINSportsMax4.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/XCQOl33.png", QA: beIN Sports Max 4 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176190
+#EXTINF:-1 tvg-id="beINSportsMax4.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/XCQOl33.png", QA: beIN Sports Max 4 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176196
+#EXTINF:-1 tvg-id="beINSportsMax5.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/r4zjlgz.png", QA: beIN Sports Max 5 4k
+http://venomtt.com:8000/kdcxxD1U/543545/176183
+#EXTINF:-1 tvg-id="beINSportsMax5.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/r4zjlgz.png", QA: beIN Sports Max 5 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176189
+#EXTINF:-1 tvg-id="beINSportsMax5.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/r4zjlgz.png", QA: beIN Sports Max 5 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176195
+#EXTINF:-1 tvg-id="beINSportsMax6.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/Z1qxUHG.png", QA: beIN Sports Max 6 4k
+http://venomtt.com:8000/kdcxxD1U/543545/176182
+#EXTINF:-1 tvg-id="beINSportsMax6.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/Z1qxUHG.png", QA: beIN Sports Max 6 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176188
+#EXTINF:-1 tvg-id="beINSportsMax6.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="https://i.imgur.com/Z1qxUHG.png", QA: beIN Sports Max 6 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176194
 
 #-*-- Sports Italia -*--#
 #EXTINF:-1 tvg-ID="SkySportUno.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sky_Sport_Uno_HD_-_Logo_2020.svg/512px-Sky_Sport_Uno_HD_-_Logo_2020.svg.png", IT: Sky Sport Uno FHD
@@ -1877,20 +1978,24 @@ http://123.24.29.129:8889/ultratv.php?id=130746
 http://123.24.29.129:8889/ultratv.php?id=9652
 
 #-*-- Sports HK/Taiwan -*--#
-#EXTINF:-1 tvg-ID="NowSportsPremierLeague1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115", HK: Now Premier Sports 1 FHD
-http://123.24.29.129:8889/ultratv.php?id=200230
-#EXTINF:-1 tvg-ID="NowSportsPremierLeague2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115", HK: Now Premier Sports 2 FHD
-http://123.24.29.129:8889/ultratv.php?id=200229
-#EXTINF:-1 tvg-ID="NowSportsPremierLeague3.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_160_115", HK: Now Premier Sports 3 FHD
-http://123.24.29.129:8889/ultratv.php?id=200228
-#EXTINF:-1 tvg-ID="NowSportsPremierLeague4.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_160_115", HK: Now Premier Sports 4 FHD
-http://123.24.29.129:8889/ultratv.php?id=200227
-#EXTINF:-1 tvg-ID="NowSportsPremierLeague5.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_160_115", HK: Now Premier Sports 5 FHD
-http://123.24.29.129:8889/ultratv.php?id=200226
-#EXTINF:-1 tvg-ID="NowSportsPremierLeague6.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Premier Sports 6 FHD
-http://123.24.29.129:8889/ultratv.php?id=200225
-#EXTINF:-1 tvg-ID="" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="", HK: Now Premier Sports 7 FHD
-http://123.24.29.129:8889/ultratv.php?id=246329
+#EXTINF:-1 tvg-ID="NowSports4K.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115", HK: Now Sports 4K
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
+#EXTINF:-1 tvg-ID="NowSportsPremierLeague1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115", HK: Now Sports Premier League 1 FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
+#EXTINF:-1 tvg-ID="NowSportsPremierLeague2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115", HK: Now Sports Premier League 2 FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425333
+#EXTINF:-1 tvg-ID="NowSportsPremierLeague3.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_160_115", HK: Now Sports Premier League 3 FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425334
+#EXTINF:-1 tvg-ID="NowSportsPremierLeague4.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_160_115", HK: Now Sports Premier League 4 FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425335
+#EXTINF:-1 tvg-ID="NowSportsPremierLeague5.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_160_115", HK: Now Sports Premier League 5 FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425336
+#EXTINF:-1 tvg-ID="NowSportsPremierLeague6.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 6 FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425337
+#EXTINF:-1 tvg-ID="" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="", HK: Now Sports Premier League 7 FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425331
+#EXTINF:-1 tvg-ID="" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="", HK: Now Sports Premier League 8 FHD
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425330
 #EXTINF:-1 tvg-ID="NowSports1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115", HK: Now Sports 1 FHD
 http://123.24.29.129:8889/ultratv.php?id=246323
 #EXTINF:-1 tvg-ID="NowSports2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_160_115", HK: Now Sports 2 FHD
@@ -1973,7 +2078,7 @@ http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=1
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121200&extension=ts&play_token=O5Nw5KvFJ4
 #EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121201&extension=ts&play_token=Qf3Pe4Yuep
-#EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD
+#EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121202&extension=ts&play_token=IfgkirxGGk
 #EXTINF:-1 tvg-ID="AstroArena.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/IPK9f6h.png", MY Astro: Arena FHD
 http://123.24.29.129:8889/ultratv.php?id=161948
@@ -2041,7 +2146,7 @@ http://live-vn.cvacetv.ga:8880/stream/channelid/1990641538
 http://123.24.29.129:8889/prostv.php?id=96360
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=7798
-#EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 3 FHD
+#EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD
 http://live-vn.cvacetv.ga:8880/stream/channelid/1597536732
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=96363
@@ -2069,37 +2174,37 @@ http://123.24.29.129:8889/tptv.php?id=254527
 http://123.24.29.129:8889/evol.php?id=107503
 #EXTINF:-1 tvg-ID="SportTVNBA.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="", PT: Sport TV NBA FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=164982
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png",PT: Eleven Sport 1 FHD
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD
 http://123.24.29.129:8889/evol.php?id=107504
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222449
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94661
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png",PT: Eleven Sport 2 FHD
+#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD
 http://123.24.29.129:8889/evol.php?id=107505
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222450
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94660
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png",PT: Eleven Sport 3 FHD
+#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD
 http://123.24.29.129:8889/evol.php?id=107506
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222451
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94659
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png",PT: Eleven Sport 4 FHD
+#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD
 http://123.24.29.129:8889/evol.php?id=107507
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222452
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94658
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png",PT: Eleven Sport 5 FHD
+#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD
 http://123.24.29.129:8889/evol.php?id=107508
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222453
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94657
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png",PT: Eleven Sport 6 FHD
+#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD
 http://123.24.29.129:8889/evol.php?id=107509
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222454
@@ -2285,6 +2390,68 @@ http://live-vn.cvacetv.ga:8880/stream/channelid/1592146672
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1667315369~exp=9007200922056360~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=e62c7d9dd85145e94e634873c63117c24400c68c65b6d0615fd12e396a82782a
 #EXTINF:-1 tvg-ID="SPOTV2.kr" group-title="🇰🇷| Sports Korea" tvg-logo="https://i.imgur.com/xeATohI.png", KR: SpoTV 2 HD
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652599386~exp=9007200907340377~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=174e0f6dc30e0a421e821016b1288d10ac27ab338c54aaa8ac21afd8c96ff2e3
+
+#-*-- Sports Australia -*--#
+#EXTINF:-1 tvg-id="OptusSport1.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/vDtIJvd.png", AU: Optus Sport 1
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376362
+#EXTINF:-1 tvg-id="OptusSport2.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/0Y5VndY.png", AU: Optus Sport 2
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376363
+#EXTINF:-1 tvg-id="OptusSport3.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/exP5K3m.png", AU: Optus Sport 3
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376364
+#EXTINF:-1 tvg-id="OptusSport4.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/D2aJFAH.png", AU: Optus Sport 4
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376365
+#EXTINF:-1 tvg-id="OptusSport5.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/EhwTWS4.png", AU: Optus Sport 5
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376366
+#EXTINF:-1 tvg-id="OptusSport6.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/nbfURnY.png", AU: Optus Sport 6
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376367
+#EXTINF:-1 tvg-id="OptusSport7.au" group-title="🇦🇺| Sports Australia" tvg-logo="", AU: Optus Sport 7
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376368
+#EXTINF:-1 tvg-id="OptusSport8.au" group-title="🇦🇺| Sports Australia" tvg-logo="", AU: Optus Sport 8
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376369
+#EXTINF:-1 tvg-id="OptusSport9.au" group-title="🇦🇺| Sports Australia" tvg-logo="", AU: Optus Sport 9
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376370
+#EXTINF:-1 tvg-id="OptusSport10.au" group-title="🇦🇺| Sports Australia" tvg-logo="", AU: Optus Sport 10
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376371
+#EXTINF:-1 tvg-id="OptusSport11.au" group-title="🇦🇺| Sports Australia" tvg-logo="", AU: Optus Sport 11
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376372
+#EXTINF:-1 tvg-id="OptusSport12.au" group-title="🇦🇺| Sports Australia" tvg-logo="", AU: Optus Sport 12
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376373
+
+#-*-- Sports Thailand -*--#
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/qVKmmzl.png", True Premier Football 1
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=115759&extension=ts&play_token=vQqqCOvtjV
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/WOCQXij.png", True Premier Football 2
+http://driptvs.com:8080/JHNzfsy1qN/tn6jVf1qW2/173629?play_token=n0bfPLmt4O
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/eiST92o.png", True Premier Football 3
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/bGAde1k.png", True Premier Football 4
+ttps://cdn.googlecdnforstreaming.live/dbf789/epl4/chunks.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/bWsMF2O.png", True Premier Football 5
+https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSports1.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/lPFAHMo.png", TrueSports 1
+https://sport.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSports2.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/KuyXSJP.png", TrueSports 2
+https://cdn.googlecdnforstreaming.live/dbf789/tsp2/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSports5.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/PJDN6vS.png", TrueSports 5
+https://cdn.googlecdnforstreaming.live/dbf789/tsp5/chunks.m3u8
+
+#-*-- Sports Singapore -*--#
+#EXTINF:-1 tvg-id="HubPremier1.sg" group-title="🇸🇬| Sports Singapore" tvg-logo="https://i.postimg.cc/dV0kjNZh/221-1920x1080-HTV.png", HUB Premier 1
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=136490&extension=ts&play_token=FEvSUSw6uH
+#EXTINF:-1 tvg-id="HubPremier2.sg" group-title="🇸🇬| Sports Singapore" tvg-logo="https://i.postimg.cc/L80qCkjN/222-1920x1080-HTV.png", HUB Premier 2
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=136491&extension=ts&play_token=DWKIG1sngO
+#EXTINF:-1 tvg-id="HubPremier3.sg" group-title="🇸🇬| Sports Singapore" tvg-logo="https://i.postimg.cc/wBC1H6fN/223-1920x1080-HTV.png", HUB Premier 3
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=136492&extension=ts&play_token=K1xkSOvMJK
+#EXTINF:-1 tvg-id="HubPremier4.sg" group-title="🇸🇬| Sports Singapore" tvg-logo="https://i.postimg.cc/Y9QhCJZs/224-1920x1080-HTV.png", HUB Premier 4
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=136493&extension=ts&play_token=hfizdBn2j6
+#EXTINF:-1 tvg-id="HubPremier5.sg" group-title="🇸🇬| Sports Singapore" tvg-logo="https://i.postimg.cc/br8dDmjN/225-1920x1080-HTV.png", HUB Premier 5
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=136494&extension=ts&play_token=EJ0RZLKlBX
+
+#-*-- Sports Switzerland -*--#
+#EXTINF:-1 tvg-id="BlueSport1.ch" tvg-logo="https://i.imgur.com/6XMSO04.png" group-title="🇨🇭| Sports Switzerland", Blue Sport 1 HD
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=106662&extension=ts&play_token=M5pOvzYI7P
+#EXTINF:-1 tvg-id="BlueSport2.ch" tvg-logo="https://i.imgur.com/oTEbRv2.png" group-title="🇨🇭| Sports Switzerland", Blue Sport 2 HD
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=106663&extension=ts&play_token=7aQdYpg7Ov
 
 #-*-- Sports Russia/Ukraine -*--#
 #EXTINF:-1 tvg-ID="SetantaSports1.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png", UA: Setanta Sports 1 HD
