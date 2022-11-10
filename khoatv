@@ -1718,28 +1718,47 @@ http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=348096&exte
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" group-title="4K UHD" tvg-logo="https://i.imgur.com/QhJ38Hx.png", Fashion TV 4K UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BTSportUltimate.uk" group-title="4K UHD" tvg-logo="https://i.imgur.com/3DkkHmG.png", UK: BT Sport Ultimate UHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/224931
 
 #-*-- Sports UK -*--#
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/rsT6Cu2.png", UK: Sky Sports Football FHD
-http://123.24.29.129:8889/iprotv.php?id=15069
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53980
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/Bi8uR5O.png", UK: Sky Sports Main Event FHD
 http://123.24.29.129:8889/iprotv.php?id=7960
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/Bi8uR5O.png", UK: Sky Sports Main Event HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53982
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/ChWdcRC.png", UK: Sky Sports Premier League FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53986
 http://aabb.is:2095/kTEkjNyx/qU6CUg7d/347474
 #EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/XBMm9XT.png", UK: Sky Sports Arena FHD
 http://123.24.29.129:8889/iprotv.php?id=15068
+#EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/XBMm9XT.png", UK: Sky Sports Arena HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53977
 #EXTINF:-1 tvg-id="SkySportsAction.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/sngAWff.png", UK: Sky Sports Action FHD
 http://123.24.29.129:8889/iprotv.php?id=7956
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/nhhbHvs.png", UK: Sky Sports Golf FHD
 http://123.24.29.129:8889/iprotv.php?id=7954
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/nhhbHvs.png", UK: Sky Sports Golf HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53981
 #EXTINF:-1 tvg-id="SkySportsF1.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png", UK: Sky Sports F1 FHD
 http://123.24.29.129:8889/iprotv.php?id=7951
+#EXTINF:-1 tvg-id="SkySportsF1.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png", UK: Sky Sports F1 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53979
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/Wn1fS4q.png", UK: Sky Sports Racing FHD
-http://123.24.29.129:8889/iprotv.php?id=127984
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53987
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G1VySM3.png", UK: Sky Sports Cricket FHD
 http://123.24.29.129:8889/iprotv.php?id=7958
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G1VySM3.png", UK: Sky Sports Cricket HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53978
+#EXTINF:-1 tvg-id="SkySportsNFL.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/5zXJNC9.png", UK: Sky Sports NFL HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53985
 #EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0CdrFCz.png", UK: Sky Sports Mix FHD
 http://123.24.29.129:8889/iprotv.php?id=17931
+#EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0CdrFCz.png", UK: Sky Sports Mix HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53983
+#EXTINF:-1 tvg-id="SkySportsNews.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/FizZY9D.png", UK: Sky Sports News HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53984
 #EXTINF:-1 tvg-id="PremierSports.uk" group-title="🇬🇧| Sports UK" tvg-logo="", UK: Premier Sports FHD
 http://123.24.29.129:8889/iprotv.php?id=75859
 #EXTINF:-1 tvg-id="Premiersports2.uk" group-title="🇬🇧| Sports UK" tvg-logo="", UK: Premier Sports 2 FHD
@@ -1750,20 +1769,30 @@ http://123.24.29.129:8889/ultratv.php?id=8676
 http://123.24.29.129:8889/ultratv.php?id=8677
 #EXTINF:-1 tvg-id="BTSport1HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-1-hd-uk.png", UK: BT Sport 1 FHD
 http://123.24.29.129:8889/iprotv.php?id=7963
-#EXTINF:-1 tvg-id="BTSport1HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png", UK: BT Sport 1 FHD Server 2
-http://123.24.29.129:8889/evol.php?id=17281
+#EXTINF:-1 tvg-id="BTSport1HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png", UK: BT Sport 1 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53850
 #EXTINF:-1 tvg-id="BTSport2HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-2-hd-uk.png", UK: BT Sport 2 FHD
 http://123.24.29.129:8889/iprotv.php?id=7962
-#EXTINF:-1 tvg-id="BTSport2HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png", UK: BT Sport 2 FHD Server 2
-http://123.24.29.129:8889/evol.php?id=17280
+#EXTINF:-1 tvg-id="BTSport2HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png", UK: BT Sport 2 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53851
 #EXTINF:-1 tvg-id="BTSport3HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-3-hd-uk.png", UK: BT Sport 3 FHD
 http://123.24.29.129:8889/iprotv.php?id=7961
-#EXTINF:-1 tvg-id="BTSport3HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png", UK: BT Sport 3 FHD Server 2
-http://123.24.29.129:8889/evol.php?id=17279
+#EXTINF:-1 tvg-id="BTSport3HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png", UK: BT Sport 3 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53852
 #EXTINF:-1 tvg-id="BTSport4HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png", UK: BT Sport 4 FHD
 http://123.24.29.129:8889/evol.php?id=311556
-#EXTINF:-1 tvg-id="BTSport4HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png", UK: BT Sport 4 FHD Server 2
-http://123.24.29.129:8889/evol.php?id=311555
+#EXTINF:-1 tvg-id="BTSport5HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
+#EXTINF:-1 tvg-id="BTSport6HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YDOHRj0.png", UK: BT Sport 6 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
+#EXTINF:-1 tvg-id="BTSport7HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/eZcw1vZ.png", UK: BT Sport 7 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
+#EXTINF:-1 tvg-id="BTSport8HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/9XfEzzF.png", UK: BT Sport 8 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
+#EXTINF:-1 tvg-id="BTSport9HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G6h39C6.png", UK: BT Sport 9 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
+#EXTINF:-1 tvg-id="BTSport10HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/cMzugLy.png", UK: BT Sport 10 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
 #EXTINF:-1 tvg-id="BTSportESPN.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png", UK: BT Sport ESPN FHD
 http://123.24.29.129:8889/ultratv.php?id=29806
 #EXTINF:-1 tvg-id="BTSportESPN.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png", UK: BT Sport ESPN FHD Server 2
@@ -2102,47 +2131,68 @@ http://123.24.29.129:8889/ultratv.php?id=161948
 
 #-*-- Sports South Africa -*--#
 #EXTINF:-1 tvg-ID="SuperSportPremierLeague.za" group-title="🇿🇦 | Sports Africa" group-title="🇿🇦 | Sports Africa"="AF: SuperSport Premier League FHD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png", AF: SuperSport Premier League FHD
-http://123.24.29.129:8889/icool.php?id=145094
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56768
 #EXTINF:-1 tvg-ID="SuperSportAction.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png", AF: SuperSport Action FHD
-http://123.24.29.129:8889/icool.php?id=145088
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56759
 #EXTINF:-1 tvg-ID="SuperSportBlitz.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/kwQzFEF.png", AF: Supersport Blitz FHD
-http://123.24.29.129:8889/icool.php?id=145087
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56760
 #EXTINF:-1 tvg-ID="SuperSportFootball.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png", AF: Supersport Football FHD
-http://123.24.29.129:8889/icool.php?id=208087
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56762
 #EXTINF:-1 tvg-ID="SuperSportFootballPlus.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_FootballPlus_4-3_004_xlrg.png", AF: SuperSport Football Plus FHD
 http://123.24.29.129:8889/icool.php?id=145095
 #EXTINF:-1 tvg-ID="SuperSportGrandstand.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Grandstand_4-3_001_xlrg.png", AF: SuperSport Grandstand FHD
-http://123.24.29.129:8889/icool.php?id=145093
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56764
 #EXTINF:-1 tvg-ID="SuperSportLaLiga.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png", AF: SuperSport La Liga FHD
-http://123.24.29.129:8889/icool.php?id=145090
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56765
 #EXTINF:-1 tvg-ID="SuperSportMaximo.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Maximo1_4-3_001_xlrg.png", AF: SuperSport Maximo FHD
-http://123.24.29.129:8889/icool.php?id=145100
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56766
 #EXTINF:-1 tvg-ID="SuperSportPSL.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PSL_4-3_002_xlrg.png", AF: SuperSport PSL FHD
-http://123.24.29.129:8889/icool.php?id=145089
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56769
 #EXTINF:-1 tvg-ID="SuperSportPlay.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/02/SS_Logo_Play_4-3_001_xlrg.png", AF: SuperSport Play 1 FHD
-http://123.24.29.129:8889/icool.php?id=145085
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199589
 #EXTINF:-1 tvg-ID="SuperSportPlay2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Play 2 FHD
 http://123.24.29.129:8889/icool.php?id=145084
 #EXTINF:-1 tvg-ID="" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Events FHD
 http://123.24.29.129:8889/icool.php?id=145086
 #EXTINF:-1 tvg-ID="SuperSportGolf.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Golf_4-3_xlrg.png", AF: SuperSport Golf FHD
-http://123.24.29.129:8889/icool.php?id=145096
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56763
 #EXTINF:-1 tvg-ID="SuperSportMotorsport.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Motorsport_4-3_001_xlrg.png", AF: SuperSport Motorsport FHD
-http://123.24.29.129:8889/icool.php?id=192751
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56767
 #EXTINF:-1 tvg-ID="SuperSportCricket.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Cricket_4-3_001_xlrg.png", AF: SuperSport Circket FHD
-http://123.24.29.129:8889/icool.php?id=145097
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56761
 #EXTINF:-1 tvg-ID="SuperSportRugby.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Rugby_4-3_001_xlrg.png", AF: SuperSport Rugby FHD
-http://123.24.29.129:8889/icool.php?id=145098
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56770
 #EXTINF:-1 tvg-ID="SuperSportTennis.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png", AF: SuperSport Tennis FHD
-http://123.24.29.129:8889/icool.php?id=145099
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56771
 #EXTINF:-1 tvg-ID="SuperSportVariety1.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety1_4-3_005_xlrg.png", AF: SuperSport Variety 1 FHD
-http://123.24.29.129:8889/icool.php?id=145092
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56772
 #EXTINF:-1 tvg-ID="SuperSportVariety2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety2_4-3_005_xlrg.png", AF: SuperSport Variety 2 FHD
-http://123.24.29.129:8889/icool.php?id=145091
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56773
 #EXTINF:-1 tvg-ID="SuperSportVariety3.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety3_4-3_007_xlrg.png", AF: Supersport Variety 3 FHD
-http://123.24.29.129:8889/icool.php?id=208086
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56774
 #EXTINF:-1 tvg-ID="SuperSportVariety4.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport Variety 4 FHD
-http://123.24.29.129:8889/icool.php?id=37806
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56775
+#EXTINF:-1 tvg-ID="SuperSportESPN.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport ESPN FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199587
+#EXTINF:-1 tvg-ID="SuperSportESPN2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport ESPN 2 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199588
+#EXTINF:-1 tvg-ID="SuperSportOTT.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225456
+#EXTINF:-1 tvg-ID="SuperSportOTT2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT 2 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225457
+#EXTINF:-1 tvg-ID="SuperSportOTT3.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT 3 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225458
+#EXTINF:-1 tvg-ID="SuperSportOTT4.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT 4 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225459
+#EXTINF:-1 tvg-ID="SuperSportOTT5.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT 5 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225460
+#EXTINF:-1 tvg-ID="SuperSportOTT6.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT 6 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225461
+#EXTINF:-1 tvg-ID="SuperSportOTT7.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT 7 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225462
+#EXTINF:-1 tvg-ID="SuperSportOTT8.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT 8 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225463
+
 
 #-*-- Sports Portugal -*--#
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV + FHD
@@ -2475,6 +2525,26 @@ http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=1
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=106662&extension=ts&play_token=M5pOvzYI7P
 #EXTINF:-1 tvg-id="BlueSport2.ch" tvg-logo="https://i.imgur.com/oTEbRv2.png" group-title="🇨🇭| Sports Switzerland", Blue Sport 2 HD
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=106663&extension=ts&play_token=7aQdYpg7Ov
+
+#-*-- Sports Canada -*--#
+#EXTINF:-1 tvg-id="" group-title="🇨🇦| Sports Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/512px-SN_360_logo.svg.png", CA: NBC Golf HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55088
+#EXTINF:-1 tvg-id="Sportsnet360.ca" group-title="🇨🇦| Sports Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/512px-SN_360_logo.svg.png", CA: Sportsnet 360 HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55089
+#EXTINF:-1 tvg-id="SportsnetEast.ca" group-title="🇨🇦| Sports Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png", CA: Sportsnet East HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55090
+#EXTINF:-1 tvg-id="SportsnetOne.ca" group-title="🇨🇦| Sports Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/512px-Sportsnetone2011.svg.png", CA: Sportsnet One HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55091
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" group-title="🇨🇦| Sports Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SportsnetOntario2011.png/512px-SportsnetOntario2011.png", CA: Sportsnet Ontario HD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55092
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" group-title="🇨🇦| Sports Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/SportsnetPacific2011.png/512px-SportsnetPacific2011.png", CA: Sportsnet Pacific SD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55093
+#EXTINF:-1 tvg-id="SportsnetWest.ca" group-title="🇨🇦| Sports Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png", CA: Sportsnet West SD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55094
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" group-title="🇨🇦| Sports Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/512px-SportsnetWorld.svg.png", CA: Sportsnet World FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55095
+#EXTINF:-1 tvg-id="TVASports.ca" group-title="🇨🇦| Sports Canada" tvg-logo="http://n2086.securepoint.io:25461/images/47005231a0ada3c025e8338fd5bc088a.png", CA: TVA Sports HD SD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55096
 
 #-*-- Sports Russia/Ukraine -*--#
 #EXTINF:-1 tvg-ID="SetantaSports1.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png", UA: Setanta Sports 1 HD
