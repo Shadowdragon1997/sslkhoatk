@@ -1707,7 +1707,7 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425322
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/10444
 #EXTINF:-1 tvg-id="RMCSportAccess1.fr" group-title="4K UHD" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport Access 1 4K
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553682&extension=ts&play_token=7QAeylScfQ
-#EXTINF:-1 tvg-id="RMCSportAccess2.fr"group-title="4K UHD"  tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport Access 2 4K
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" group-title="4K UHD" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport Access 2 4K
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553683&extension=ts&play_token=Roo7UruFmU
 
 #-*-- Sports UK -*--#
