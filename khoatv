@@ -1691,6 +1691,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #-*-- 4KUHD TV -*--#
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" group-title="4K UHD" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sports 1 4K UHD
 http://123.24.29.129:8889/ultratv.php?id=280621
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/26294
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="4K UHD" tvg-logo="https://i.imgur.com/094dRsI.png", MY: Astro Supersport 4K UHD
 http://123.24.29.129:8889/ultratv.php?id=279951
 #EXTINF:-1 tvg-id="" group-title="4K UHD" tvg-logo="", DE: Bundesliga UHD
@@ -1699,6 +1700,15 @@ http://123.24.29.129:8889/ultratv.php?id=273890
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" group-title="4K UHD" tvg-logo="https://i.imgur.com/QhJ38Hx.png", Fashion TV 4K UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="NowSports4K.hk" group-title="4K UHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115", HK: Now Sports 4K
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=117957&extension=ts&play_token=coxgvZMgUD
+#EXTINF:-1 tvg-id="SportTV1.pt" group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV1 4K
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/10444
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" group-title="4K UHD" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport Access 1 4K
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553682&extension=ts&play_token=7QAeylScfQ
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr"group-title="4K UHD"  tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport Access 2 4K
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553683&extension=ts&play_token=Roo7UruFmU
 
 #-*-- Sports UK -*--#
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/rsT6Cu2.png", UK: Sky Sports Football FHD
@@ -1978,8 +1988,6 @@ http://123.24.29.129:8889/ultratv.php?id=130746
 http://123.24.29.129:8889/ultratv.php?id=9652
 
 #-*-- Sports HK/Taiwan -*--#
-#EXTINF:-1 tvg-ID="NowSports4K.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115", HK: Now Sports 4K
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115", HK: Now Sports Premier League 1 FHD
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115", HK: Now Sports Premier League 2 FHD
@@ -2175,37 +2183,43 @@ http://123.24.29.129:8889/evol.php?id=107503
 #EXTINF:-1 tvg-ID="SportTVNBA.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="", PT: Sport TV NBA FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=164982
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD
-http://123.24.29.129:8889/evol.php?id=107504
+#EXTVLCOPT:http-user-agent=KhoaTivi
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/58550
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222449
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94661
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD
-http://123.24.29.129:8889/evol.php?id=107505
+#EXTVLCOPT:http-user-agent=KhoaTivi
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/58551
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222450
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94660
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD
-http://123.24.29.129:8889/evol.php?id=107506
+#EXTVLCOPT:http-user-agent=KhoaTivi
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/58552
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222451
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94659
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD
-http://123.24.29.129:8889/evol.php?id=107507
+#EXTVLCOPT:http-user-agent=KhoaTivi
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/58553
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222452
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94658
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD
-http://123.24.29.129:8889/evol.php?id=107508
+#EXTVLCOPT:http-user-agent=KhoaTivi
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/58554
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222453
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 3
 http://123.24.29.129:8889/ultratv.php?id=94657
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD
-http://123.24.29.129:8889/evol.php?id=107509
+#EXTVLCOPT:http-user-agent=KhoaTivi
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/58555
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 2
 http://123.24.29.129:8889/prostv.php?id=222454
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 3
