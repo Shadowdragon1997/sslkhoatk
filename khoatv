@@ -505,7 +505,7 @@ http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J7FDG09vJTF4nfUZzbHh9Q","kid":"im6sD6n5Qx+dDVnZky0QoQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668168682~acl=/*~hmac=9fe48ec9050dc18258692b02b528e308c57d2798df428bed48950f57466768f6
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668191213~acl=/*~hmac=56bb4e5229a4f3e2341563d1c393f7e663c55bc282113b22657c882b056aff95
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -522,7 +522,7 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ONXUTM/BEWfXZ6q5a0aZYg","kid":"T0+xk9gxRD6vCQJYnGK9kg"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668168681~acl=/*~hmac=b96097745260986777a5c446f3dedefcf1bb14fb4e1660a98971770d61ac6a2e
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668191213~acl=/*~hmac=56bb4e5229a4f3e2341563d1c393f7e663c55bc282113b22657c882b056aff95
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -539,7 +539,7 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bjUl9uzP3LXeMMkuA0RTEA","kid":"f8Fal2eeRV+mlRumcuZhUQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668168681~acl=/*~hmac=b96097745260986777a5c446f3dedefcf1bb14fb4e1660a98971770d61ac6a2e
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668191212~acl=/*~hmac=4639070752fd8281d281e065a974af44992fabfa616d6ed97d77ee80eb605019
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -556,7 +556,7 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XblobMwmRx/Z7NCHdeVpBw","kid":"87+txM+eR/SddLBnp4Y7HA"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668168681~acl=/*~hmac=b96097745260986777a5c446f3dedefcf1bb14fb4e1660a98971770d61ac6a2e
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668191213~acl=/*~hmac=56bb4e5229a4f3e2341563d1c393f7e663c55bc282113b22657c882b056aff95
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
