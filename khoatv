@@ -567,7 +567,7 @@ http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668124823~
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=2a61a74420d336289a90f1b0dd0b6fab&key=6ee06cbfd2d2eb2d7f237a4bd0edb42b
-https://raintv.tk/get/links/ksport1hd/index.mpd
+https://raintv.tk/get/fpt/sp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
