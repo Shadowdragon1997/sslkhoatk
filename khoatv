@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/th.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr.xml.gz,https://iptv-org.github.io/epg/guides/au.xml.gz,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/sg.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/bg.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/qa.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/hk.xml.gz,https://iptv-org.github.io/epg/guides/at.xml.gz,https://iptv-org.github.io/epg/guides/de.xml.gz,https://iptv-org.github.io/epg/guides/my.xml.gz,https://iptv-org.github.io/epg/guides/za.xml.gz,https://iptv-org.github.io/epg/guides/pt.xml.gz,https://iptv-org.github.io/epg/guides/pl.xml.gz,https://iptv-org.github.io/epg/guides/ro.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/ru.xml.gz"
+#EXTM3U url-tvg="https://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/th.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr.xml.gz,https://iptv-org.github.io/epg/guides/au.xml.gz,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/sg.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/bg.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/qa.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/hk.xml.gz,https://iptv-org.github.io/epg/guides/at.xml.gz,https://iptv-org.github.io/epg/guides/de.xml.gz,https://iptv-org.github.io/epg/guides/my.xml.gz,https://iptv-org.github.io/epg/guides/za.xml.gz,https://iptv-org.github.io/epg/guides/pt.xml.gz,https://iptv-org.github.io/epg/guides/pl.xml.gz,https://iptv-org.github.io/epg/guides/ro.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/ru.xml.gz"
 
 #-*-- Livestream bóng đá -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 1
@@ -505,7 +505,7 @@ http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J7FDG09vJTF4nfUZzbHh9Q","kid":"im6sD6n5Qx+dDVnZky0QoQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668239743~acl=/*~hmac=c5b401556b5ef83d52a1483b4b099297dc56ec5be786a155fb81821f8780dcfd
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668270343~acl=/*~hmac=9269d5a9b57cf94c5fced8afc780e88c146c499d5aea492bc1363c8cd9a3fe73
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -522,7 +522,7 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ONXUTM/BEWfXZ6q5a0aZYg","kid":"T0+xk9gxRD6vCQJYnGK9kg"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668239742~acl=/*~hmac=35a04722eee9694669bcc4ff7224a0f277ca7525e35d09c712280389b5632f03
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668270343~acl=/*~hmac=9269d5a9b57cf94c5fced8afc780e88c146c499d5aea492bc1363c8cd9a3fe73
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -539,7 +539,7 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bjUl9uzP3LXeMMkuA0RTEA","kid":"f8Fal2eeRV+mlRumcuZhUQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668239742~acl=/*~hmac=35a04722eee9694669bcc4ff7224a0f277ca7525e35d09c712280389b5632f03
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668270342~acl=/*~hmac=165863da530252a3a96028e045d132781d18ec75b8a3445b57cf9594670a0b95
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -556,7 +556,7 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XblobMwmRx/Z7NCHdeVpBw","kid":"87+txM+eR/SddLBnp4Y7HA"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668239742~acl=/*~hmac=35a04722eee9694669bcc4ff7224a0f277ca7525e35d09c712280389b5632f03
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668270342~acl=/*~hmac=165863da530252a3a96028e045d132781d18ec75b8a3445b57cf9594670a0b95
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1683,7 +1683,7 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/26294
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="4K UHD" tvg-logo="https://i.imgur.com/094dRsI.png", MY: Astro Supersport 4K UHD
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=348094&extension=ts&play_token=4ncsHyO035
 http://113.190.71.54:8889/ultratv.php?id=279951
-#EXTINF:-1 tvg-id="" group-title="4K UHD" tvg-logo="", DE: Bundesliga UHD
+#EXTINF:-1 tvg-id="SkySportBundesligaUHD.de" group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png/512px-Sky_Sport_Bundesliga_UHD_Logo_2020.png", DE: Sky Sport Bundesliga UHD
 http://113.190.71.54:8889/ultratv.php?id=273890
 #EXTINF:-1 tvg-ID="NowSports4K.hk" group-title="4K UHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115", HK: Now Sports 4K
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=117957&extension=ts&play_token=coxgvZMgUD
@@ -1825,9 +1825,11 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418188
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418199
 
 #-*-- Sports Spain -*--#
-#EXTINF:-1 tvg-id="DAZN1.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Dazn 1 FHD
+#EXTINF:-1 tvg-id="BarcaTV.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/E2VDORP.png", ES: Dazn 1 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/130818
+#EXTINF:-1 tvg-id="DAZN1Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/9A63D4g.png", ES: Dazn 1 FHD
 http://113.190.71.54:8889/ultratv.php?id=7862
-#EXTINF:-1 tvg-id="DAZN2.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Dazn 2 FHD
+#EXTINF:-1 tvg-id="DAZN2Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/BevbzGm.png", ES: Dazn 2 FHD
 http://113.190.71.54:8889/ultratv.php?id=10919
 #EXTINF:-1 tvg-id="Eurosport1.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Eurosport 1 FHD
 http://113.190.71.54:8889/ultratv.php?id=114840
@@ -2083,13 +2085,25 @@ http://113.190.71.54:8889/ultratv.php?id=10296
 #EXTINF:-1 tvg-ID="SkySport4Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sky_Sport_4_DE_Logo_2020.svg/512px-Sky_Sport_4_DE_Logo_2020.svg.png", DE: Sky Sport 4 FHD
 http://113.190.71.54:8889/ultratv.php?id=10295
 #EXTINF:-1 tvg-ID="SkySportBundesliga1.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/512px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png", DE: Sky Bundesliga 1 FHD
-http://113.190.71.54:8889/ultratv.php?id=7812
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204948
 #EXTINF:-1 tvg-ID="SkySportBundesliga2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png/512px-Sky_Sport_Bundesliga_2_Logo_2020.png", DE: Sky Bundesliga 2 FHD
-http://113.190.71.54:8889/ultratv.php?id=10293
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204949
 #EXTINF:-1 tvg-ID="SkySportBundesliga3.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png/512px-Sky_Sport_Bundesliga_3_Logo_2020.png", DE: Sky Bundesliga 3 FHD
-http://113.190.71.54:8889/ultratv.php?id=10292
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204950
 #EXTINF:-1 tvg-ID="SkySportBundesliga4.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png/512px-Sky_Sport_Bundesliga_4_Logo_2020.png", DE: Sky Bundesliga 4 FHD
-http://113.190.71.54:8889/ultratv.php?id=10291
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204951
+#EXTINF:-1 tvg-ID="SkySportBundesliga5.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cd/Sky_Sport_Bundesliga_5_Logo_2020.png/512px-Sky_Sport_Bundesliga_5_Logo_2020.png", DE: Sky Bundesliga 5 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204952
+#EXTINF:-1 tvg-ID="SkySportBundesliga6.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/ad/Sky_Sport_Bundesliga_6_Logo_2020.png/512px-Sky_Sport_Bundesliga_6_Logo_2020.png", DE: Sky Bundesliga 6 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204953
+#EXTINF:-1 tvg-ID="SkySportBundesliga7.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/eb/Sky_Sport_Bundesliga_7_Logo_2020.png/512px-Sky_Sport_Bundesliga_7_Logo_2020.png", DE: Sky Bundesliga 7 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204955
+#EXTINF:-1 tvg-ID="SkySportBundesliga8.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/4f/Sky_Sport_Bundesliga_8_Logo_2020.png/512px-Sky_Sport_Bundesliga_8_Logo_2020.png", DE: Sky Bundesliga 8 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204956
+#EXTINF:-1 tvg-ID="SkySportBundesliga9.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Sky_Sport_Bundesliga_9_Logo_2020.png/512px-Sky_Sport_Bundesliga_9_Logo_2020.png", DE: Sky Bundesliga 9 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204957
+#EXTINF:-1 tvg-ID="SkySportBundesliga10.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/22/Sky_Sport_Bundesliga_10_Logo_2020.png/512px-Sky_Sport_Bundesliga_10_Logo_2020.png", DE: Sky Bundesliga 10 FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204958
 #EXTINF:-1 tvg-ID="Eurosport1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/z3fQ87X.png", DE: Eurosport 1 FHD
 http://113.190.71.54:8889/ultratv.php?id=7817
 #EXTINF:-1 tvg-ID="Eurosport2Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/0xpN9B6.png", DE: Eurosport 2 FHD
@@ -2106,14 +2120,24 @@ http://113.190.71.54:8889/prostv.php?id=247244
 #-*-- Sports Astro Malaysia -*--#
 #EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121198&extension=ts&play_token=BOAeBoOX3V
+#EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD Server 2
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197514
 #EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/q5PF6im.png", MY: Astro Supersport 2 FHD
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121199&extension=ts&play_token=SqVsO3O6I2
+#EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/q5PF6im.png", MY: Astro Supersport 2 FHD Server 2
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197515
 #EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/mm8mc0t.png", MY: Astro Supersport 3 FHD
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121200&extension=ts&play_token=O5Nw5KvFJ4
+#EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/mm8mc0t.png", MY: Astro Supersport 3 FHD Server 2
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197516
 #EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121201&extension=ts&play_token=Qf3Pe4Yuep
+#EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD Server 2
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197517
 #EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121202&extension=ts&play_token=IfgkirxGGk
+#EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD Server 2
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197518
 #EXTINF:-1 tvg-ID="AstroArena.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/IPK9f6h.png", MY Astro: Arena FHD
 http://113.190.71.54:8889/ultratv.php?id=161948
 
@@ -2180,7 +2204,8 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225461
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225462
 #EXTINF:-1 tvg-ID="SuperSportOTT8.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/04/25/SuperSport_Logo_4-3_001_xlrg.png", AF: SuperSport OTT 8 FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225463
-
+#EXTINF:-1 tvg-ID="SuperSportWWE.za" group-title="🇿🇦 | Sports Africa" tvg-logo="http://n2086.securepoint.io:25461/images/f1391761110ead27fc34451934e88211.png", AF: SuperSport WWE FHD
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199590
 
 #-*-- Sports Portugal -*--#
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV + FHD
@@ -2477,6 +2502,30 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376371
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376372
 #EXTINF:-1 tvg-id="OptusSport12.au" group-title="🇦🇺| Sports Australia" tvg-logo="", AU: Optus Sport 12
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376373
+#EXTINF:-1 tvg-id="beINSports1.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/Vtk2cGI.png", AU: beIN Sports 1 Australia
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/112415
+#EXTINF:-1 tvg-id="beINSports2.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/vUJZSvs.png", AU: beIN Sports 2 Australia
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/112416
+#EXTINF:-1 tvg-id="beINSports3.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/UYSMao3.png", AU: beIN Sports 3 Australia
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/112417
+#EXTINF:-1 tvg-id="ESPNAustralia.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", AU: ESPN 1
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/181894
+#EXTINF:-1 tvg-id="ESPN2Australia.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png", AU: ESPN 2
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/181895
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="🇦🇺| Sports Australia" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png", AU: FOX SPORTS 501
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/57493
+#EXTINF:-1 tvg-id="FoxLeague.au" group-title="🇦🇺| Sports Australia" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png", AU: FOX SPORTS 502
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/57494
+#EXTINF:-1 tvg-id="FoxSports503.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/xu7LBap.png", AU: FOX SPORTS 503
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/57495
+#EXTINF:-1 tvg-id="FoxSports504.au" group-title="🇦🇺| Sports Australia" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png", AU: FOX SPORTS 504
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/57496
+#EXTINF:-1 tvg-id="FoxSports505.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/sbooXpg.png", AU: FOX SPORTS 505
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/57497
+#EXTINF:-1 tvg-id="FoxSports506.au" group-title="🇦🇺| Sports Australia" tvg-logo="https://i.imgur.com/sbooXpg.png", AU: FOX SPORTS 506
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/57498
+#EXTINF:-1 tvg-id="FoxSports507.au" group-title="🇦🇺| Sports Australia" tvg-logo="http://n2086.securepoint.io:25461/images/175d7963936f16d8d5b81f02bf3e4796.png", AU: FOX SPORTS 507
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/57499
 
 #-*-- Sports Thailand -*--#
 #EXTINF:-1 tvg-id="TruePremierFootball1.th" group-title="🇹🇭| Sports Thailand" tvg-logo="https://i.imgur.com/qVKmmzl.png", True Premier Football 1
@@ -2534,6 +2583,44 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55095
 #EXTINF:-1 tvg-id="TVASports.ca" group-title="🇨🇦| Sports Canada" tvg-logo="http://n2086.securepoint.io:25461/images/47005231a0ada3c025e8338fd5bc088a.png", CA: TVA Sports HD SD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55096
 
+#-*-- Sports Croatia -*--#
+#EXTINF:-1 tvg-id="ArenaSport1Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/RJrJGbW.png", HR: ARENA SPORT 01
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225657
+#EXTINF:-1 tvg-id="ArenaSport2Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/aqlECBj.png", HR: ARENA SPORT 02
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225658
+#EXTINF:-1 tvg-id="ArenaSport3Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/3r3burN.png", HR: ARENA SPORT 03
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225659
+#EXTINF:-1 tvg-id="ArenaSport4Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/h1XhGkz.png", HR: ARENA SPORT 04
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225660
+#EXTINF:-1 tvg-id="ArenaSport5Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/036qMgu.png", HR: ARENA SPORT 05
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225661
+#EXTINF:-1 tvg-id="ArenaSport6Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/Z5PE4vx.png", HR: ARENA SPORT 06
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225662
+
+#-*-- Sports Colombia -*--#
+#EXTINF:-1 tvg-id="WinSports.co" group-title="🇨🇴| Sports Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/512px-WinSports2017.png", CO: Win Sports
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/160057
+#EXTINF:-1 tvg-id="WinSportsPlus.co" group-title="🇨🇴| Sports Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/512px-WinSports2017.png", CO: Win Sports +
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/160061
+
+#-*-- Sports New Zealand -*--#
+#EXTINF:-1 tvg-id="SkySport1NewZealand.nz" group-title="🇳🇿| Sports New Zealand" tvg-logo="https://i.imgur.com/ThJHEuN.png", NZ: Sky Sport 1 New Zealand
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204939
+#EXTINF:-1 tvg-id="SkySport2NewZealand.nz" group-title="🇳🇿| Sports New Zealand" tvg-logo="https://i.imgur.com/cu8yB69.png", NZ: Sky Sport 2 New Zealand
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204940
+#EXTINF:-1 tvg-id="SkySport3NewZealand.nz" group-title="🇳🇿| Sports New Zealand" tvg-logo="https://i.imgur.com/XYp3Ua3.png", NZ: Sky Sport 3 New Zealand
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204941
+#EXTINF:-1 tvg-id="SkySport4NewZealand.nz" group-title="🇳🇿| Sports New Zealand" tvg-logo="https://i.imgur.com/KUXs7SQ.png", NZ: Sky Sport 4 New Zealand
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204942
+#EXTINF:-1 tvg-id="SkySport5NewZealand.nz" group-title="🇳🇿| Sports New Zealand" tvg-logo="https://i.imgur.com/xgpKcYh.png", NZ: Sky Sport 5 New Zealand
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204943
+#EXTINF:-1 tvg-id="SkySport6NewZealand.nz" group-title="🇳🇿| Sports New Zealand" tvg-logo="https://i.imgur.com/nyjD1dU.png", NZ: Sky Sport 6 New Zealand
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204944
+#EXTINF:-1 tvg-id="SkySport7NewZealand.nz" group-title="🇳🇿| Sports New Zealand" tvg-logo="https://i.imgur.com/iuTNWh4.png", NZ: Sky Sport 7 New Zealand
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204945
+#EXTINF:-1 tvg-id="SkySport8NewZealand.nz" group-title="🇳🇿| Sports New Zealand" tvg-logo="https://i.imgur.com/8YjqlRv.png", NZ: Sky Sport 8 New Zealand
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204946
+
 #-*-- Sports Russia/Ukraine -*--#
 #EXTINF:-1 tvg-ID="SetantaSports1.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png", UA: Setanta Sports 1 HD
 http://live3.cvacetv.ga:8080/stream/channelid/1070026740
@@ -2563,37 +2650,117 @@ http://113.190.71.54:8889/ultratv.php?id=7896
 http://live3.cvacetv.ga:8080/stream/channelid/1011319346
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-12/11: SD1 Borussia Monchengladbach - Borussia Dortmund (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-12/11: SD1 Manchester City - Brentford (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-12/11: SD2 Borussia Monchengladbach - Borussia Dortmund (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-12/11: SD2 Manchester City - Brentford (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-12/11: HD Borussia Monchengladbach - Borussia Dortmund (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-12/11: HD Manchester City - Brentford (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-12/11: Full HD Borussia Monchengladbach - Borussia Dortmund (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-12/11: Full HD Manchester City - Brentford (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-12/11: Nhà Đài Borussia Monchengladbach - Borussia Dortmund (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-12/11: Nhà Đài Manchester City - Brentford (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://mitom.90phut6.live/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-12/11: SD1 Lyon - Nice (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: SD1 Bournemouth AFC - Everton (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-12/11: SD2 Lyon - Nice (Người Thỏ)
+https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: SD2 Bournemouth AFC - Everton (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-12/11: HD Lyon - Nice (Người Thỏ)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: HD Bournemouth AFC - Everton (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-12/11: Full HD Lyon - Nice (Người Thỏ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may2FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-12/11: Nhà Đài Lyon - Nice (Người Thỏ)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: Full HD Bournemouth AFC - Everton (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: Nhà Đài Bournemouth AFC - Everton (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: SD1 Tottenham Hotspur - Leeds United (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: SD2 Tottenham Hotspur - Leeds United (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: HD Tottenham Hotspur - Leeds United (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: Full HD Tottenham Hotspur - Leeds United (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: Nhà Đài Tottenham Hotspur - Leeds United (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: SD1 West Ham United - Leicester City (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may3SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: SD2 West Ham United - Leicester City (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: HD West Ham United - Leicester City (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: Full HD West Ham United - Leicester City (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may3FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-12/11: Nhà Đài West Ham United - Leicester City (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: SD1 Newcastle United - Chelsea (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: SD2 Newcastle United - Chelsea (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: HD Newcastle United - Chelsea (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: Full HD Newcastle United - Chelsea (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: Nhà Đài Newcastle United - Chelsea (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: SD1 Schalke 04 - Bayern Munchen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: SD2 Schalke 04 - Bayern Munchen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: HD Schalke 04 - Bayern Munchen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: Full HD Schalke 04 - Bayern Munchen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-13/11: Nhà Đài Schalke 04 - Bayern Munchen (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://mitom.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-13/11: SD1 Wolves - Arsenal (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may3SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-13/11: SD2 Wolves - Arsenal (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-13/11: HD Wolves - Arsenal (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-13/11: Full HD Wolves - Arsenal (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may3FHD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-13/11: Nhà Đài Wolves - Arsenal (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://mitom.90phut6.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-12/11: SD 1 Man City - Brentford (Giàng A Phò)
