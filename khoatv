@@ -1680,6 +1680,8 @@ http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=55368
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=653631&extension=ts&play_token=rF325lEWRT
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="4K UHD" tvg-logo="https://i.imgur.com/Vtk2cGI.png", QA: beIN Sports 1 UHD
 http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553684&extension=ts&play_token=aVoajBhMVn
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="4K UHD" tvg-logo="https://i.imgur.com/Vtk2cGI.png", QA: beIN Sports 1 UHD
+http://testdi1.proxytx.cloud:80/play/live.php?mac=00:1a:79:0c:14:c1&stream=553685&extension=ts&play_token=tiLIaCf8lo
 #EXTINF:-1 tvg-id="HubPremier2.sg" group-title="4K UHD" tvg-logo="https://i.postimg.cc/L80qCkjN/222-1920x1080-HTV.png", SG: Hub Premier 2 UHD
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=348096&extension=ts&play_token=NjWgFOw1q2
 #EXTINF:-1 tvg-id="LoveNature4K.ca" group-title="4K UHD" tvg-logo="https://i.imgur.com/m3jRPof.png", Love Nature 4K UHD
@@ -1735,41 +1737,41 @@ http://113.190.71.54:8889/iprotv.php?id=90555
 http://113.190.71.54:8889/ultratv.php?id=8676
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0xpN9B6.png", UK: Eurosport 2 FHD
 http://113.190.71.54:8889/ultratv.php?id=8677
-#EXTINF:-1 tvg-id="BTSport1HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-1-hd-uk.png", UK: BT Sport 1 FHD
+#EXTINF:-1 tvg-id="BTSport1.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-1-hd-uk.png", UK: BT Sport 1 FHD
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/6313
-#EXTINF:-1 tvg-id="BTSport1HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png", UK: BT Sport 1 HD
+#EXTINF:-1 tvg-id="BTSport1.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png", UK: BT Sport 1 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53850
-#EXTINF:-1 tvg-id="BTSport2HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-2-hd-uk.png", UK: BT Sport 2 FHD
+#EXTINF:-1 tvg-id="BTSport2.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-2-hd-uk.png", UK: BT Sport 2 FHD
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/6314
-#EXTINF:-1 tvg-id="BTSport2HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png", UK: BT Sport 2 HD
+#EXTINF:-1 tvg-id="BTSport2.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png", UK: BT Sport 2 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53851
-#EXTINF:-1 tvg-id="BTSport3HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-3-hd-uk.png", UK: BT Sport 3 FHD
+#EXTINF:-1 tvg-id="BTSport3.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-3-hd-uk.png", UK: BT Sport 3 FHD
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/6315
-#EXTINF:-1 tvg-id="BTSport3HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png", UK: BT Sport 3 HD
+#EXTINF:-1 tvg-id="BTSport3.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png", UK: BT Sport 3 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53852
-#EXTINF:-1 tvg-id="BTSport4HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png", UK: BT Sport 4 FHD
+#EXTINF:-1 tvg-id="BTSport4.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png", UK: BT Sport 4 FHD
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/6316
-#EXTINF:-1 tvg-id="BTSport5HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 FHD
+#EXTINF:-1 tvg-id="BTSport5.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 FHD
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9813
-#EXTINF:-1 tvg-id="BTSport5HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 HD
+#EXTINF:-1 tvg-id="BTSport5.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
-#EXTINF:-1 tvg-id="BTSport6HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YDOHRj0.png", UK: BT Sport 6 FHD
+#EXTINF:-1 tvg-id="BTSport6.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YDOHRj0.png", UK: BT Sport 6 FHD
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9814
-#EXTINF:-1 tvg-id="BTSport6HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YDOHRj0.png", UK: BT Sport 6 HD
+#EXTINF:-1 tvg-id="BTSport6.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YDOHRj0.png", UK: BT Sport 6 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
-#EXTINF:-1 tvg-id="BTSport7HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/eZcw1vZ.png", UK: BT Sport 7 FHD
+#EXTINF:-1 tvg-id="BTSport7.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/eZcw1vZ.png", UK: BT Sport 7 FHD
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9815
-#EXTINF:-1 tvg-id="BTSport7HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/eZcw1vZ.png", UK: BT Sport 7 HD
+#EXTINF:-1 tvg-id="BTSport7.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/eZcw1vZ.png", UK: BT Sport 7 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
-#EXTINF:-1 tvg-id="BTSport8HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/9XfEzzF.png", UK: BT Sport 8 FHD
+#EXTINF:-1 tvg-id="BTSport8.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/9XfEzzF.png", UK: BT Sport 8 FHD
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9816
-#EXTINF:-1 tvg-id="BTSport8HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/9XfEzzF.png", UK: BT Sport 8 HD
+#EXTINF:-1 tvg-id="BTSport8.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/9XfEzzF.png", UK: BT Sport 8 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
-#EXTINF:-1 tvg-id="BTSport9HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G6h39C6.png", UK: BT Sport 9 FHD
+#EXTINF:-1 tvg-id="BTSport9.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G6h39C6.png", UK: BT Sport 9 FHD
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9817
-#EXTINF:-1 tvg-id="BTSport9HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G6h39C6.png", UK: BT Sport 9 HD
+#EXTINF:-1 tvg-id="BTSport9.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G6h39C6.png", UK: BT Sport 9 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
-#EXTINF:-1 tvg-id="BTSport10HD.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/cMzugLy.png", UK: BT Sport 10 HD
+#EXTINF:-1 tvg-id="BTSport10.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/cMzugLy.png", UK: BT Sport 10 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
 #EXTINF:-1 tvg-id="BTSportESPN.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png", UK: BT Sport ESPN FHD
 http://113.190.71.54:8889/ultratv.php?id=29806
