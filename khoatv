@@ -97,8 +97,12 @@ http://live-vn.cvacetv.ga:8080/live3
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://live-vn.cvacetv.ga:8080/4KUHD
 
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/13/9i77645t_untitled-15fdd09d4061b111d98da1d395789c0d2_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 22:30-13/11: Feyenoord - Excelsior (Vòng 14 - VĐQG Hà Lan 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=1566897c-1bed-40e7-969d-932acdcba798
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/dxjw9qjo_banner25e849c052c43ddfacd80f8af368475b_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-09/12: Brisbane Roar - Adelaide United (Vòng 7 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=1dceb056-0e2b-446e-a268-325b3a39efab
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/cxcauob7_banner9ead6c3a35c2c327de4ecbad3a36d2fa_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-10/12: Sydney FC - Melbourne City FC (Vòng 7 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=d7cf89cf-aa74-4214-bc45-39ca6757482d
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/g09rmhcm_bannere57a29ac1b5da842ccfe859581d25f94_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-10/12: Wellington Phoenix - Western Sydney Wanderers FC (Vòng 7 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=a01fb050-e1e1-46ff-80f3-0f9538234456
 
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
@@ -495,7 +499,7 @@ http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J7FDG09vJTF4nfUZzbHh9Q","kid":"im6sD6n5Qx+dDVnZky0QoQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668367450~acl=/*~hmac=bbdfb316da8ea633aa1a0bccc24ddf710e71a4624bd03a8d3cff3ee6a6e4d446
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668418053~acl=/*~hmac=14b94bf33c9aab183161833dd77b11a61bbdc51d832e2c65b6f1eb19f854ed90
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -512,7 +516,7 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ONXUTM/BEWfXZ6q5a0aZYg","kid":"T0+xk9gxRD6vCQJYnGK9kg"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668367450~acl=/*~hmac=bbdfb316da8ea633aa1a0bccc24ddf710e71a4624bd03a8d3cff3ee6a6e4d446
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668418053~acl=/*~hmac=14b94bf33c9aab183161833dd77b11a61bbdc51d832e2c65b6f1eb19f854ed90
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -529,7 +533,7 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bjUl9uzP3LXeMMkuA0RTEA","kid":"f8Fal2eeRV+mlRumcuZhUQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668367449~acl=/*~hmac=8d533d2c33bf9d487473690b74498fbec771a3294063bf8282c3c37e3e0a6730
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668418052~acl=/*~hmac=801a4d7ad7da72e4e0599c879191936acdb561b573f80c3c0cd999e70bfa66ac
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -546,7 +550,7 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XblobMwmRx/Z7NCHdeVpBw","kid":"87+txM+eR/SddLBnp4Y7HA"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668367449~acl=/*~hmac=8d533d2c33bf9d487473690b74498fbec771a3294063bf8282c3c37e3e0a6730
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668418052~acl=/*~hmac=801a4d7ad7da72e4e0599c879191936acdb561b573f80c3c0cd999e70bfa66ac
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1218,8 +1222,6 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #-*-- Sự kiện -*--#
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/t34hqhnr_banner05fc49babcdb6a58bce85c1b7aa2497a_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-14/11: Quay số mở thưởng Vietlott 14/11/2022
 https://code.television4you.xyz/playlist/eventvieon.php?id=90569f89-8ecb-4866-b16a-a7b6a0a0a17a
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/iifeahef_microsoftteams-image4_1920_1080.png" group-title="🗓| Sự kiện", 20:00-13/11: Chung Kết Hoa Hậu Du Lịch Việt Nam 2022
-https://code.television4you.xyz/playlist/eventvieon.php?id=eca0576f-1c38-4fb1-9453-7133cbb248b3
 
 #-*-- Live Youtube -*--#
 #EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg", COVID-19 Stats
@@ -1790,17 +1792,17 @@ http://113.190.71.54:8889/ultratv.php?id=15667
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.imgur.com/4nQOtYJ.png", US: CBS Sports Network FHD
 http://113.190.71.54:8889/iprotv.php?id=10709
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD
-http://live3.cvacetv.ga/ESPN
+http://live-vn.cvacetv.ga:8080/ESPN
 #EXTINF:-1 tvg-id="ESPN2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png", US: ESPN 2 FHD
-http://live3.cvacetv.ga/ESPN2
+http://live-vn.cvacetv.ga:8080/ESPN2
 #EXTINF:-1 tvg-id="USANetworkEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png", US: USA Network FHD
 http://live-vn.cvacetv.ga:8080/USA
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png", US: Golf Channel FHD
 http://live-vn.cvacetv.ga:8080/golf
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD
-http://live3.cvacetv.ga/FS1
+http://live-vn.cvacetv.ga:8080/FS1
 #EXTINF:-1 tvg-id="FoxSports2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png", US: Fox Sports 2 FHD
-http://live3.cvacetv.ga/FS2
+http://live-vn.cvacetv.ga:8080/FS2
 #EXTINF:-1 tvg-id="TNTEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png", US: TNT East FHD
 http://live-vn.cvacetv.ga:8080/TNT
 #EXTINF:-1 tvg-id="NBATV.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.ibb.co/M13tgJC/nba-tv.png", US: NBA TV FHD
@@ -1847,12 +1849,6 @@ http://live-vn.cvacetv.ga:8880/stream/channelid/2011491260
 http://live-vn.cvacetv.ga:8880/stream/channelid/1451071581
 #EXTINF:-1 tvg-ID="DiemaSport3.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DiemaSport3logo.png/512px-DiemaSport3logo.png", BG: Diema Sport 3 HD
 http://113.190.71.54:8889/ultratv.php?id=278503
-#EXTINF:-1 tvg-ID="MaxSport1.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/DfIXT1b.png", BG: Max Sport 1 FHD
-http://live-vn.cvacetv.ga:8880/stream/channelid/78844952
-#EXTINF:-1 tvg-ID="MaxSport2.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/kq8lFb7.png", BG: Max Sport 2 FHD
-http://live-vn.cvacetv.ga:8880/stream/channelid/546626316
-#EXTINF:-1 tvg-ID="MaxSport3.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/4Zj7AHr.png", BG: Max Sport 3 FHD
-http://live-vn.cvacetv.ga:8880/stream/channelid/651398353
 #EXTINF:-1 tvg-ID="BTVAction.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/EVTDVXO.png", BG: BTV Action FHD
 http://live3.cvacetv.ga:8080/stream/channelid/665399328
 
@@ -2407,9 +2403,9 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8835
 
 #-*-- Sports Romania -*--#
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO: Digi Sport 1
-http://live3.cvacetv.ga:8080/stream/channelid/1229260875
+http://113.190.71.54:8889/prostv.php?id=5212
 #EXTINF:-1 tvg-id="DigiSport2Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO: Digi Sport 2
-http://live3.cvacetv.ga:8080/stream/channelid/1466833630
+http://113.190.71.54:8889/prostv.php?id=5213
 #EXTINF:-1 tvg-id="DigiSport3Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO:  DIGI SPORT 3
 http://113.190.71.54:8889/prostv.php?id=5238
 #EXTINF:-1 tvg-id="TelekomSport1.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-1.png", RO: Telekom Sport 1
@@ -2445,15 +2441,9 @@ http://113.190.71.54:8889/evol.php?id=63965
 
 #-*-- Sports India -*--#
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" group-title="🇮🇳| Sports India" tvg-logo="https://i.imgur.com/hh15eHd.png", IN: Star Sports Select 1
-http://live3.cvacetv.ga:8080/stream/channelid/892537098
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56776
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" group-title="🇮🇳| Sports India" tvg-logo="https://i.imgur.com/jWgXMVI.png", IN: Star Sports Select 2
-http://live3.cvacetv.ga:8080/stream/channelid/118393712
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" group-title="🇮🇳| Sports India" tvg-logo="", IN: Sony Sports 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/703160174
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" group-title="🇮🇳| Sports India" tvg-logo="", IN: Sony Sports 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/2094381400
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" group-title="🇮🇳| Sports India" tvg-logo="", IN: Sony Sports 5
-http://live-vn.cvacetv.ga:8880/stream/channelid/482995845
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56777
 
 #-*-- Sports Czech Republic -*--#
 #EXTINF:-1 tvg-id="CanalPlusSport1.cz" group-title="🇨🇿| Sports Czech Republic" tvg-logo="https://i.imgur.com/hh15eHd.png", CZ: Canal+ Sport 1
@@ -2637,13 +2627,9 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204946
 
 #-*-- Sports Russia/Ukraine -*--#
 #EXTINF:-1 tvg-ID="SetantaSports1.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png", UA: Setanta Sports 1 HD
-http://live3.cvacetv.ga:8080/stream/channelid/1070026740
-#EXTINF:-1 tvg-ID="SetantaSports2.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-eurasia-plus.png", UA: Setanta Sports 2 HD
-http://live3.cvacetv.ga:8080/stream/channelid/228861698
+http://92.119.88.58:8080/271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="SetantaSportsUkraine.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a0000015409aecba539a5b8c7ff7cd6e837/160x120", UA: Setanta Sports Ukraine HD
-http://live3.cvacetv.ga:8080/stream/channelid/328257137
-#EXTINF:-1 tvg-ID="SetantaSportsPlusUkraine.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/2BFWJtp.png", UA: Setanta Sports Ukraine HD
-http://live-sg.cvacetv.ga:8080/stream/channelid/1149052188
+http://92.119.88.58:8080/272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD
 http://live3.cvacetv.ga:8080/stream/channelid/1218027869
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
