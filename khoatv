@@ -2413,14 +2413,18 @@ http://113.190.65.96:8889/ultratv.php?id=9642
 http://sg.cvacetv.ga:8080/stream/channelid/684151253
 #EXTINF:-1 tvg-ID="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8921
-#EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 HD
+#EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD
 http://sg.cvacetv.ga:8080/stream/channelid/1705267767
-#EXTINF:-1 tvg-id="CanalPlusSport3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT3-HD.png", PL: Canal+ Sport 3 HD
+#EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD Server 2
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8973
+#EXTINF:-1 tvg-id="CanalPlusSport3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT3-HD.png", PL: Canal+ Sport 3 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/19624
-#EXTINF:-1 tvg-id="CanalPlusSport4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 4 HD
+#EXTINF:-1 tvg-id="CanalPlusSport4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 4 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/19625
-#EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 HD
+#EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 FHD
 http://sg.cvacetv.ga:8080/stream/channelid/1048689498
+#EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 FHD Server 2
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8874
 #EXTINF:-1 tvg-id="CanalPlusPremium.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/J8qzBV1.png", PL: Canal+ Premium HD
 http://sg.cvacetv.ga:8080/stream/channelid/881008572
 #EXTINF:-1 tvg-id="CanalPlusFamilyPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/pHbg0HS.png", PL: Canal+ Family HD
@@ -2436,11 +2440,15 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8914
 #EXTINF:-1 tvg-ID="FightBox.pl" group-title="🇵🇱| Sports Poland" tvg-logo="", PL: Fightbox FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8913
 #EXTINF:-1 tvg-ID="FightKlub.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/um0n6AI.png", PL: Fight Klub FHD
-http://113.190.65.96:8889/ultratv.php?id=8969
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12600
 #EXTINF:-1 tvg-ID="GolfChannelPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://sfwp.wpcdn.pl/img/logo_sportklub.png", PL: Golf Channel Poland FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8909
 #EXTINF:-1 tvg-ID="SportKlubPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://sfwp.wpcdn.pl/img/logo_sportklub.png", PL: Sport Klub FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8835
+#EXTINF:-1 tvg-id="Eurosport1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/z3fQ87X.png", PL: Eurosport 1 HD
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8915
+#EXTINF:-1 tvg-id="Eurosport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/0xpN9B6.png", PL: Eurosport 2 HD
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8959
 
 #-*-- Sports Romania -*--#
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO: Digi Sport 1
