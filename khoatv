@@ -189,6 +189,30 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
+#-*-- VTV World Cup 2022 -*--#
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
+http://58.186.83.193:13579/udp/225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+http://58.186.83.193:13579/udp/225.1.2.13:30120
+#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+http://58.186.83.193:13579/udp/225.1.2.247:30120
+#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
+http://14.169.24.26:2404/udp/232.84.2.32:10600
+#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+http://58.186.83.193:13579/udp/225.1.1.131:30120
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+https://api.vmttv.pw/vtvgo.php?id=7
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+https://api.vmttv.pw/vtvgo.php?id=163
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV World Cup 2022" tvg-logo="http://vmttv.pw/ic/vtvcantho.png", VTV Cần Thơ
+http://58.186.83.193:13579/udp/225.1.2.245:30120
+#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
+http://14.169.24.26:2404/udp/232.84.2.202:10996
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
+http://14.169.24.26:2404/udp/232.84.2.34:10612
+#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
+http://14.169.24.26:2404/udp/232.84.2.35:10618
+
 #-*-- VTVCAB -*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}", VTVcab 1 - Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
@@ -516,7 +540,7 @@ https://vietanhtv.xyz/fptplay/cine/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J7FDG09vJTF4nfUZzbHh9Q","kid":"im6sD6n5Qx+dDVnZky0QoQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668496899~acl=/*~hmac=aee8e7382af64d84cfaf873017d4aa9c884c76d1699fdf7df22500f9142c2cba
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668532830~acl=/*~hmac=6d0e7b754b8a6ff488c1aea0acaf7f0a6204680e723678d7821cd85a74ff8765
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -538,7 +562,7 @@ https://vietanhtv.xyz/fptplay/life/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ONXUTM/BEWfXZ6q5a0aZYg","kid":"T0+xk9gxRD6vCQJYnGK9kg"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668496899~acl=/*~hmac=aee8e7382af64d84cfaf873017d4aa9c884c76d1699fdf7df22500f9142c2cba
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668532830~acl=/*~hmac=6d0e7b754b8a6ff488c1aea0acaf7f0a6204680e723678d7821cd85a74ff8765
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -560,7 +584,7 @@ https://vietanhtv.xyz/fptplay/sp1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bjUl9uzP3LXeMMkuA0RTEA","kid":"f8Fal2eeRV+mlRumcuZhUQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668496898~acl=/*~hmac=6f1c4418a42737b44359fade39ce665c38d3bdc305adc4802732603e34a330b3
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668532830~acl=/*~hmac=6d0e7b754b8a6ff488c1aea0acaf7f0a6204680e723678d7821cd85a74ff8765
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -582,7 +606,7 @@ https://vietanhtv.xyz/fptplay/sp2/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XblobMwmRx/Z7NCHdeVpBw","kid":"87+txM+eR/SddLBnp4Y7HA"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668496899~acl=/*~hmac=aee8e7382af64d84cfaf873017d4aa9c884c76d1699fdf7df22500f9142c2cba
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668532830~acl=/*~hmac=6d0e7b754b8a6ff488c1aea0acaf7f0a6204680e723678d7821cd85a74ff8765
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1257,8 +1281,8 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/8bu45zz2_banner2593edf600682d4076aed4ccad3b7180_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-15/11: Quay số mở thưởng Vietlott 15/11/2022
-https://code.television4you.xyz/playlist/eventvieon.php?id=19218c13-dac6-414b-8f3a-2151b04d6c9f
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/31pb4n8o_banner30b3a20a9ae04008aa984b8aef0171f7_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-16/11: Quay số mở thưởng Vietlott 16/11/2022
+https://code.television4you.xyz/playlist/eventvieon.php?id=4f1057a1-33be-4893-846f-85573cd3b446
 
 #-*-- Live Youtube -*--#
 #EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg", COVID-19 Stats
@@ -2128,9 +2152,9 @@ http://113.190.65.96:8889/ultratv.php?id=7811
 #EXTINF:-1 tvg-ID="skysporttopevent.de" group-title="🇩🇪| Sports Germany" tvg-logo="", DE: Sky Sport Top Event FHD
 http://113.190.65.96:8889/ultratv.php?id=279053
 #EXTINF:-1 tvg-ID="skysporttennis.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png", DE: Sky Sport Tennis FHD
-http://113.190.65.96:8889/ultratv.php?id=279055
+http://sg.cvacetv.ga:8080/stream/channelid/1273348011
 #EXTINF:-1 tvg-ID="SkySportF1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png", DE: Sky Sport F1 FHD
-http://113.190.65.96:8889/ultratv.php?id=223333
+http://sg.cvacetv.ga:8080/stream/channelid/1163928052
 #EXTINF:-1 tvg-ID="DAZN1BarHD.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/qMr4eDT.png", DE: DAZN 1 Bar FHD
 http://113.190.65.96:8889/ultratv.php?id=123862
 #EXTINF:-1 tvg-ID="daznbar2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DE: DAZN 2 Bar FHD
