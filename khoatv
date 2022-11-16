@@ -2169,51 +2169,51 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425331
 #EXTINF:-1 tvg-ID="" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="", HK: Now Sports Premier League 8 FHD
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425330
 #EXTINF:-1 tvg-ID="NowSports1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115", HK: Now Sports 1 FHD
-http://113.190.65.96:8889/ultratv.php?id=246323
+http://113.178.83.134:8889/ultratv.php?id=246323
 #EXTINF:-1 tvg-ID="NowSports2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_160_115", HK: Now Sports 2 FHD
-http://113.190.65.96:8889/ultratv.php?id=246324
+http://113.178.83.134:8889/ultratv.php?id=246324
 #EXTINF:-1 tvg-ID="NowSports3.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_160_115", HK: Now Sports 3 FHD
-http://113.190.65.96:8889/ultratv.php?id=200224
+http://113.178.83.134:8889/ultratv.php?id=200224
 #EXTINF:-1 tvg-ID="NowSports4.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_160_115", HK: Now Sports 4 FHD
-http://113.190.65.96:8889/ultratv.php?id=246325
+http://113.178.83.134:8889/ultratv.php?id=246325
 #EXTINF:-1 tvg-ID="NowSports5.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_160_115", HK: Now Sports 5 FHD
-http://113.190.65.96:8889/ultratv.php?id=246326
+http://113.178.83.134:8889/ultratv.php?id=246326
 #EXTINF:-1 tvg-ID="NowSports6.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_160_115", HK: Now Sports 6 FHD
-http://113.190.65.96:8889/ultratv.php?id=246327
+http://113.178.83.134:8889/ultratv.php?id=246327
 #EXTINF:-1 tvg-ID="NowSports7.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_160_115", HK: Now Sports 7 FHD
-http://113.190.65.96:8889/ultratv.php?id=246328
+http://113.178.83.134:8889/ultratv.php?id=246328
 
 #-*-- Sports Germany -*--#
 #EXTINF:-1 tvg-id="skysportpremierleague.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/ChWdcRC.png", DE: Sky Sport Premiere League FHD 
-http://113.190.65.96:8889/prostv.php?id=248599
+http://113.178.83.134:8889/prostv.php?id=248599
 #EXTINF:-1 tvg-ID="skysportpremierleague.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/ChWdcRC.png", DE: Sky Sport Premier League FHD Server 2
-http://113.190.65.96:8889/ultratv.php?id=279059
+http://113.178.83.134:8889/ultratv.php?id=279059
 #EXTINF:-1 tvg-id="skysportmix.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/0CdrFCz.png", DE: Sky Sport Mix FHD 
-http://113.190.65.96:8889/prostv.php?id=248598
+http://113.178.83.134:8889/prostv.php?id=248598
 #EXTINF:-1 tvg-ID="skysportmix.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/0CdrFCz.png", DE: Sky Sport Mix FHD Server 2
-http://113.190.65.96:8889/ultratv.php?id=279057
+http://113.178.83.134:8889/ultratv.php?id=279057
 #EXTINF:-1 tvg-id="skysportgolf.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/nhhbHvs.png", DE: Sky Sport Golf FHD 
-http://113.190.65.96:8889/prostv.php?id=248597
+http://113.178.83.134:8889/prostv.php?id=248597
 #EXTINF:-1 tvg-ID="skysportgolf.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/nhhbHvs.png", DE: Sky Sport Golf FHD Server 2
-http://113.190.65.96:8889/ultratv.php?id=279061
+http://113.178.83.134:8889/ultratv.php?id=279061
 #EXTINF:-1 tvg-ID="SkySportNewsGermany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/512px-Sky_Sport_News_2020.svg.png", DE: Sky Sports News FHD
-http://113.190.65.96:8889/ultratv.php?id=7811
+http://113.178.83.134:8889/ultratv.php?id=7811
 #EXTINF:-1 tvg-ID="skysporttopevent.de" group-title="🇩🇪| Sports Germany" tvg-logo="", DE: Sky Sport Top Event FHD
-http://113.190.65.96:8889/ultratv.php?id=279053
+http://113.178.83.134:8889/ultratv.php?id=279053
 #EXTINF:-1 tvg-ID="skysporttennis.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png", DE: Sky Sport Tennis FHD
 http://sg.cvacetv.ga:8080/stream/channelid/1273348011
 #EXTINF:-1 tvg-ID="SkySportF1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png", DE: Sky Sport F1 FHD
 http://sg.cvacetv.ga:8080/stream/channelid/1163928052
 #EXTINF:-1 tvg-ID="DAZN1BarHD.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/qMr4eDT.png", DE: DAZN 1 Bar FHD
-http://113.190.65.96:8889/ultratv.php?id=123862
+http://113.178.83.134:8889/ultratv.php?id=123862
 #EXTINF:-1 tvg-ID="daznbar2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DE: DAZN 2 Bar FHD
-http://113.190.65.96:8889/ultratv.php?id=123863
+http://113.178.83.134:8889/ultratv.php?id=123863
 #EXTINF:-1 tvg-ID="SkySportAustria1.at" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/6/60/Sky_Sport_Austria_2020.svg/512px-Sky_Sport_Austria_2020.svg.png", DE: Sky Sport Austria 1 FHD
-http://113.190.65.96:8889/ultratv.php?id=146661
+http://113.178.83.134:8889/ultratv.php?id=146661
 #EXTINF:-1 tvg-ID="SkySport1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/512px-Sky_Sport_1_DE_Logo_2020.svg.png", DE: Sky Sport 1 FHD
-http://113.190.65.96:8889/ultratv.php?id=7813
+http://113.178.83.134:8889/ultratv.php?id=7813
 #EXTINF:-1 tvg-ID="SkySport2Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/512px-Sky_Sport_2_DE_Logo_2020.svg.png", DE: Sky Sport 2 FHD
-http://113.190.65.96:8889/ultratv.php?id=7814
+http://113.178.83.134:8889/ultratv.php?id=7814
 #EXTINF:-1 tvg-ID="SkySport3Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/512px-Sky_Sport_3_DE_Logo_2020.svg.png", DE: Sky Sport 3 FHD
 http://113.190.65.96:8889/ultratv.php?id=4699
 #EXTINF:-1 tvg-ID="SkySport3Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/512px-Sky_Sport_3_DE_Logo_2020.svg.png", DE: Sky Sport 3 FHD
