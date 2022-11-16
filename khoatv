@@ -540,7 +540,7 @@ https://vietanhtv.xyz/fptplay/cine/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J7FDG09vJTF4nfUZzbHh9Q","kid":"im6sD6n5Qx+dDVnZky0QoQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668532830~acl=/*~hmac=6d0e7b754b8a6ff488c1aea0acaf7f0a6204680e723678d7821cd85a74ff8765
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1668585473~acl=/*~hmac=66892d2bcd4c57beb990db154cb9a38cdfd7ca7f67cb8b3203f64435dd32e29f
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -562,7 +562,7 @@ https://vietanhtv.xyz/fptplay/life/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ONXUTM/BEWfXZ6q5a0aZYg","kid":"T0+xk9gxRD6vCQJYnGK9kg"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668532830~acl=/*~hmac=6d0e7b754b8a6ff488c1aea0acaf7f0a6204680e723678d7821cd85a74ff8765
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1668585473~acl=/*~hmac=66892d2bcd4c57beb990db154cb9a38cdfd7ca7f67cb8b3203f64435dd32e29f
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -584,7 +584,7 @@ https://vietanhtv.xyz/fptplay/sp1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bjUl9uzP3LXeMMkuA0RTEA","kid":"f8Fal2eeRV+mlRumcuZhUQ"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668532830~acl=/*~hmac=6d0e7b754b8a6ff488c1aea0acaf7f0a6204680e723678d7821cd85a74ff8765
+http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1668585472~acl=/*~hmac=14efa47735efd6f22ae73a3837f42afa7a847b6d04fb95c97cb752d424484301
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -606,7 +606,7 @@ https://vietanhtv.xyz/fptplay/sp2/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XblobMwmRx/Z7NCHdeVpBw","kid":"87+txM+eR/SddLBnp4Y7HA"}],"type":"temporary"}
-http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668532830~acl=/*~hmac=6d0e7b754b8a6ff488c1aea0acaf7f0a6204680e723678d7821cd85a74ff8765
+http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1668585472~acl=/*~hmac=14efa47735efd6f22ae73a3837f42afa7a847b6d04fb95c97cb752d424484301
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1284,6 +1284,53 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/31pb4n8o_banner30b3a20a9ae04008aa984b8aef0171f7_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-16/11: Quay số mở thưởng Vietlott 16/11/2022
 https://code.television4you.xyz/playlist/eventvieon.php?id=4f1057a1-33be-4893-846f-85573cd3b446
 
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/7e/e7/72/2e/ed/d2/7e72e-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-16/11: Chúng Tôi Đơn Giản Là Gấu
+http://code.television4you.xyz/mytvevent.php?id=5552
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/41/15/5b/b4/4a/aa/415b4-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-16/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+http://code.television4you.xyz/mytvevent.php?id=6256
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3b/bc/c4/4e/ef/f4/3bc4e-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-16/11: Thế Giới Kì Diệu của Gumball
+http://code.television4you.xyz/mytvevent.php?id=5694
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-16/11: Bố Đầu Nhỏ Con Đầu To
+http://code.television4you.xyz/mytvevent.php?id=5704
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b0/05/5d/d7/75/5a/b05d7-lhaechitp9-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-16/11: Haechi - Tập 29
+http://code.television4you.xyz/mytvevent.php?id=5923
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/73/36/67/7b/ba/a6/7367b-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-16/11: Nấc Cụt Và Hắt Xì
+http://code.television4you.xyz/mytvevent.php?id=5387
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/1b/b1/10/01/1b/bc/1b101-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-16/11: Ngài Bean
+http://code.television4you.xyz/mytvevent.php?id=5696
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6b/bf/f5/53/3f/f5/6bf53-llphchonmkhchmidngthanhvngvceriphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/11: Lớp Học Hoàn Mỹ: Khách mời Dương Thanh Vàng và Ceri - Phần 3
+http://code.television4you.xyz/mytvevent.php?id=5851
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d3/39/93/34/4b/bc/d3934-ltrchithngtrngtp20-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-16/11: Trò Chơi Thương Trường - Tập 20
+http://code.television4you.xyz/mytvevent.php?id=6161
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/eb/b8/83/3b/b9/90/eb83b-lninhdngsoichiutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-16/11: Nơi Ánh Dương Soi Chiếu - Tập 9
+http://code.television4you.xyz/mytvevent.php?id=6165
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/21/1d/d7/78/88/88/21d78-ltrchithngtrngtp21-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:46-16/11: Trò Chơi Thương Trường - Tập 21
+http://code.television4you.xyz/mytvevent.php?id=6163
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2c/c0/02/28/87/7e/2c028-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-17/11: Chúng Tôi Đơn Giản Là Gấu
+http://code.television4you.xyz/mytvevent.php?id=4971
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/97/7e/e7/7e/e6/6f/97e7e-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-17/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+http://code.television4you.xyz/mytvevent.php?id=6257
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ec/c0/0d/db/b8/8f/ec0db-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-17/11: Thế Giới Kì Diệu Của Gumball
+http://code.television4you.xyz/mytvevent.php?id=5557
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-17/11: Bố Đầu Nhỏ Con Đầu To
+http://code.television4you.xyz/mytvevent.php?id=5702
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d2/2d/d6/6c/cd/dd/d2d6c-lhaechitp10-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-17/11: Haechi - Tập 30
+http://code.television4you.xyz/mytvevent.php?id=5924
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ef/fe/ee/e0/0f/f1/efee0-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-17/11: Nấc Cụt và Hắt Xì
+http://code.television4you.xyz/mytvevent.php?id=5707
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6e/e6/6d/d9/9b/bc/6e6d9-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-17/11: Ngài Bean
+http://code.television4you.xyz/mytvevent.php?id=5697
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/58/88/8f/f5/51/1c/588f5-llphchonmkhchmidngthanhvngvceriphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-17/11: Lớp Học Hoàn Mỹ: Khách mời Dương Thanh Vàng và Ceri - Phần 4
+http://code.television4you.xyz/mytvevent.php?id=5852
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f4/43/31/15/58/8b/f4315-lninhdngsoichiutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-17/11: Nơi Ánh Dương Soi Chiếu - Tập 10
+http://code.television4you.xyz/mytvevent.php?id=6166
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/76/6f/f8/8c/cd/d3/76f8c-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-18/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+http://code.television4you.xyz/mytvevent.php?id=6258
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c3/39/93/39/9d/d3/c3939-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-19/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+http://code.television4you.xyz/mytvevent.php?id=6259
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/bd/d2/28/81/17/73/bd281-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-20/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+http://code.television4you.xyz/mytvevent.php?id=6260
+
 #-*-- Live Youtube -*--#
 #EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg", COVID-19 Stats
 https://bit.ly/3UTJ6DQ
@@ -1341,59 +1388,59 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479621/ei/p
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G
-https://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
+http://123.30.146.168:21585/1301/video.m3u8
 #EXTINF:-1 tvg-id="NHKEducationalTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1302/video-${start}-${offset}.m3u8", NHK E
-https://code.television4you.xyz/getlink/yoitv?id=j7SQYfwTF63S9FmRqrjNJw==
+http://123.30.146.168:21585/1302/video.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1309/video-${start}-${offset}.m3u8", NHK BS1
-https://code.television4you.xyz/getlink/yoitv?id=f-uLAeVdSWp9bd1XFM3Pzw==
+http://123.30.146.168:21585/1309/video.m3u8
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1310/video-${start}-${offset}.m3u8", NHK BS Premium
-https://code.television4you.xyz/getlink/yoitv?id=z3QuIfTGLtMqsBfWF1H4Pg==
+http://123.30.146.168:21585/1310/video.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/440px-TV_Asahi_Logo.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1304/video-${start}-${offset}.m3u8", TV Asahi
-https://code.television4you.xyz/getlink/yoitv?id=iU_IC-e38CjfLhlvUxqWRg==
+http://123.30.146.168:21585/1304/video.m3u8
 #EXTINF:-1 tvg-id="TVAsahiChannel1.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png", TV Asahi Ch.1
-https://code.television4you.xyz/getlink/yoitv?id=-KcK0oRN-MHmABr2tu77zg==
+
 #EXTINF:-1 tvg-id="JOTXDTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8", TV Tokyo
-https://code.television4you.xyz/getlink/yoitv?id=dRNhWs1DLdcWq_ufN6fElg==
+http://123.30.146.168:21585/1306/video.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1303/video-${start}-${offset}.m3u8", Nippon TV
-https://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
+http://123.30.146.168:21585/1303/video.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", Fuji TV
-https://code.television4you.xyz/getlink/yoitv?id=dfVr67j-Iy_J5tM4jYI7gQ==
+
 #EXTINF:-1 tvg-id="JORXDTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
-https://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
+
 #EXTINF:-1 tvg-id="JOOYDTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png", MBS
-https://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
+
 #EXTINF:-1 tvg-id="JOMXDTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX1
-https://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
+http://neetball.net/live/test2.m3u8
 #EXTINF:-1 tvg-id="JOAYDTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png", ABC
-https://code.television4you.xyz/getlink/yoitv?id=oI8q04LSmuVJ76lxll2FWg==
+
 #EXTINF:-1 tvg-id="JOIXDTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/220px-Yomiuri_Telecasting_Corporation_Logo.svg.png", YTV
-https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
+
 #EXTINF:-1 tvg-id="BSNipponTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-2105021154150-L.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1311/video-${start}-${offset}.m3u8", BS-NTV
-https://code.television4you.xyz/getlink/yoitv?id=9GYVLtOWedFVhurDZOtidw==
+http://123.30.146.168:21585/1311/video.m3u8
 #EXTINF:-1 tvg-id="BSAsahi.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/BS%E6%9C%9D%E6%97%A5.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1312/video-${start}-${offset}.m3u8", BS Asahi
-https://code.television4you.xyz/getlink/yoitv?id=CDf67JD0vmiC74DDaND-XA==
+http://123.30.146.168:21585/1312/video.m3u8
 #EXTINF:-1 tvg-id="BSTBS.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1280px-BS-TBS_2020.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1313/video-${start}-${offset}.m3u8", BS-TBS
-https://code.television4you.xyz/getlink/yoitv?id=JKQRufMevFV7GDKYePYwBQ==
+http://123.30.146.168:21585/1313/video.m3u8
 #EXTINF:-1 tvg-id="BSFuji.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji
-https://code.television4you.xyz/getlink/yoitv?id=1WFDcS4-Lv_4Qsnx8TQtgg==
+
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo
-https://code.television4you.xyz/getlink/yoitv?id=y288Dc5aSplzqGsFpCvm-g==
+
 #EXTINF:-1 tvg-id="WOWOWPrime.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://kuma-video.com/wp-content/uploads/2020/04/prime.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1501/video-${start}-${offset}.m3u8", WOWOW Prime
-https://code.television4you.xyz/getlink/yoitv?id=HloiOsNhiBm-DF9vVfFMTw==
+http://123.30.146.168:21585/1501/video.m3u8
 #EXTINF:-1 tvg-id="WOWOWLive.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://www.ztv.co.jp/assets/img/pages/service/tv/digital/channel/10/10-02.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1503/video-${start}-${offset}.m3u8", WOWOW Live
-https://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
+http://123.30.146.168:21585/1503/video.m3u8
 #EXTINF:-1 tvg-id="WOWOWCinema.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/23-WOWOW-CINEMA.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1502/video-${start}-${offset}.m3u8", WOWOW Cinema
-https://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg==
+http://123.30.146.168:21585/1502/video.m3u8
 #EXTINF:-1 tvg-id="Star1.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1504/video-${start}-${offset}.m3u8", Star 1
-https://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
+http://123.30.146.168:21585/1504/video.m3u8
 #EXTINF:-1 tvg-id="Star2.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1505/video-${start}-${offset}.m3u8", Star 2
-https://code.television4you.xyz/getlink/yoitv?id=NGPH2Brrn3gqcgdTIhVmwg==
+http://123.30.146.168:21585/1505/video.m3u8
 #EXTINF:-1 tvg-id="Star3.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1506/video-${start}-${offset}.m3u8", Star 3
-https://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
+http://123.30.146.168:21585/1506/video.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/640px-AT-X_logo.svg.png", AT-X
-https://sub2.neetball.net/live/neet.m3u8
+
 #EXTINF:-1 tvg-id="Animax.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
-https://code.television4you.xyz/getlink/yoitv?id=M9b8YoeShhTsfaXXoNZJDw==
+
 
 #-*-- South Korean TV -*--#
 #EXTINF:-1 tvg-id="Ariang.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png", Arirang
