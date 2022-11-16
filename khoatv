@@ -1281,55 +1281,57 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/31pb4n8o_banner30b3a20a9ae04008aa984b8aef0171f7_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-16/11: Quay số mở thưởng Vietlott 16/11/2022
-https://code.television4you.xyz/playlist/eventvieon.php?id=4f1057a1-33be-4893-846f-85573cd3b446
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/nmd5nvzu_banner118f7f0a3f04be049f025ac356ff8193_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-17/11: Quay số mở thưởng Vietlott 17/11/2022
+https://code.television4you.xyz/playlist/eventvieon.php?id=cc64d0f7-fc85-4ca5-90ac-cefd01a4e0b9
 
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/7e/e7/72/2e/ed/d2/7e72e-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-16/11: Chúng Tôi Đơn Giản Là Gấu
-http://code.television4you.xyz/mytvevent.php?id=5552
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/41/15/5b/b4/4a/aa/415b4-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-16/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
-http://code.television4you.xyz/mytvevent.php?id=6256
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3b/bc/c4/4e/ef/f4/3bc4e-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-16/11: Thế Giới Kì Diệu của Gumball
-http://code.television4you.xyz/mytvevent.php?id=5694
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-16/11: Bố Đầu Nhỏ Con Đầu To
-http://code.television4you.xyz/mytvevent.php?id=5704
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b0/05/5d/d7/75/5a/b05d7-lhaechitp9-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-16/11: Haechi - Tập 29
-http://code.television4you.xyz/mytvevent.php?id=5923
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/73/36/67/7b/ba/a6/7367b-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-16/11: Nấc Cụt Và Hắt Xì
-http://code.television4you.xyz/mytvevent.php?id=5387
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/1b/b1/10/01/1b/bc/1b101-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-16/11: Ngài Bean
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1b/b1/10/01/1b/bc/1b101-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-16/11: Ngài Bean
 http://code.television4you.xyz/mytvevent.php?id=5696
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6b/bf/f5/53/3f/f5/6bf53-llphchonmkhchmidngthanhvngvceriphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/11: Lớp Học Hoàn Mỹ: Khách mời Dương Thanh Vàng và Ceri - Phần 3
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/6b/bf/f5/53/3f/f5/6bf53-llphchonmkhchmidngthanhvngvceriphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/11: Lớp Học Hoàn Mỹ: Khách mời Dương Thanh Vàng và Ceri - Phần 3
 http://code.television4you.xyz/mytvevent.php?id=5851
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d3/39/93/34/4b/bc/d3934-ltrchithngtrngtp20-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-16/11: Trò Chơi Thương Trường - Tập 20
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d3/39/93/34/4b/bc/d3934-ltrchithngtrngtp20-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-16/11: Trò Chơi Thương Trường - Tập 20
 http://code.television4you.xyz/mytvevent.php?id=6161
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/eb/b8/83/3b/b9/90/eb83b-lninhdngsoichiutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-16/11: Nơi Ánh Dương Soi Chiếu - Tập 9
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/eb/b8/83/3b/b9/90/eb83b-lninhdngsoichiutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-16/11: Nơi Ánh Dương Soi Chiếu - Tập 9
 http://code.television4you.xyz/mytvevent.php?id=6165
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/21/1d/d7/78/88/88/21d78-ltrchithngtrngtp21-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:46-16/11: Trò Chơi Thương Trường - Tập 21
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/21/1d/d7/78/88/88/21d78-ltrchithngtrngtp21-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:46-16/11: Trò Chơi Thương Trường - Tập 21
 http://code.television4you.xyz/mytvevent.php?id=6163
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2c/c0/02/28/87/7e/2c028-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-17/11: Chúng Tôi Đơn Giản Là Gấu
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2c/c0/02/28/87/7e/2c028-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-17/11: Chúng Tôi Đơn Giản Là Gấu
 http://code.television4you.xyz/mytvevent.php?id=4971
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/97/7e/e7/7e/e6/6f/97e7e-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-17/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/97/7e/e7/7e/e6/6f/97e7e-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-17/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
 http://code.television4you.xyz/mytvevent.php?id=6257
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ec/c0/0d/db/b8/8f/ec0db-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-17/11: Thế Giới Kì Diệu Của Gumball
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ec/c0/0d/db/b8/8f/ec0db-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-17/11: Thế Giới Kì Diệu Của Gumball
 http://code.television4you.xyz/mytvevent.php?id=5557
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-17/11: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-17/11: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5702
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d2/2d/d6/6c/cd/dd/d2d6c-lhaechitp10-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-17/11: Haechi - Tập 30
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d2/2d/d6/6c/cd/dd/d2d6c-lhaechitp10-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-17/11: Haechi - Tập 30
 http://code.television4you.xyz/mytvevent.php?id=5924
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ef/fe/ee/e0/0f/f1/efee0-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-17/11: Nấc Cụt và Hắt Xì
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ef/fe/ee/e0/0f/f1/efee0-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-17/11: Nấc Cụt và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5707
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6e/e6/6d/d9/9b/bc/6e6d9-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-17/11: Ngài Bean
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8d/d8/85/5f/ff/fa/8d85f-laicngbitemyuanhtp17-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-17/11: Ai Cũng Biết Em Yêu Anh - Tập 17
+http://code.television4you.xyz/mytvevent.php?id=6027
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/6e/e6/6d/d9/9b/bc/6e6d9-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-17/11: Ngài Bean
 http://code.television4you.xyz/mytvevent.php?id=5697
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/58/88/8f/f5/51/1c/588f5-llphchonmkhchmidngthanhvngvceriphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-17/11: Lớp Học Hoàn Mỹ: Khách mời Dương Thanh Vàng và Ceri - Phần 4
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/58/88/8f/f5/51/1c/588f5-llphchonmkhchmidngthanhvngvceriphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-17/11: Lớp Học Hoàn Mỹ: Khách mời Dương Thanh Vàng và Ceri - Phần 4
 http://code.television4you.xyz/mytvevent.php?id=5852
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f4/43/31/15/58/8b/f4315-lninhdngsoichiutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-17/11: Nơi Ánh Dương Soi Chiếu - Tập 10
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/49/9c/ca/ab/bc/cf/49cab-ltrchithngtrngtp22-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-17/11: Trò Chơi Thương Trường - Tập 22
+http://code.television4you.xyz/mytvevent.php?id=6164
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f4/43/31/15/58/8b/f4315-lninhdngsoichiutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-17/11: Nơi Ánh Dương Soi Chiếu - Tập 10
 http://code.television4you.xyz/mytvevent.php?id=6166
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/76/6f/f8/8c/cd/d3/76f8c-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-18/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/0c/c9/93/38/8c/ce/0c938-ltrchithngtrngtp23-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:46-17/11: Trò Chơi Thương Trường - Tập 23
+http://code.television4you.xyz/mytvevent.php?id=6185
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/76/6f/f8/8c/cd/d3/76f8c-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-18/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
 http://code.television4you.xyz/mytvevent.php?id=6258
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c3/39/93/39/9d/d3/c3939-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-19/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2c/ce/e0/00/00/0c/2ce00-laicngbitemyuanhtp18-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-18/11: Ai Cũng Biết Em Yêu Anh - Tập 18
+http://code.television4you.xyz/mytvevent.php?id=6025
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c3/39/93/39/9d/d3/c3939-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-19/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
 http://code.television4you.xyz/mytvevent.php?id=6259
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/bd/d2/28/81/17/73/bd281-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-20/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/67/7c/ce/ed/d8/80/67ced-laicngbitemyuanhtp13-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-19/11: Ai Cũng Biết Em Yêu Anh - Tập 19
+http://code.television4you.xyz/mytvevent.php?id=6012
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bd/d2/28/81/17/73/bd281-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-20/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
 http://code.television4you.xyz/mytvevent.php?id=6260
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/cd/d7/78/82/25/54/cd782-laicngbitemyuanhtp20-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-20/11: Ai Cũng Biết Em Yêu Anh - Tập 20
+http://code.television4you.xyz/mytvevent.php?id=6024
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bb/b0/0c/cd/db/bc/bb0cd-laicngbitemyuanhtp21-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-21/11: Ai Cũng Biết Em Yêu Anh - Tập 21
+http://code.television4you.xyz/mytvevent.php?id=6013
 
 #-*-- Live Youtube -*--#
 #EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg", COVID-19 Stats
@@ -2774,6 +2776,22 @@ http://113.190.65.96:8889/ultratv.php?id=7896
 http://live3.cvacetv.ga:8080/stream/channelid/1011319346
 
 #-*-- Livestream bóng đá Vebo TV -*--#
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h00-16/11: SD1 Croatia - Saudi Arabia (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h00-16/11: SD2 Croatia - Saudi Arabia (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h00-16/11: HD Croatia - Saudi Arabia (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h00-16/11: Full HD Croatia - Saudi Arabia (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h00-16/11: Nhà Đài Croatia - Saudi Arabia (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may91/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h30-16/11: SD1 United Arab Emirates - Argentina (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
@@ -2790,17 +2808,65 @@ https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=http
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179672673.global.cdnfastest.com/live/may91/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h30-16/11: SD1 Oman - Germany (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h30-16/11: SD2 Oman - Germany (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h30-16/11: HD Oman - Germany (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h30-16/11: Full HD Oman - Germany (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may2FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h30-16/11: Nhà Đài Oman - Germany (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may91/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-17/11: SD1 Poland - Chile (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may3SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-17/11: SD2 Poland - Chile (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-17/11: HD Poland - Chile (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-17/11: Full HD Poland - Chile (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may3FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-17/11: Nhà Đài Poland - Chile (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may91/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-17/11: SD1 Albania - Italy (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-17/11: SD2 Albania - Italy (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-17/11: HD Albania - Italy (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-17/11: Full HD Albania - Italy (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-17/11: Nhà Đài Albania - Italy (Người Mới)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179672673.global.cdnfastest.com/live/may91/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-16/11: SD 1 Saudi Arabia - Croatia (Giàng A Bịp)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betongsd1/playlist.m3u8|referer=https://xem.rakhoi6.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-16/11: HD 1 Saudi Arabia - Croatia (Giàng A Bịp)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betonghd1/playlist.m3u8|referer=https://xem.rakhoi6.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-16/11: SD 2 Saudi Arabia - Croatia (Giàng A Bịp)
-https://179665839.global.cdnfastest.com/live/betongsd2/playlist.m3u8|referer=https://xem.rakhoi6.com/
+https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-16/11: HD 2 Saudi Arabia - Croatia (Giàng A Bịp)
-https://179665839.global.cdnfastest.com/live/betonghd2/playlist.m3u8|referer=https://xem.rakhoi6.com/
+https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-16/11: Nhà Đài Saudi Arabia - Croatia (Giàng A Bịp)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://xem.rakhoi6.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h30-16/11: SD 1 UAE - Argentina (Giàng A Lử)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
