@@ -191,15 +191,15 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #-*-- VTV World Cup 2022 -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-http://58.186.83.193:13579/udp/225.1.2.249:30120
+http://vn1.cvacetv.ga:8080/vtv1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-http://58.186.83.193:13579/udp/225.1.2.13:30120
+http://vn1.cvacetv.ga:8080/vtv2
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-http://58.186.83.193:13579/udp/225.1.2.247:30120
+http://vn1.cvacetv.ga:8080/vtv3
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
 http://14.169.24.26:2404/udp/232.84.2.32:10600
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-http://58.186.83.193:13579/udp/225.1.1.131:30120
+http://vn1.cvacetv.ga:8080/vtv5
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 https://api.vmttv.pw/vtvgo.php?id=7
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
