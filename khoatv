@@ -197,7 +197,7 @@ http://118.71.233.208:13579/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 http://118.71.233.208:13579/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
-http://14.169.24.26:2404/udp/232.84.2.32:10600
+http://113.188.86.161:1024/udp/232.84.2.32:10600
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 http://118.71.233.208:13579/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
@@ -207,11 +207,11 @@ https://api.vmttv.pw/vtvgo.php?id=163
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤️| VTV World Cup 2022" tvg-logo="http://vmttv.pw/ic/vtvcantho.png", VTV Cần Thơ
 http://118.71.233.208:13579/udp/225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
-http://14.169.24.26:2404/udp/232.84.2.202:10996
+http://113.188.86.161:1024/udp/232.84.2.202:10996
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
-http://14.169.24.26:2404/udp/232.84.2.34:10612
+http://113.188.86.161:1024/udp/232.84.2.34:10612
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤️| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
-http://14.169.24.26:2404/udp/232.84.2.35:10618
+http://113.188.86.161:1024/udp/232.84.2.35:10618
 
 #-*-- VTVCAB -*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}", VTVcab 1 - Vie Giải trí HD
