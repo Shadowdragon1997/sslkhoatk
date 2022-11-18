@@ -198,13 +198,13 @@ http://118.71.233.208:13579/udp/225.1.2.13:30120
 http://live2.vthanhtivi.pw:8080/stream/channelid/981367656?profile=pass
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
 http://118.71.233.208:13579/udp/225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
 http://live2.vthanhtivi.pw:8080/stream/channelid/1949009839?profile=pass
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT
 http://113.188.86.161:1024/udp/232.84.2.32:10600
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://118.71.233.208:13579/udp/225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
 http://live2.vthanhtivi.pw:8080/stream/channelid/1613570790?profile=pass
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ FPT
 https://api.vmttv.pw/vtvgo.php?id=7
@@ -212,7 +212,7 @@ https://api.vmttv.pw/vtvgo.php?id=7
 https://api.vmttv.pw/vtvgo.php?id=163
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="http://vmttv.pw/ic/vtvcantho.png", VTV Cần Thơ FPT
 http://118.71.233.208:13579/udp/225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
 http://live2.vthanhtivi.pw:8080/stream/channelid/1479230732?profile=pass
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT
 http://113.188.86.161:1024/udp/232.84.2.202:10996
