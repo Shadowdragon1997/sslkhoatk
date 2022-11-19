@@ -88,15 +88,15 @@ https://api.vthanhtivi.pw/v1/getlink/mytv_web/449/hd
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
-http://vn1.cvacetv.ga:8080/4KUHD
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 1
-http://vn1.cvacetv.ga:8080/live1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
-http://vn1.cvacetv.ga:8080/live2
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png", CVmedia Live World Cup 1
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 4K
+http://vn1.cvacetv.ga/4KUHD
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
+http://vn1.cvacetv.ga/live1
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
+http://vn1.cvacetv.ga/live2
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
 http://vn2.cvacetv.ga/WC1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png", CVmedia Live World Cup 2
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png",CVmedia Live World Cup 2
 http://vn2.cvacetv.ga/WC2
 
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/dxjw9qjo_banner25e849c052c43ddfacd80f8af368475b_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-09/12: Brisbane Roar - Adelaide United (Vòng 7 - VĐQG Úc 2022/23)
@@ -1720,15 +1720,15 @@ http://sg.cvacetv.ga/Univision
 
 #-*-- Australia TV -*--#
 #EXTINF:-1 tvg-id="10Sydney.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png", AU: 10 (Network Ten)
-http://vn1.cvacetv.ga:8880/stream/channelid/2068134694
+http://vn1.cvacetv.ga:8080/stream/channelid/2068134694
 #EXTINF:-1 tvg-id="10Bold.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png", AU: 10 Bold (Ten Bold)
-http://vn1.cvacetv.ga:8880/stream/channelid/1408260350
+http://vn1.cvacetv.ga:8080/stream/channelid/1408260350
 #EXTINF:-1 tvg-id="7HD.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png", AU: 7 (Network Seven)
-http://vn1.cvacetv.ga:8880/stream/channelid/1949641268
+http://vn1.cvacetv.ga:8080/stream/channelid/1949641268
 #EXTINF:-1 tvg-id="9.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png", AU: 9 (Network Nine WWOS)
-http://vn1.cvacetv.ga:8880/stream/channelid/1247244408
+http://vn1.cvacetv.ga:8080/stream/channelid/1247244408
 #EXTINF:-1 tvg-id="9Gem.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png", AU: 9Gem (Network Nine WWOS)
-http://vn1.cvacetv.ga:8880/stream/channelid/1545598529
+http://vn1.cvacetv.ga:8080/stream/channelid/1545598529
 
 #-*-- Russia/Ukraine TV -*--#
 #EXTINF:-1 tvg-ID="OPT1.ua" group-title="🇷🇺/🇺🇬| Russia/Ukraine TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi", UA: OPT1
@@ -1825,9 +1825,9 @@ http://vn2.cvacetv.ga/BBC2
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV
 http://vn2.cvacetv.ga/ITV
 #EXTINF:-1 tvg-id="SBSOne.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png", AU: SBS One
-http://vn1.cvacetv.ga:8880/stream/channelid/654604013
+http://vn1.cvacetv.ga:8080/stream/channelid/654604013
 #EXTINF:-1 tvg-id="SBSViceland.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://i.imgur.com/yIdjafM.png", AU: SBS Viceland
-http://vn1.cvacetv.ga:8880/stream/channelid/1289127708
+http://vn1.cvacetv.ga:8080/stream/channelid/1289127708
 #EXTINF:-1 tvg-id="FoxMiddleEast.us" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png", US: FOX
 http://vn2.cvacetv.ga/FOX
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
@@ -1948,19 +1948,19 @@ http://113.178.83.134:8889/ultratv.php?id=15667
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.imgur.com/4nQOtYJ.png", US: CBS Sports Network FHD
 http://113.178.83.134:8889/iprotv.php?id=10709
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD
-http://vn1.cvacetv.ga:8080/ESPN
+http://vn1.cvacetv.ga/ESPN
 #EXTINF:-1 tvg-id="ESPN2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png", US: ESPN 2 FHD
-http://vn1.cvacetv.ga:8080/ESPN2
+http://vn1.cvacetv.ga/ESPN2
 #EXTINF:-1 tvg-id="USANetworkEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png", US: USA Network FHD
-http://vn1.cvacetv.ga:8080/USA
+http://vn1.cvacetv.ga/USA
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png", US: Golf Channel FHD
-http://vn1.cvacetv.ga:8080/golf
+http://vn1.cvacetv.ga/golf
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD
-http://vn1.cvacetv.ga:8080/FS1
+http://vn1.cvacetv.ga/FS1
 #EXTINF:-1 tvg-id="FoxSports2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png", US: Fox Sports 2 FHD
-http://vn1.cvacetv.ga:8080/FS2
+http://vn1.cvacetv.ga/FS2
 #EXTINF:-1 tvg-id="TNTEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png", US: TNT East FHD
-http://vn1.cvacetv.ga:8080/TNT
+http://vn1.cvacetv.ga/TNT
 #EXTINF:-1 tvg-id="NBATV.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.ibb.co/M13tgJC/nba-tv.png", US: NBA TV FHD
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=8246&extension=ts&play_token=TaDzsyNle4
 #EXTINF:-1 tvg-id="NBAtv.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/clippers/nba-tv-logo.png", US: NBA TV FHD
@@ -2397,13 +2397,13 @@ http://113.178.83.134:8889/prostv.php?id=96356
 #EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 3
 http://113.178.83.134:8889/ultratv.php?id=7797
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 2 FHD
-http://vn1.cvacetv.ga:8880/stream/channelid/49994801
+http://vn1.cvacetv.ga:8080/stream/channelid/49994801
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/vlHIPhm.png", PT: Sport TV 2 FHD Server 2
 http://113.178.83.134:8889/prostv.php?id=96360
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 3
 http://113.178.83.134:8889/ultratv.php?id=7798
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD
-http://vn1.cvacetv.ga:8880/stream/channelid/599677544
+http://vn1.cvacetv.ga:8080/stream/channelid/599677544
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 2
 http://113.178.83.134:8889/prostv.php?id=96363
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 3
@@ -2627,17 +2627,17 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56777
 
 #-*-- Sports Serbia -*--#
 #EXTINF:-1 tvg-id="SportKlub1.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gq41T8E.png", RS: Sport Klub 1
-http://vn1.cvacetv.ga:8880/stream/channelid/694277486
+http://vn1.cvacetv.ga:8080/stream/channelid/694277486
 #EXTINF:-1 tvg-id="SportKlub2.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/UNG4xlb.png", RS: Sport Klub 2
-http://vn1.cvacetv.ga:8880/stream/channelid/1911842429
+http://vn1.cvacetv.ga:8080/stream/channelid/1911842429
 #EXTINF:-1 tvg-id="SportKlub3.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/N7DGGtV.png", RS: Sport Klub 3
-http://vn1.cvacetv.ga:8880/stream/channelid/1505308510
+http://vn1.cvacetv.ga:8080/stream/channelid/1505308510
 #EXTINF:-1 tvg-id="SportKlub4.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/8D4tQUR.png", RS: Sport Klub 4
-http://vn1.cvacetv.ga:8880/stream/channelid/1802040370
+http://vn1.cvacetv.ga:8080/stream/channelid/1802040370
 #EXTINF:-1 tvg-id="SportKlub5.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/d7uT1Vs.png", RS: Sport Klub 5
-http://vn1.cvacetv.ga:8880/stream/channelid/637218869
+http://vn1.cvacetv.ga:8080/stream/channelid/637218869
 #EXTINF:-1 tvg-id="SportKlub6.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/Zn2yFjG.png", RS: Sport Klub 6
-http://vn1.cvacetv.ga:8880/stream/channelid/1098593197
+http://vn1.cvacetv.ga:8080/stream/channelid/1098593197
 
 #-*-- Sports Korea -*--#
 #EXTINF:-1 tvg-ID="SPOTV.kr" group-title="🇰🇷| Sports Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png", KR: SpoTV HD
