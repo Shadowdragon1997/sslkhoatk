@@ -203,7 +203,7 @@ http://vn1.cvacetv.ga/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 2
 http://bolero.myftp.org:6001/stream/channelid/807965496?profile=pass
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
-http://live2.vthanhtivi.pw/vtv2
+http://tbtv.us/channel/?vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng
 http://bolero.myftp.org:6001/stream/channelid/768326915?profile=pass
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
@@ -2265,9 +2265,9 @@ http://14.248.237.207:8889/ultratv.php?id=7811
 #EXTINF:-1 tvg-ID="skysporttopevent.de" group-title="🇩🇪| Sports Germany" tvg-logo="", DE: Sky Sport Top Event FHD
 http://14.248.237.207:8889/ultratv.php?id=279053
 #EXTINF:-1 tvg-ID="skysporttennis.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png", DE: Sky Sport Tennis FHD
-http://sg.cvacetv.ga:8080/stream/channelid/1273348011
+http://14.248.237.207:8889/ultratv.php?id=279055
 #EXTINF:-1 tvg-ID="SkySportF1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png", DE: Sky Sport F1 FHD
-http://sg.cvacetv.ga:8080/stream/channelid/1163928052
+http://14.248.237.207:8889/ultratv.php?id=223333
 #EXTINF:-1 tvg-ID="DAZN1BarHD.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/qMr4eDT.png", DE: DAZN 1 Bar FHD
 http://14.248.237.207:8889/ultratv.php?id=123862
 #EXTINF:-1 tvg-ID="daznbar2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DE: DAZN 2 Bar FHD
