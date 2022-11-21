@@ -220,6 +220,8 @@ http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.118:10260
 http://bolero.myftp.org:6001/stream/channelid/165907585?profile=pass
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT
 http://118.71.233.208:13579/udp/225.1.2.20:30120
+#EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 MyTV
+http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.32:10600
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://118.71.233.208:13579/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
@@ -244,10 +246,16 @@ http://live.vthanhtivi.pw:8080/vtvct
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.119:10266
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT
 http://118.71.233.208:13579/udp/225.1.2.96:30120
+#EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 MyTV
+http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.202:10996
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 FPT
 http://118.71.233.208:13579/udp/225.1.2.166:30120
+#EXTINF:-1 tvg-id="vtv8hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 MyTV
+http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.34:10612
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 FPT
 http://118.71.233.208:13579/udp/225.1.1.128:30120
+#EXTINF:-1 tvg-id="vtv9hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 MyTV
+http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.35:10618
 
 #-*-- VTVCAB -*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}", VTVcab 1 - Vie Giải trí HD
