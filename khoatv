@@ -205,7 +205,9 @@ http://118.71.233.208:13579/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng
 http://vn1.cvacetv.ga/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 2
-http://bolero.myftp.org:6001/stream/channelid/807965496?profile=pass
+http://bolero.myftp.org:6001/stream/channelid/210379033?profile=pass
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 3
+http://vn2.vietanhtv.pw:8000/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng
@@ -218,6 +220,8 @@ http://118.71.233.208:13579/udp/225.1.2.247:30120
 http://vn1.cvacetv.ga/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 2
 http://bolero.myftp.org:6001/stream/channelid/1537326910?profile=pass
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 3
+http://vn2.vietanhtv.pw:8000/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.118:10260
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV Server dự phòng
@@ -231,13 +235,17 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://118.71.233.208:13579/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
-http://vn1.cvacetv.ga/vtv5
+http://vn2.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 2
 http://bolero.myftp.org:6001/stream/channelid/1279518350?profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 3
+http://vn2.vietanhtv.pw:8000/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV Server dự phòng
 http://tbtv.us/channel/?vtv5
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ DVB-T2
+http://laohac360.duckdns.org:9981/stream/channelnumber/205555?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ FPT
 https://api.vmttv.pw/vtvgo.php?id=7
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ FPT Server dự phòng
@@ -249,7 +257,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/206?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
 http://118.71.233.208:13579/udp/225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT Server dự phòng
-http://live.vthanhtivi.pw:8080/vtvct
+http://vn2.vietanhtv.pw:8000/vtvcantho
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.119:10266
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT
