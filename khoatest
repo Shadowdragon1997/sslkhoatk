@@ -1,8 +1,0 @@
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/VTV2_HD-0.png/revision/latest?cb=20201228133530&path-prefix=vi",VTV2 HD (VIETTEL RTP)
-udp://@239.12.251.226:5000
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1b/VTV3_HD_2013-2014.png/revision/latest/scale-to-width-down/1200?cb=20220708001822&path-prefix=vi",VTV3 HD (VIETTEL RTP)
-udp://@239.12.251.206:5000
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/VTV5_HD_logo_th%E1%BB%AD_nghi%E1%BB%87m.png/revision/latest?cb=20211014034536&path-prefix=vi",VTV5 HD (VIETTEL RTP)
-udp://@239.12.251.209:5000
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV Cần Thơ HD (VIETTEL RTP)
-udp://@239.12.251.82:5000
