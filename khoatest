@@ -1,0 +1,9 @@
+#VIETTEL-IPTV-HTTP
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/VTV2_HD-0.png/revision/latest?cb=20201228133530&path-prefix=vi",VTV2 HD (VIETTEL HTTP)
+http://27.72.63.63:9981/stream/channelid/1726874393?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1b/VTV3_HD_2013-2014.png/revision/latest/scale-to-width-down/1200?cb=20220708001822&path-prefix=vi",VTV3 HD (VIETTEL HTTP)
+http://27.72.63.63:9981/stream/channelid/506541025?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/VTV5_HD_logo_th%E1%BB%AD_nghi%E1%BB%87m.png/revision/latest?cb=20211014034536&path-prefix=vi",VTV5 HD (VIETTEL HTTP)
+http://27.72.63.63:9981/stream/channelid/1138008153?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV Cần Thơ HD (VIETTEL HTTP)
+http://27.72.63.63:9981/stream/channelid/1082408882?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
