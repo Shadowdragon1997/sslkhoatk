@@ -1865,9 +1865,9 @@ http://vn2.cvacetv.ga/Rai1
 #EXTINF:-1 tvg-id="Rai2.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2
 http://vn2.cvacetv.ga/Rai2
 #EXTINF:-1 tvg-id="KBS1TV.kr" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KR: KBS 1
-http://sg.cvacetv.ga/KBS1
+http://vn2.cvacetv.ga/KBS1
 #EXTINF:-1 tvg-id="KBS2TV.kr" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KR: KBS 2
-http://sg.cvacetv.ga/KBS2
+http://vn2.cvacetv.ga/KBS2
 
 #-*-- Sports UK -*--#
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/rsT6Cu2.png", UK: Sky Sports Football FHD
@@ -2821,36 +2821,39 @@ http://vn2.cvacetv.ga/matchtv
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
 http://14.248.236.161:8889/ultratv.php?id=3151
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD
-http://sg.cvacetv.ga:8080/stream/channelid/1423012514
+http://vn2.cvacetv.ga/futbol1
 #EXTINF:-1 tvg-ID="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD Server 2
 http://14.248.236.161:8889/ultratv.php?id=1210
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD
-http://sg.cvacetv.ga:8080/stream/channelid/273211888
+http://vn2.cvacetv.ga/futbol2
 #EXTINF:-1 tvg-ID="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD Server 2
 http://14.248.236.161:8889/ultratv.php?id=7895
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD
-http://sg.cvacetv.ga:8080/stream/channelid/1245579723
+http://vn2.cvacetv.ga/futbol3
 #EXTINF:-1 tvg-ID="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD Server 2
 http://14.248.236.161:8889/ultratv.php?id=7896
 #EXTINF:-1 tvg-id="MatchPremier.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/GQPyHYK.png", RU: Маtch Premier HD
-http://live3.cvacetv.ga:8080/stream/channelid/1011319346
+http://vn2.cvacetv.ga/matchpre
 
 #-*-- Livestream bóng đá Vebo TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: SD1 Argentina - Saudi Arabia (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+https://179314182.global.cdnfastest.com/live/live/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: SD2 Argentina - Saudi Arabia (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: HD Argentina - Saudi Arabia (Cáp Tần)
+https://cjtlakgrbfliv.vcdn.cloud/live/live@456.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: SD3 Argentina - Saudi Arabia (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1093384063.cdn.khmer-hd.com/may1564HD/chunks.m3u8|referer=https://mitom.90phut6.live/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@live/chunklist.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: SD3 Argentina - Saudi Arabia (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1093384063.cdn.khmer-hd.com/may1357HD/chunks.m3u8|referer=https://mitom.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: Full HD Argentina - Saudi Arabia (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: Nhà Đài Argentina - Saudi Arabia (Cáp Tần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may10/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+https://179314182.global.cdnfastest.com/live/may12/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-21/11: SD1 Senegal - Netherlands (Cáp Tần + Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
@@ -2900,7 +2903,7 @@ https://179665839.global.cdnfastest.com/live/cakhiasd2/playlist.m3u8|referer=htt
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-22/11: HD 2 Argentina - Saudi Arabia (Giàng A Phò)
 https://179665839.global.cdnfastest.com/live/cakhiahd2/playlist.m3u8|referer=https://xem.rakhoi6.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-22/11: Nhà Đài Argentina - Saudi Arabia (Giàng A Phò)
-https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|referer=https://xem.rakhoi6.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|referer=https://xem.rakhoi6.com/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-22/11: SD 1 Denmark - Tunisia (Giàng A Páo + Giàng A Cay)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
