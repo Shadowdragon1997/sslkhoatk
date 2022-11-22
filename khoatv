@@ -98,8 +98,12 @@ http://vn1.cvacetv.ga/live1
 http://vn1.cvacetv.ga/live2
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
 http://vn2.cvacetv.ga/WC1
+http://vn1.cvacetv.ga/WC1
+http://sg.cvacetv.ga/WC1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png",CVmedia Live World Cup 2
 http://vn2.cvacetv.ga/WC2
+http://vn1.cvacetv.ga/WC2
+http://sg.cvacetv.ga/WC2
 
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/dxjw9qjo_banner25e849c052c43ddfacd80f8af368475b_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-09/12: Brisbane Roar - Adelaide United (Vòng 7 - VĐQG Úc 2022/23)
 https://code.television4you.xyz/playlist/eventvieon.php?id=1dceb056-0e2b-446e-a268-325b3a39efab
