@@ -213,7 +213,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
 http://103.56.156.30:8081/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv2
+http://vn1.cvacetv.ga/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 2
 http://bolero.myftp.org:6001/stream/channelid/210379033?profile=pass
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 3
@@ -229,7 +229,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
 http://103.56.156.30:8081/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv3
+http://vn1.cvacetv.ga/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 2
 http://bolero.myftp.org:6001/stream/channelid/1537326910?profile=pass
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 3
@@ -249,7 +249,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://103.56.156.30:8081/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv5
+http://vn1.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 2
 http://bolero.myftp.org:6001/stream/channelid/1279518350?profile=pass
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 3
@@ -1354,23 +1354,45 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/30a55su2_bannerdee60099fed0260b2cea9d222563e37f_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-22/11: Quay số mở thưởng Vietlott 22/11/2022
 https://code.television4you.xyz/playlist/eventvieon.php?id=5eb8ebc0-abaf-4283-8f6d-442b10d240c8
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3a/ad/d1/17/73/3c/3ad17-lpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-22/11: POP
-http://code.television4you.xyz/mytvevent.php?id=6297
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b5/57/75/5b/b7/74/b575b-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-22/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
-http://code.television4you.xyz/mytvevent.php?id=6298
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c0/03/3b/b2/2e/eb/c03b2-llphchonmkhchmipeterphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-22/11: Lớp Học Hoàn Mỹ: Khách mời Peter - Phần 2
-http://code.television4you.xyz/mytvevent.php?id=5850
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d7/77/7e/eb/b3/3d/d77eb-ltrchithngtrngtp30-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-22/11: Trò Chơi Thương Trường - Tập 30
-http://code.television4you.xyz/mytvevent.php?id=6164
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/51/11/1f/f7/7b/bd/511f7-lsteamqcngnghvisinhviyhcththchquanst-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-23/11: SteamQ: Công Nghệ Vi sinh với Y Học - Thử thách Quan sát
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/53/38/86/6c/cb/b5/5386c-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-23/11: Chúng Tôi Đơn Giản Là Gấu
+http://code.television4you.xyz/mytvevent.php?id=5690
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3b/bc/c4/4e/ef/f4/3bc4e-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-23/11: Thế Giới Kì Diệu của Gumball
+http://code.television4you.xyz/mytvevent.php?id=5694
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/01/1f/f2/2f/f4/40/01f2f-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-23/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+http://code.television4you.xyz/mytvevent.php?id=6310
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/51/11/1f/f7/7b/bd/511f7-lsteamqcngnghvisinhviyhcththchquanst-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-23/11: SteamQ: Công Nghệ Vi sinh với Y Học - Thử thách Quan sát
 http://code.television4you.xyz/mytvevent.php?id=6270
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d0/02/2b/b2/2f/f1/d02b2-llphchonmkhchmipeterphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-23/11: Lớp Học Hoàn Mỹ: Khách mời Peter - Phần 3
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/1b/b1/10/01/1b/bc/1b101-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-23/11: Ngài Bean
+http://code.television4you.xyz/mytvevent.php?id=5696
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/00/03/30/01/16/68/00301-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-23/11: Ngài Bean
+http://code.television4you.xyz/mytvevent.php?id=5698
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/fc/cb/b4/4b/b5/5f/fcb4b-lcvsnhtbnworldcup2022bnge-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:15-23/11: Đức vs Nhật Bản - World Cup 2022_Bảng E
+http://code.television4you.xyz/mytvevent.php?id=6308
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d0/02/2b/b2/2f/f1/d02b2-llphchonmkhchmipeterphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-23/11: Lớp Học Hoàn Mỹ: Khách mời Peter - Phần 3
 http://code.television4you.xyz/mytvevent.php?id=5851
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/63/39/97/7b/b7/78/6397b-llphchonmkhchmipeterphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-24/11: Lớp Học Hoàn Mỹ: Khách mời Peter - Phần 4
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/22/26/60/0e/eb/b8/2260e-ltrchithngtrngtp32-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-23/11: Trò Chơi Thương Trường - Tập 32
+http://code.television4you.xyz/mytvevent.php?id=6185
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b3/35/52/26/6a/ae/b3526-ltybannhavscostaricaworldcup2022bnge-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-23/11: Tây Ban Nha vs Costa Rica - World Cup 2022_Bảng E
+http://code.television4you.xyz/mytvevent.php?id=6309
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b6/69/91/1d/d9/92/b691d-ltrchithngtrngtp33-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:50-23/11: Trò Chơi Thương Trường - Tập 33
+http://code.television4you.xyz/mytvevent.php?id=6186
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5a/ad/dd/d8/8f/f5/5add8-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-24/11: Chúng Tôi Đơn Giản Là Gấu
+http://code.television4you.xyz/mytvevent.php?id=5553
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2c/c0/02/28/87/7e/2c028-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-24/11: Chúng Tôi Đơn Giản Là Gấu
+http://code.television4you.xyz/mytvevent.php?id=4971
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ec/c0/0d/db/b8/8f/ec0db-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-24/11: Thế Giới Kì Diệu Của Gumball
+http://code.television4you.xyz/mytvevent.php?id=5557
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/8e/ec/ca/a8/80/03/8eca8-lkhanhkhanhnhtthngtp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-24/11: Khanh Khanh Nhật Thường - Tập 1
+http://code.television4you.xyz/mytvevent.php?id=6311
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/63/39/97/7b/b7/78/6397b-llphchonmkhchmipeterphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-24/11: Lớp Học Hoàn Mỹ: Khách mời Peter - Phần 4
 http://code.television4you.xyz/mytvevent.php?id=5852
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9a/ad/dd/db/ba/a8/9addb-lsteamqcngnghvisinhviyhcththchthchnh-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-25/11: SteamQ: Công Nghệ Vi sinh với Y Học - Thử thách Thực hành
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-25/11: Bố Đầu Nhỏ Con Đầu To
+http://code.television4you.xyz/mytvevent.php?id=5704
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-25/11: Bố Đầu Nhỏ Con Đầu To
+http://code.television4you.xyz/mytvevent.php?id=5703
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9a/ad/dd/db/ba/a8/9addb-lsteamqcngnghvisinhviyhcththchthchnh-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-25/11: SteamQ: Công Nghệ Vi sinh với Y Học - Thử thách Thực hành
 http://code.television4you.xyz/mytvevent.php?id=6271
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fb/b5/5a/aa/a3/3a/fb5aa-lsteamqcngnghvisinhviyhctngktvtraogii-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-28/11: SteamQ: Công Nghệ Vi sinh với Y Học - Tổng kết và Trao giải
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/fb/b5/5a/aa/a3/3a/fb5aa-lsteamqcngnghvisinhviyhctngktvtraogii-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-28/11: SteamQ: Công Nghệ Vi sinh với Y Học - Tổng kết và Trao giải
 http://code.television4you.xyz/mytvevent.php?id=6272
 
 #-*-- Live Youtube -*--#
