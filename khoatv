@@ -1874,10 +1874,6 @@ http://vn2.cvacetv.ga/BBC1
 http://vn2.cvacetv.ga/BBC2
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV
 http://vn2.cvacetv.ga/ITV
-#EXTINF:-1 tvg-id="SBSOne.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png", AU: SBS One
-http://vn1.cvacetv.ga:8080/stream/channelid/654604013
-#EXTINF:-1 tvg-id="SBSViceland.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://i.imgur.com/yIdjafM.png", AU: SBS Viceland
-http://vn1.cvacetv.ga:8080/stream/channelid/1289127708
 #EXTINF:-1 tvg-id="FoxMiddleEast.us" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png", US: FOX
 http://vn2.cvacetv.ga/FOX
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
@@ -1998,19 +1994,19 @@ http://14.248.62.164:8889/ultratv.php?id=15667
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.imgur.com/4nQOtYJ.png", US: CBS Sports Network FHD
 http://14.248.62.164:8889/iprotv.php?id=10709
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD
-http://vn1.cvacetv.ga/ESPN
+http://0.tcp.ngrok.io:19970/ESPN
 #EXTINF:-1 tvg-id="ESPN2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png", US: ESPN 2 FHD
-http://vn1.cvacetv.ga/ESPN2
+http://0.tcp.ngrok.io:19970/ESPN2
 #EXTINF:-1 tvg-id="USANetworkEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png", US: USA Network FHD
-http://vn1.cvacetv.ga/USA
+http://0.tcp.ngrok.io:19970/USA
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png", US: Golf Channel FHD
-http://vn1.cvacetv.ga/golf
+http://0.tcp.ngrok.io:19970/golf
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD
-http://vn1.cvacetv.ga/FS1
+http://0.tcp.ngrok.io:19970/FS1
 #EXTINF:-1 tvg-id="FoxSports2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png", US: Fox Sports 2 FHD
-http://vn1.cvacetv.ga/FS2
+http://0.tcp.ngrok.io:19970/FS2
 #EXTINF:-1 tvg-id="TNTEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png", US: TNT East FHD
-http://vn1.cvacetv.ga/TNT
+http://0.tcp.ngrok.io:19970/TNT
 #EXTINF:-1 tvg-id="NBATV.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.ibb.co/M13tgJC/nba-tv.png", US: NBA TV FHD
 http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=8246&extension=ts&play_token=TaDzsyNle4
 #EXTINF:-1 tvg-id="NBAtv.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/clippers/nba-tv-logo.png", US: NBA TV FHD
@@ -2864,22 +2860,22 @@ http://14.248.62.164:8889/ultratv.php?id=7896
 http://vn2.cvacetv.ga/matchpre
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: SD1 Argentina - Saudi Arabia (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-23/11: SD1 Morocco - Croatia (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179314182.global.cdnfastest.com/live/live/chunklist.m3u8|referer=https://mitom1.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: SD2 Argentina - Saudi Arabia (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-23/11: SD2 Morocco - Croatia (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://cjtlakgrbfliv.vcdn.cloud/live/live@456.m3u8|referer=https://mitom1.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: SD3 Argentina - Saudi Arabia (Cáp Tần)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@live/chunklist.m3u8|referer=https://mitom1.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-23/11: SD3 Morocco - Croatia (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@live/chunklist.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: SD3 Argentina - Saudi Arabia (Cáp Tần)
+https://1093384063.cdn.khmer-hd.com/may1359HD/chunks.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-23/11: SD3 Morocco - Croatia (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1093384063.cdn.khmer-hd.com/may1357HD/chunks.m3u8|referer=https://mitom.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: Full HD Argentina - Saudi Arabia (Cáp Tần)
+https://cjtlakgrbfliv.vcdn.cloud/may1HD/index.m3u8|referer=https://mitom.90phut6.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-23/11: Full HD Morocco - Croatia (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-22/11: Nhà Đài Argentina - Saudi Arabia (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-23/11: Nhà Đài Morocco - Croatia (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179314182.global.cdnfastest.com/live/may12/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 
@@ -2942,18 +2938,18 @@ https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|referer=https:
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: HD 2 Morocco - Croatia (Giàng A Páo + Giàng A Cay)
 https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: Nhà Đài Morocco - Croatia (Giàng A Páo + Giàng A Cay)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: SD 1 Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betongsd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@bipsd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: HD 1 Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betonghd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@biphd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: SD 2 Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
-https://179665839.global.cdnfastest.com/live/betongsd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+https://179665839.global.cdnfastest.com/live/bipsd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: HD 2 Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
-https://179665839.global.cdnfastest.com/live/betonghd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+https://179665839.global.cdnfastest.com/live/biphd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: Nhà Đài Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-23/11: SD 1 Germany - Japan (Giàng A Phò)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
