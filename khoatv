@@ -2922,46 +2922,68 @@ https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=http
 https://179314182.global.cdnfastest.com/live/may12/chunklist.m3u8|referer=https://mitom1.90phut6.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-22/11: SD 1 Argentina - Saudi Arabia (Giàng A Phò)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|referer=https://xem.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-22/11: HD 1 Argentina - Saudi Arabia (Giàng A Phò)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|referer=https://xem.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-22/11: SD 2 Argentina - Saudi Arabia (Giàng A Phò)
-https://179665839.global.cdnfastest.com/live/cakhiasd2/playlist.m3u8|referer=https://xem.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-22/11: HD 2 Argentina - Saudi Arabia (Giàng A Phò)
-https://179665839.global.cdnfastest.com/live/cakhiahd2/playlist.m3u8|referer=https://xem.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-22/11: Nhà Đài Argentina - Saudi Arabia (Giàng A Phò)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|referer=https://xem.rakhoi6.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",15h45-23/11: SD 1 Everton - Western Sydney Wanderers FC (Giàng A Lử)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",15h45-23/11: HD 1 Everton - Western Sydney Wanderers FC (Giàng A Lử)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",15h45-23/11: SD 2 Everton - Western Sydney Wanderers FC (Giàng A Lử)
+https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",15h45-23/11: HD 2 Everton - Western Sydney Wanderers FC (Giàng A Lử)
+https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",15h45-23/11: Nhà Đài Everton - Western Sydney Wanderers FC (Giàng A Lử)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-22/11: SD 1 Denmark - Tunisia (Giàng A Páo + Giàng A Cay)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-22/11: HD 1 Denmark - Tunisia (Giàng A Páo + Giàng A Cay)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-22/11: SD 2 Denmark - Tunisia (Giàng A Páo + Giàng A Cay)
-https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-22/11: HD 2 Denmark - Tunisia (Giàng A Páo + Giàng A Cay)
-https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-22/11: Nhà Đài Denmark - Tunisia (Giàng A Páo + Giàng A Cay)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: SD 1 Morocco - Croatia (Giàng A Páo + Giàng A Cay)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: HD 1 Morocco - Croatia (Giàng A Páo + Giàng A Cay)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: SD 2 Morocco - Croatia (Giàng A Páo + Giàng A Cay)
+https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: HD 2 Morocco - Croatia (Giàng A Páo + Giàng A Cay)
+https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: Nhà Đài Morocco - Croatia (Giàng A Páo + Giàng A Cay)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-22/11: SD 1 Mexico - Poland (Giàng A Bịp + Giàng A Phệt)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phetsd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-22/11: HD 1 Mexico - Poland (Giàng A Bịp + Giàng A Phệt)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phethd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-22/11: SD 2 Mexico - Poland (Giàng A Bịp + Giàng A Phệt)
-https://179665839.global.cdnfastest.com/live/phetsd2/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-22/11: HD 2 Mexico - Poland (Giàng A Bịp + Giàng A Phệt)
-https://179665839.global.cdnfastest.com/live/phethd2/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-22/11: Nhà Đài Mexico - Poland (Giàng A Bịp + Giàng A Phệt)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: SD 1 Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betongsd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: HD 1 Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betonghd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: SD 2 Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
+https://179665839.global.cdnfastest.com/live/betongsd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: HD 2 Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
+https://179665839.global.cdnfastest.com/live/betonghd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-23/11: Nhà Đài Hoang Anh Gia Lai - Ha Noi FC (Giàng A Bịp)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-23/11: SD 1 France - Australia (Giàng A Lử)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-23/11: HD 1 France - Australia (Giàng A Lử)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-23/11: SD 2 France - Australia (Giàng A Lử)
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-23/11: HD 2 France - Australia (Giàng A Lử)
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|referer=https://rakhoi.rakhoi6.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-23/11: Nhà Đài France - Australia (Giàng A Lử)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi6.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-23/11: SD 1 Germany - Japan (Giàng A Phò)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-23/11: HD 1 Germany - Japan (Giàng A Phò)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-23/11: SD 2 Germany - Japan (Giàng A Phò)
+https://179665839.global.cdnfastest.com/live/cakhiasd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-23/11: HD 2 Germany - Japan (Giàng A Phò)
+https://179665839.global.cdnfastest.com/live/cakhiahd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-23/11: Nhà Đài Germany - Japan (Giàng A Phò)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-23/11: SD 1 Spain - Costa Rica (Giàng A Lử)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-23/11: HD 1 Spain - Costa Rica (Giàng A Lử)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-23/11: SD 2 Spain - Costa Rica (Giàng A Lử)
+https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-23/11: HD 2 Spain - Costa Rica (Giàng A Lử)
+https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-23/11: Nhà Đài Spain - Costa Rica (Giàng A Lử)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-24/11: SD 1 Belgium - Canada (Giàng A Bịp + Giàng A Phệt)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phetsd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-24/11: HD 1 Belgium - Canada (Giàng A Bịp + Giàng A Phệt)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phethd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-24/11: SD 2 Belgium - Canada (Giàng A Bịp + Giàng A Phệt)
+https://179665839.global.cdnfastest.com/live/phetsd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-24/11: HD 2 Belgium - Canada (Giàng A Bịp + Giàng A Phệt)
+https://179665839.global.cdnfastest.com/live/phethd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-24/11: Nhà Đài Belgium - Canada (Giàng A Bịp + Giàng A Phệt)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
