@@ -205,15 +205,15 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #-*-- VTV World Cup 2022 -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
-http://113.23.86.248:8889/udp/225.1.2.249:30120
+http://103.56.156.30:8081/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv1
+http://vn1.cvacetv.ga/vtv1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 DVB-T2
 http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
-http://113.23.86.248:8889/udp/225.1.2.13:30120
+http://103.56.156.30:8081/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng
 http://vn1.cvacetv.ga/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 2
@@ -229,7 +229,7 @@ http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 DVB-T2
 http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
-http://113.23.86.248:8889/udp/225.1.2.247:30120
+http://103.56.156.30:8081/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng
 http://vn1.cvacetv.ga/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 2
@@ -243,13 +243,13 @@ https://wallpapermeter.tk/worldcup/vtv3mytv
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT
-http://113.23.86.248:8889/udp/225.1.2.20:30120
+http://103.56.156.30:8081/udp/225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.32:10600
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 DVB-T2
 http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
-http://113.23.86.248:8889/udp/225.1.1.131:30120
+http://103.56.156.30:8081/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
 http://vn1.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 2
@@ -273,7 +273,7 @@ https://api.vmttv.pw/vtvgo.php?id=163
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ DVB-T2
 http://laohac360.duckdns.org:9981/stream/channelnumber/206?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
-http://113.23.86.248:8889/udp/225.1.2.245:30120
+http://103.56.156.30:8081/udp/225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT Server dự phòng
 http://vn2.cvacetv.ga/vtvct
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT Server dự phòng 2
@@ -285,15 +285,15 @@ https://wallpapermeter.tk/worldcup/vtvcanthomytv
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT
-http://113.23.86.248:8889/udp/225.1.2.96:30120
+http://103.56.156.30:8081/udp/225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.202:10996
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 FPT
-http://113.23.86.248:8889/udp/225.1.2.166:30120
+http://103.56.156.30:8081/udp/225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.34:10612
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 FPT
-http://113.23.86.248:8889/udp/225.1.1.128:30120
+http://103.56.156.30:8081/udp/225.1.1.128:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.35:10618
 
@@ -621,7 +621,7 @@ http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NhfjQLd6dvoSMvT2NgFX/Q","kid":"J2F1T2YWNNSVYGMRmN0xIg"}],"type":"temporary"}
 https://vietanhtv.xyz/fptplay/cine/manifest.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD FPT
-http://113.23.86.248:8889/udp/225.1.1.5:30120
+http://103.56.156.30:8081/udp/225.1.1.5:30120
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -640,7 +640,7 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SpPWX15wCbyvVzsYfmj9IQ","kid":"PAIib4vsP5SNPgWDbEEOfg"}],"type":"temporary"}
 https://vietanhtv.xyz/fptplay/life/manifest.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD FPT
-http://113.23.86.248:8889/udp/225.1.1.6:30120
+http://103.56.156.30:8081/udp/225.1.1.6:30120
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -659,7 +659,7 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"buBsv9LS6y1/I3pL0O20Kw","kid":"KmGnRCDTNiiakPGw3Qtvqw"}],"type":"temporary"}
 https://vietanhtv.xyz/fptplay/sp1/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD FPT
-http://113.23.86.248:8889/udp/225.1.1.73:30120
+http://103.56.156.30:8081/udp/225.1.1.73:30120
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -678,7 +678,7 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1IXDO1r4SZEbO1/CEhiAmA","kid":"9nOu7yTcP0umQ37zs3z6kg"}],"type":"temporary"}
 https://vietanhtv.xyz/fptplay/sp2/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.png", K+Sport2 HD FPT
-http://113.23.86.248:8889/udp/225.1.1.77:30120
+http://103.56.156.30:8081/udp/225.1.1.77:30120
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -692,7 +692,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xEAD1IIyW/Mqe4ce3BYsDg","kid":"Ivwk+BfzNPWy174JZSU75w"}],"type":"temporary"}
 https://vietanhtv.xyz/fptplay/kids/manifest.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD FPT
-http://113.23.86.248:8889/udp/225.1.1.76:30120
+http://103.56.156.30:8081/udp/225.1.1.76:30120
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1878,6 +1878,10 @@ http://vn2.cvacetv.ga/BBC2
 http://vn2.cvacetv.ga/ITV
 #EXTINF:-1 tvg-id="FoxMiddleEast.us" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png", US: FOX
 http://0.tcp.ngrok.io:19970/FOX
+#EXTINF:-1 tvg-id="SBSOne.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png", AU: SBS One
+http://vn1.cvacetv.ga:8080/stream/channelid/1390355282
+#EXTINF:-1 tvg-id="SBSViceland.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://i.imgur.com/yIdjafM.png", AU: SBS Viceland
+http://vn1.cvacetv.ga:8080/stream/channelid/1499777929
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
 http://vn2.cvacetv.ga/TVP_Sport
 #EXTINF:-1 tvg-id="DasErste.de" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/512px-Das_Erste_2014.svg.png", DE: Das Erste
@@ -2973,7 +2977,7 @@ https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|referer=https://rakhoi.rakhoi1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-23/11: HD 2 Spain - Costa Rica (Giàng A Lử)
 https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|referer=https://rakhoi.rakhoi10.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-23/11: Nhà Đài Spain - Costa Rica (Giàng A Lử)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h00-24/11: SD 1 Belgium - Canada (Giàng A Bịp + Giàng A Phệt)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phetsd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
