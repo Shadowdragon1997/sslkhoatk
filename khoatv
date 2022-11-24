@@ -215,15 +215,15 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
 http://118.71.233.245:13579/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng
-http://vn1.cvacetv.ga/vtv2
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 2
 http://vn2.cvacetv.ga/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 2
+http://sg.cvacetv.ga/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 3
 http://vn2.vietanhtv.pw:8000/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng
-http://sg.cvacetv.ga/vtv2
+http://sg2.cvacetv.ga/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 DVB-T2
@@ -231,15 +231,15 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
 http://118.71.233.245:13579/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng
-http://vn1.cvacetv.ga/vtv3
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 2
 http://vn2.cvacetv.ga/vtv3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 2
+http://sg.cvacetv.ga/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 3
 http://vn2.vietanhtv.pw:8000/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.118:10260
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV Server dự phòng
-http://sg.cvacetv.ga/vtv3
+http://sg2.cvacetv.ga/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT
@@ -251,15 +251,15 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://118.71.233.245:13579/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
-http://vn1.cvacetv.ga/vtv5
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 2
 http://vn2.cvacetv.ga/vtv5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 2
+http://sg.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 3
 http://vn2.vietanhtv.pw:8000/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV Server dự phòng
-http://sg.cvacetv.ga/vtv5
+http://sg2.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ DVB-T2
@@ -2896,7 +2896,7 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@live/ch
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://mitom1.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",20h00-24/11: HD2 Uruguay - South Korea (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://cjtlakgrbflivcf.vcdn.com.vn/may1HD/may1HD@456.m3u8|referer=https://mitom.90phut6.live/
+https://cjtlakgrbfliv.vcdn.cloud/may1HD/may1HD@456.m3u8|referer=https://mitom.90phut6.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",20h00-24/11: Full HD Uruguay - South Korea (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom1.90phut6.live/
@@ -2963,7 +2963,7 @@ https://179665839.global.cdnfastest.com/live/phetsd2/playlist.m3u8|referer=https
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-24/11: HD 2 Uruguay - South Korea (Giàng A Bịp + Giàng A Phệt)
 https://179665839.global.cdnfastest.com/live/phethd2/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",20h00-24/11: Nhà Đài Uruguay - South Korea (Giàng A Bịp + Giàng A Phệt)
-https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-24/11: SD 1 Portugal - Ghana (Giàng A Phò)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|referer=https://rakhoi.rakhoi10.com/
