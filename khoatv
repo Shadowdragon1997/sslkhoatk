@@ -226,6 +226,10 @@ http://vn2.vietanhtv.pw:8000/vtv2
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng
 http://sg2.cvacetv.ga/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng 2
+http://live2.vthanhtivi.pw/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng 3
+https://wallpapermeter.tk/worldcup/vtv2mytv
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 DVB-T2
@@ -242,6 +246,8 @@ http://vn2.vietanhtv.pw:8000/vtv3
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.118:10260
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV Server dự phòng
 http://sg2.cvacetv.ga/vtv3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV Server dự phòng 2
+https://wallpapermeter.tk/worldcup/vtv3mytv
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT
@@ -262,6 +268,10 @@ http://vn2.vietanhtv.pw:8000/vtv5
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV Server dự phòng
 http://sg2.cvacetv.ga/vtv5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV Server dự phòng 2
+http://live2.vthanhtivi.pw/vtv5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV Server dự phòng 3
+https://wallpapermeter.tk/worldcup/vtv5mytv
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ DVB-T2
@@ -283,6 +293,8 @@ http://vn2.vietanhtv.pw:8000/vtvcantho
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.119:10266
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV Server dự phòng
+http://live2.vthanhtivi.pw/vtvct
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV Server dự phòng 2
 https://wallpapermeter.tk/worldcup/vtvcanthomytv
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ ViettelTV
 http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
@@ -1362,85 +1374,36 @@ https://code.television4you.xyz/playlist/eventvieon.php?id=3b8ff13a-75c9-4768-ad
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/22/quvdxrts_bannerd6a2841aadc2f4305f792caa0f81f63b_1920_1080.jpg" group-title="🗓| Sự kiện", 19:15-26/11: Show Diễn thời trang - Búp Bê Show 2
 https://code.television4you.xyz/playlist/eventvieon.php?id=a284aba6-7da3-45f6-b2fe-152814e1cecd
 
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/74/4a/a6/6e/e0/0a/74a6e-lbonhavsghanaworldcup2022bngh-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-24/11: Bồ Đào Nha vs Ghana - World Cup 2022_Bảng H
-http://code.television4you.xyz/mytvevent.php?id=6323
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-25/11: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-25/11: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5703
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-25/11: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-25/11: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5704
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c6/6b/b3/39/9a/aa/c6b39-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-25/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c6/6b/b3/39/9a/aa/c6b39-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-25/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
 http://code.television4you.xyz/mytvevent.php?id=6328
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9e/e1/13/3f/f0/0e/9e13f-laicngbitemyuanhtp23-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-25/11: Ai Cũng Biết Em Yêu Anh - Tập 23
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9e/e1/13/3f/f0/0e/9e13f-laicngbitemyuanhtp23-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-25/11: Ai Cũng Biết Em Yêu Anh - Tập 23
 http://code.television4you.xyz/mytvevent.php?id=6027
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9a/ad/dd/db/ba/a8/9addb-lsteamqcngnghvisinhviyhcththchthchnh-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-25/11: SteamQ: Công Nghệ Vi sinh với Y Học - Thử thách Thực hành
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9a/ad/dd/db/ba/a8/9addb-lsteamqcngnghvisinhviyhcththchthchnh-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-25/11: SteamQ: Công Nghệ Vi sinh với Y Học - Thử thách Thực hành
 http://code.television4you.xyz/mytvevent.php?id=6271
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/de/e3/30/06/60/06/de306-lqutngtith6mimibnnhau-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-25/11: Quà tặng Tối Thứ 6 - Mãi mãi bên nhau
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/de/e3/30/06/60/06/de306-lqutngtith6mimibnnhau-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-25/11: Quà tặng Tối Thứ 6 - Mãi mãi bên nhau
 http://code.television4you.xyz/mytvevent.php?id=6327
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/82/21/11/13/37/72/82113-ltasngcm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-25/11: Tỏa Sáng Ước Mơ
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/82/21/11/13/37/72/82113-ltasngcm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-25/11: Tỏa Sáng Ước Mơ
 http://code.television4you.xyz/mytvevent.php?id=6330
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9f/fc/ce/ed/d5/54/9fced-ldareyoubncdmma2tp9-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-26/11: Dare You - Bạn Có Dám - Mùa 2 - Tập 9
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/da/a7/7e/eb/b9/9a/da7eb-laicngbitemyuanhtp24-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-26/11: Ai Cũng Biết Em Yêu Anh - Tập 24
+http://code.television4you.xyz/mytvevent.php?id=6025
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9f/fc/ce/ed/d5/54/9fced-ldareyoubncdmma2tp9-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-26/11: Dare You - Bạn Có Dám - Mùa 2 - Tập 9
 http://code.television4you.xyz/mytvevent.php?id=5047
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/de/e8/84/48/87/74/de848-lgiaiiucmxc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-26/11: Giai Điệu Cảm Xúc
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/de/e8/84/48/87/74/de848-lgiaiiucmxc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-26/11: Giai Điệu Cảm Xúc
 http://code.television4you.xyz/mytvevent.php?id=6333
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/dd/de/e9/9f/fc/c5/dde9f-lphngtrmytvkhonhkhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-26/11: Phòng trà MyTV - Khoảnh khắc
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/dd/de/e9/9f/fc/c5/dde9f-lphngtrmytvkhonhkhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-26/11: Phòng trà MyTV - Khoảnh khắc
 http://code.television4you.xyz/mytvevent.php?id=6326
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/fb/b5/5a/aa/a3/3a/fb5aa-lsteamqcngnghvisinhviyhctngktvtraogii-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-28/11: SteamQ: Công Nghệ Vi sinh với Y Học - Tổng kết và Trao giải
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e2/29/9d/d1/15/59/e29d1-laicngbitemyuanhtp25-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-27/11: Ai Cũng Biết Em Yêu Anh - Tập 25
+http://code.television4you.xyz/mytvevent.php?id=6012
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f5/52/2a/ab/bb/b0/f52ab-laicngbitemyuanhtp26-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-28/11: Ai Cũng Biết Em Yêu Anh - Tập 26
+http://code.television4you.xyz/mytvevent.php?id=6024
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fb/b5/5a/aa/a3/3a/fb5aa-lsteamqcngnghvisinhviyhctngktvtraogii-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-28/11: SteamQ: Công Nghệ Vi sinh với Y Học - Tổng kết và Trao giải
 http://code.television4you.xyz/mytvevent.php?id=6272
-
-#-*-- Live Youtube -*--#
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg", COVID-19 Stats
-https://bit.ly/3UTJ6DQ
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/7tNtU5XFwrU/maxresdefault.jpg", NCS Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479605/ei/lSFUY6iHLeSfvcAP4r-jkAI/ip/103.140.250.237/id/7tNtU5XFwrU.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPNIvezKjgC-CemA7UzDEDuzB9RZwLP2mOdWSuug5mlZAiEArsQ4Yiunua1Hne4O90451-Q55-D-OXTP39Ajwe5RTXg%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/jfKfPfyJRdk/maxresdefault.jpg", Lofi Girl
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479606/ei/liFUY8S0DpDW4gKUxJmoAg/ip/103.140.250.237/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDIxEtBg5P0w8hcOTl5rNX9k4TybrVuiz3dffB9i0BqoCIQC--DSfGmKdCg18IBn7vE6L8LcrTiwpcohSS6KsdFxncw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/rUxyKA_-grg/maxresdefault.jpg", Lofi Girl 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479606/ei/liFUY5mAK4n2rQTJ_53ABA/ip/103.140.250.237/id/rUxyKA_-grg.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJE6sKetW7h_i_TRn8BD-E_QSmgrFvRF-sDhsBixnZkYAiAPpZUTDwIG32UiSwDCEyB_zZ4zYgI6PE4_ew1VgfQA6g%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/zHiltD2zTGY/maxresdefault.jpg", World Poker Tour
-https://bit.ly/3UTJ6DQ
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/JTjoH1HNkbs/maxresdefault.jpg", Epidemic Pop
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479611/ei/myFUY_SFLNvy2roP5669sA8/ip/103.140.250.237/id/JTjoH1HNkbs.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJn8LLfPop3zq_9jtkPxKySulLOvNK_B0MKAgDUHZb_sCICiBUaOzjv07RqUsvsG5vI3Sy1trlPcjwTeVwjs1yjHK/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/wUdAx6DHb3E/maxresdefault.jpg", Doraemon Tiếng Việt S7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479612/ei/nCFUY7-nCdf1rQSPmLKwCA/ip/103.140.250.237/id/wUdAx6DHb3E.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/vn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgAmJMlMRJSYGpK7__QPJpif1zaIdL9e0skjyWde5NlYsCIQDspDRZl2BovPz6WfIEzbHDK2W0dl9YujcUG3Yj4jtMKg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/iwisfBM08E0/maxresdefault.jpg", Thám tử lừng danh Conan
-https://bit.ly/3UTJ6DQ
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://cdn.tgdd.vn/GameApp/2/224106/Screentshots/vtc-now-ung-dung-xem-nghe-doc-va-tuong-tac-da-chieu-tien-ich-224106-logo-07-06-2020.png", VTC Now
-https://bit.ly/3UTJ6DQ
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRGdaJkLSxBNs42Q3CHaHz5l1B3wzmwJI-wVMzriA=s900-c-k-c0x00ffffff-no-rj", VETV7 ESPORTS
-https://bit.ly/3UTJ6DQ
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479618/ei/oiFUY_u2BYndrQSjno_oDw/ip/103.140.250.237/id/XWq5kBlakcQ.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgAfRmS2viiyAn82O2KOmymDssYvq9vAjfz7pqRmJY8sECIQDcfClfthHSKpScNKMCk2FWXV7QhfIzsFsoebw4zMttnA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/h3MuIUNCCzI/maxresdefault.jpg", France 24 English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479618/ei/oiFUY5nvI5eu4QLWjLaoBQ/ip/103.140.250.237/id/h3MuIUNCCzI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRfyG6OU97HX3i33ATh6KweTr809oU8JGNzNJHQ3yn5MCIEPEuutO96vepFrbydydgYaTsroElNzRbxAj5otXeVlF/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/w_Ma8oQLmSM/maxresdefault.jpg", ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479619/ei/oyFUY-7JAcas4wKU14nwAQ/ip/103.140.250.237/id/w_Ma8oQLmSM.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKec1ti4OOWCdyVuDc-UJqx4R5_MogABvqIAnHaNvpCkCIQCmM9PPuybVaZdIfLsgafI9ex9QG2v5r98dwxg64TcNUA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/9Auq9mYxFEE/maxresdefault.jpg", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479619/ei/oyFUY8GCG9mWgQPLyJygDA/ip/103.140.250.237/id/9Auq9mYxFEE.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/vn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXctCb3SXie-_Xb0WOnYECwZXIpNyuOGuJTidS_6GzT4CIDvhOoa1EUPMnZSeUR7gt9YlaaFjsUJEievSM3ZbD4Gn/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/GE_SfNVNyqk/maxresdefault.jpg", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479619/ei/oyFUY4zkNuOCvcAPl-SHsA0/ip/103.140.250.237/id/GE_SfNVNyqk.11/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIfOpax4EUdSoTb6jD0NGr8NWEerseeXx2xjM13_8zB0AiBGsOkWYEGuSDLKMWPM9NDExe0oOEJ9HY6buHFCtWLpsQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/oWwQuAN-KZc/maxresdefault.jpg", CGTN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479620/ei/pCFUY6WYKLCjlQT8k5_oDg/ip/103.140.250.237/id/oWwQuAN-KZc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYDlaZPY7oCI3sgB4vdto-xrp0y-jzSOQ37QGHKH9LDACIHqKU4Zk_Tzd-dvKgB5NopSP8yfSLcSUn8_b_1Imiz2V/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/coYw-eVU0Ks/maxresdefault.jpg", ANN News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479621/ei/pSFUY4rVAZqOs8IPyI6psAU/ip/103.140.250.237/id/coYw-eVU0Ks.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIga9yAQuZP9I-DBTT1t-JDPuuL_GNv5exKC1OQpnZLRK4CIHpopL5NQt39jDRPGnkYpi8AaAIXV1dxYkcD_8W3MGoB/file/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Youtube" tvg-logo="https://i.ytimg.com/vi/21X5lGlDOfg/maxresdefault.jpg", NASA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666479621/ei/pSFUY5KGHP-ws8IPt_S5yAs/ip/103.140.250.237/id/21X5lGlDOfg.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBjD8_URFRPmWauX0qhsx4ABOtEfYCzk41YOXEWHbcrICIQCfwcY6nezuL4hSyKoGHxJwq9c8sqhYxfSb6UrCO_NgLA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d9/90/0b/b6/6b/b5/d90b6-limhnththaobrave65thchthcvsbahrain-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-28/11: Điểm hẹn Thể thao: Brave 65 - Thách thức võ sỹ Bahrain
+http://code.television4you.xyz/mytvevent.php?id=6332
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", JP: NHK G
