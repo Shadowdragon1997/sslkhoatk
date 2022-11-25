@@ -99,13 +99,13 @@ http://sg2.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 5
 http://vn3.cvacetv.ga/4K/mpegts
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 1
-http://vn1.cvacetv.ga/live1
+
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
-http://vn1.cvacetv.ga/live2
+
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png", CVmedia Live World Cup 1
-http://vn2.cvacetv.ga/WC1/mpegts
+http://vn2.cvacetv.ga/WC1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png", CVmedia Live World Cup 2
-http://vn2.cvacetv.ga/WC2/mpegts
+http://vn2.cvacetv.ga/WC2
 
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/dxjw9qjo_banner25e849c052c43ddfacd80f8af368475b_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-09/12: Brisbane Roar - Adelaide United (Vòng 7 - VĐQG Úc 2022/23)
 https://code.television4you.xyz/playlist/eventvieon.php?id=1dceb056-0e2b-446e-a268-325b3a39efab
@@ -209,7 +209,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
 http://118.71.233.245:13579/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv1/mpegts
+http://vn2.cvacetv.ga/vtv1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 DVB-T2
@@ -217,7 +217,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
 http://118.71.233.245:13579/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv2/mpegts
+http://vn2.cvacetv.ga/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 2
 http://sg.cvacetv.ga/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 3
@@ -225,7 +225,7 @@ http://vn2.vietanhtv.pw:8000/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng
-http://sg2.cvacetv.ga/vtv2
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng 2
 http://live2.vthanhtivi.pw/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng 3
@@ -237,7 +237,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
 http://118.71.233.245:13579/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv3/mpegts
+http://vn2.cvacetv.ga/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 2
 http://sg.cvacetv.ga/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 3
@@ -245,7 +245,7 @@ http://vn2.vietanhtv.pw:8000/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.118:10260
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV Server dự phòng
-http://sg2.cvacetv.ga/vtv3
+
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV Server dự phòng 2
 https://wallpapermeter.tk/worldcup/vtv3mytv
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 ViettelTV
@@ -259,7 +259,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://118.71.233.245:13579/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv5/mpegts
+http://vn2.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 2
 http://sg.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 3
@@ -267,7 +267,7 @@ http://vn2.vietanhtv.pw:8000/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV Server dự phòng
-http://sg2.cvacetv.ga/vtv5
+
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV Server dự phòng 2
 http://live2.vthanhtivi.pw/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV Server dự phòng 3
@@ -1844,47 +1844,47 @@ http://123.24.25.154:8889/evol.php?id=68442
 
 #-*-- FIFA World Cup 2022 -*--#
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One
-http://vn2.cvacetv.ga/bbc1/mpegts
+http://vn2.cvacetv.ga/BBC1
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One Server 2
 http://123.24.25.154:8889/evol.php?id=17305
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two
-http://vn2.cvacetv.ga/bbc2/mpegts
+http://vn2.cvacetv.ga/BBC2
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two Server 2
 http://123.24.25.154:8889/evol.php?id=17318
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV
-http://vn2.cvacetv.ga/itv/mpegts
+http://vn2.cvacetv.ga/ITV
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV Server 2
 http://123.24.25.154:8889/evol.php?id=17295
 #EXTINF:-1 tvg-id="FoxMiddleEast.us" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png", US: FOX
-http://vn2.cvacetv.ga/FOX/mpegts
+http://vn2.cvacetv.ga/FOX
 #EXTINF:-1 tvg-id="SBSOne.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png", AU: SBS One
-http://vn1.cvacetv.ga:8080/stream/channelid/1390355282
+http://sg.cvacetv.ga/SBSOne
 #EXTINF:-1 tvg-id="SBSViceland.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://i.imgur.com/yIdjafM.png", AU: SBS Viceland
-http://vn1.cvacetv.ga:8080/stream/channelid/1499777929
+http://sg.cvacetv.ga/SBSViceland
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
 http://vn2.cvacetv.ga/TVP_Sport
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD Server 2
 http://123.24.25.154:8889/evol.php?id=67806
 #EXTINF:-1 tvg-id="DasErste.de" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/512px-Das_Erste_2014.svg.png", DE: Das Erste
-http://vn2.cvacetv.ga/1de/mpegts
+http://vn2.cvacetv.ga/DasErste
 #EXTINF:-1 tvg-id="ZDF.de" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png", DE: ZDF
-http://vn2.cvacetv.ga/ZDF/mpegts
+http://vn2.cvacetv.ga/ZDF
 #EXTINF:-1 tvg-ID="NPO1.nl" group-title="🇳🇱 | Netherlands TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/512px-NPO_1_logo_2014.svg.png", NL: NPO1
-http://vn2.cvacetv.ga/NPO1/mpegts
+http://vn2.cvacetv.ga/NPO1
 #EXTINF:-1 tvg-id="TF1.fr" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png", FR: TF1
 http://vn2.cvacetv.ga/TF1/mpegts
 #EXTINF:-1 tvg-id="Rai1.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD
-http://vn2.cvacetv.ga/Rai1/mpegts
+http://vn2.cvacetv.ga/Rai1
 #EXTINF:-1 tvg-ID="Rai1.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD Server 2
 http://123.24.25.154:8889/evol.php?id=68620
 #EXTINF:-1 tvg-id="Rai2.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD
-http://vn2.cvacetv.ga/Rai2/mpegts
+http://vn2.cvacetv.ga/Rai2
 #EXTINF:-1 tvg-ID="Rai2.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD Server 2
 http://123.24.25.154:8889/evol.php?id=68621
 #EXTINF:-1 tvg-id="KBS1TV.kr" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KR: KBS 1
-http://vn2.cvacetv.ga/KBS1/mpegts
+http://vn2.cvacetv.ga/KBS1
 #EXTINF:-1 tvg-id="KBS2TV.kr" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KR: KBS 2
-http://vn2.cvacetv.ga/KBS2/mpegts
+http://vn2.cvacetv.ga/KBS2
 
 #-*-- Sports UK -*--#
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/rsT6Cu2.png", UK: Sky Sports Football FHD
@@ -2003,7 +2003,7 @@ http://0.tcp.ngrok.io:19970/USA
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png", US: Golf Channel FHD
 http://0.tcp.ngrok.io:19970/golf
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD
-http://vn2.cvacetv.ga/FS1/mpegts
+http://vn2.cvacetv.ga/FS1
 #EXTINF:-1 tvg-id="FoxSports2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png", US: Fox Sports 2 FHD
 http://0.tcp.ngrok.io:19970/FS2
 #EXTINF:-1 tvg-id="TNTEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png", US: TNT East FHD
@@ -2502,7 +2502,7 @@ http://123.24.25.154:8889/angel.php?id=12784
 #EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 3
 http://123.24.25.154:8889/angel.php?id=102461
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 2 FHD
-http://vn1.cvacetv.ga:8080/stream/channelid/49994801
+http://sg.cvacetv.ga:8080/stream/channelid/1083599680
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/vlHIPhm.png", PT: Sport TV 2 FHD Server 2
 http://123.24.25.154:8889/evol.php?id=107501
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 3
@@ -2512,7 +2512,7 @@ http://123.24.25.154:8889/angel.php?id=102462
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 4K
 http://123.24.25.154:8889/angel.php?id=102463
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD
-http://vn1.cvacetv.ga:8080/stream/channelid/599677544
+http://sg.cvacetv.ga:8080/stream/channelid/403378061
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 2
 http://123.24.25.154:8889/evol.php?id=107502
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 3
@@ -2944,19 +2944,19 @@ http://vn2.cvacetv.ga/matchtv/mpegts
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
 http://123.24.25.154:8889/ultratv.php?id=3151
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD
-http://vn2.cvacetv.ga/futbol1/mpegts
+http://vn2.cvacetv.ga/futbol1
 #EXTINF:-1 tvg-ID="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD Server 2
 http://123.24.25.154:8889/ultratv.php?id=1210
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD
-http://vn2.cvacetv.ga/futbol2/mpegts
+http://vn2.cvacetv.ga/futbol2
 #EXTINF:-1 tvg-ID="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD Server 2
 http://123.24.25.154:8889/ultratv.php?id=7895
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD
-http://vn2.cvacetv.ga/futbol3/mpegts
+http://vn2.cvacetv.ga/futbol3
 #EXTINF:-1 tvg-ID="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD Server 2
 http://123.24.25.154:8889/ultratv.php?id=7896
 #EXTINF:-1 tvg-id="MatchPremier.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/GQPyHYK.png", RU: Маtch Premier HD
-http://vn2.cvacetv.ga/matchpre/mpegts
+http://vn2.cvacetv.ga/matchpre
 
 #-*-- Livestream bóng đá Vebo TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-25/11: SD1 Wales - Iran (Người Già)
