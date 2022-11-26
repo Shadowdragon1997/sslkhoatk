@@ -1369,25 +1369,19 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/dq6ky2ri_banner4b1fcbf3cb9e0525d1299edf9d5a669a_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-25/11: Quay số mở thưởng Vietlott 25/11/2022
-https://code.television4you.xyz/playlist/eventvieon.php?id=3b8ff13a-75c9-4768-ad6d-721780bf7b95
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/10/27/5ntrq8dt_banner1bec203428a45ad33c4dd5a2c1fb4f14_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-26/11: Quay số mở thưởng Vietlott 26/11/2022
+https://code.television4you.xyz/playlist/eventvieon.php?id=31deb05e-55a8-443f-90f5-88fe873bf963
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/22/quvdxrts_bannerd6a2841aadc2f4305f792caa0f81f63b_1920_1080.jpg" group-title="🗓| Sự kiện", 19:15-26/11: Show Diễn thời trang - Búp Bê Show 2
 https://code.television4you.xyz/playlist/eventvieon.php?id=a284aba6-7da3-45f6-b2fe-152814e1cecd
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/25/q2w8uonv_bannerf08bd9b020c73b865ffda6b8083f134a_1920_1080.jpg" group-title="🗓| Sự kiện", 14:45-04/12: Ravolution Music Festival: Universal Love 8th Edition
+https://code.television4you.xyz/playlist/eventvieon.php?id=cef09f25-e910-4103-bf77-4135f0cd9add
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-25/11: Bố Đầu Nhỏ Con Đầu To
-http://code.television4you.xyz/mytvevent.php?id=5703
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-25/11: Bố Đầu Nhỏ Con Đầu To
-http://code.television4you.xyz/mytvevent.php?id=5704
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c6/6b/b3/39/9a/aa/c6b39-lcanhcquctxalmnhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-25/11: Ca Nhạc Quốc Tế - Xa Lộ Âm Nhạc
-http://code.television4you.xyz/mytvevent.php?id=6328
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9e/e1/13/3f/f0/0e/9e13f-laicngbitemyuanhtp23-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-25/11: Ai Cũng Biết Em Yêu Anh - Tập 23
-http://code.television4you.xyz/mytvevent.php?id=6027
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9a/ad/dd/db/ba/a8/9addb-lsteamqcngnghvisinhviyhcththchthchnh-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-25/11: SteamQ: Công Nghệ Vi sinh với Y Học - Thử thách Thực hành
-http://code.television4you.xyz/mytvevent.php?id=6271
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/de/e3/30/06/60/06/de306-lqutngtith6mimibnnhau-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-25/11: Quà tặng Tối Thứ 6 - Mãi mãi bên nhau
-http://code.television4you.xyz/mytvevent.php?id=6327
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/82/21/11/13/37/72/82113-ltasngcm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-25/11: Tỏa Sáng Ước Mơ
-http://code.television4you.xyz/mytvevent.php?id=6330
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/de/e1/16/6e/ed/d9/de16e-lkhanhkhanhnhtthngtp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-26/11: Khanh Khanh Nhật Thường - Tập 11
+http://code.television4you.xyz/mytvevent.php?id=6311
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ad/dd/d7/7b/bb/b5/add7b-lkhanhkhanhnhtthngtp12-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:48-26/11: Khanh Khanh Nhật Thường - Tập 12
+http://code.television4you.xyz/mytvevent.php?id=6312
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/91/1f/f2/27/7c/c8/91f27-ltunisiavsaustraliaworldcup2022bngd-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:20-26/11: Tunisia vs Australia - World Cup 2022_Bảng D
+http://code.television4you.xyz/mytvevent.php?id=6344
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/da/a7/7e/eb/b9/9a/da7eb-laicngbitemyuanhtp24-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-26/11: Ai Cũng Biết Em Yêu Anh - Tập 24
 http://code.television4you.xyz/mytvevent.php?id=6025
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9f/fc/ce/ed/d5/54/9fced-ldareyoubncdmma2tp9-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-26/11: Dare You - Bạn Có Dám - Mùa 2 - Tập 9
@@ -1396,14 +1390,30 @@ http://code.television4you.xyz/mytvevent.php?id=5047
 http://code.television4you.xyz/mytvevent.php?id=6333
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/dd/de/e9/9f/fc/c5/dde9f-lphngtrmytvkhonhkhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-26/11: Phòng trà MyTV - Khoảnh khắc
 http://code.television4you.xyz/mytvevent.php?id=6326
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/a6/62/2c/c0/0f/fb/a62c0-ltrchithngtrngtp37-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-26/11: Trò Chơi Thương Trường - Tập 37
+http://code.television4you.xyz/mytvevent.php?id=6162
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e2/29/9d/d1/15/59/e29d1-laicngbitemyuanhtp25-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-27/11: Ai Cũng Biết Em Yêu Anh - Tập 25
 http://code.television4you.xyz/mytvevent.php?id=6012
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/17/7c/cc/c4/49/99/17cc4-ltrchithngtrngtp38-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-27/11: Trò Chơi Thương Trường - Tập 38
+http://code.television4you.xyz/mytvevent.php?id=6161
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/24/41/15/5f/f0/0d/2415f-ltrchithngtrngtp39-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:50-27/11: Trò Chơi Thương Trường - Tập 39
+http://code.television4you.xyz/mytvevent.php?id=6164
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f5/52/2a/ab/bb/b0/f52ab-laicngbitemyuanhtp26-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-28/11: Ai Cũng Biết Em Yêu Anh - Tập 26
 http://code.television4you.xyz/mytvevent.php?id=6024
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fb/b5/5a/aa/a3/3a/fb5aa-lsteamqcngnghvisinhviyhctngktvtraogii-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-28/11: SteamQ: Công Nghệ Vi sinh với Y Học - Tổng kết và Trao giải
 http://code.television4you.xyz/mytvevent.php?id=6272
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ea/ab/be/e0/08/81/eabe0-llphchonmkhchmirteeduylunphn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-28/11: Lớp Học Hoàn Mỹ: Khách mời Rtee - Duy Luân - Phần 1
+http://code.television4you.xyz/mytvevent.php?id=5849
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d9/90/0b/b6/6b/b5/d90b6-limhnththaobrave65thchthcvsbahrain-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-28/11: Điểm hẹn Thể thao: Brave 65 - Thách thức võ sỹ Bahrain
 http://code.television4you.xyz/mytvevent.php?id=6332
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ad/dc/cc/ca/a6/65/adcca-ltrchithngtrngtp40-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-28/11: Trò Chơi Thương Trường - Tập 40
+http://code.television4you.xyz/mytvevent.php?id=6163
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/02/22/24/44/45/59/02244-llphchonmkhchmirteeduylunphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-29/11: Lớp Học Hoàn Mỹ: Khách mời Rtee - Duy Luân - Phần 2
+http://code.television4you.xyz/mytvevent.php?id=5850
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/14/4e/e3/30/06/65/14e30-llphchonmkhchmirteeduylunphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-30/11: Lớp Học Hoàn Mỹ: Khách mời Rtee - Duy Luân - Phần 3
+http://code.television4you.xyz/mytvevent.php?id=5851
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c5/5b/b6/63/3a/ae/c5b63-llphchonmkhchmirteeduylunphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-01/12: Lớp Học Hoàn Mỹ: Khách mời Rtee - Duy Luân - Phần 4
+http://code.television4you.xyz/mytvevent.php?id=5852
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", JP: NHK G
@@ -2597,9 +2607,17 @@ http://123.24.25.154:8889/angel.php?id=12805
 http://123.24.25.154:8889/angel.php?id=102476
 #EXTINF:-1 tvg-id="Canal11.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png", PT: CANAL 11 FHD
 http://sg.cvacetv.ga:8080/stream/channelid/2103119835
+#EXTINF:-1 tvg-id="Canal11.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png", PT: CANAL 11 FHD Server 2
+http://123.24.25.154:8889/angel.php?id=12806
 #EXTINF:-1 tvg-ID="Eurosport1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="", PT: Eurosport 1 FHD
 http://123.24.25.154:8889/ultratv.php?id=5119
 #EXTINF:-1 tvg-ID="Eurosport2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2.jpg", PT: Eurosport 2 FHD
+http://123.24.25.154:8889/ultratv.php?id=9345
+#EXTINF:-1 tvg-ID="BenficaTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/512px-BTV_Red.svg.png", PT: Benfica TV FHD
+http://123.24.25.154:8889/ultratv.php?id=9345
+#EXTINF:-1 tvg-ID="BenficaTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/512px-BTV_Red.svg.png", PT: Benfica TV FHD Server 2
+http://123.24.25.154:8889/ultratv.php?id=9345
+#EXTINF:-1 tvg-ID="SportingTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/GOlNfTo.png", PT: Sporting TV FHD
 http://123.24.25.154:8889/ultratv.php?id=9345
 
 #-*-- Sports Poland -*--#
@@ -2942,19 +2960,19 @@ http://92.119.88.58:8080/272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD
 http://vn2.cvacetv.ga/matchtv/mpegts
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
-http://123.24.25.154:8889/ultratv.php?id=3151
+http://123.24.25.154:8889/evol.php?id=21420
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD
 http://vn2.cvacetv.ga/futbol1
 #EXTINF:-1 tvg-ID="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD Server 2
-http://123.24.25.154:8889/ultratv.php?id=1210
+http://123.24.25.154:8889/evol.php?id=21418
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD
 http://vn2.cvacetv.ga/futbol2
 #EXTINF:-1 tvg-ID="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD Server 2
-http://123.24.25.154:8889/ultratv.php?id=7895
+http://123.24.25.154:8889/evol.php?id=21417
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD
 http://vn2.cvacetv.ga/futbol3
 #EXTINF:-1 tvg-ID="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD Server 2
-http://123.24.25.154:8889/ultratv.php?id=7896
+http://123.24.25.154:8889/evol.php?id=21416
 #EXTINF:-1 tvg-id="MatchPremier.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/GQPyHYK.png", RU: Маtch Premier HD
 http://vn2.cvacetv.ga/matchpre
 
