@@ -2958,7 +2958,7 @@ http://92.119.88.58:8080/271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="SetantaSportsUkraine.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a0000015409aecba539a5b8c7ff7cd6e837/160x120", UA: Setanta Sports Ukraine HD
 http://92.119.88.58:8080/272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD
-http://vn2.cvacetv.ga/matchtv/mpegts
+http://vn2.cvacetv.ga/matchtv
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
 http://123.24.25.154:8889/evol.php?id=21420
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD
