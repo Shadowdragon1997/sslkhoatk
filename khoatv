@@ -91,7 +91,7 @@ https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://vn1.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 2
-http://live4k.cvacetv.ga/4KUHD
+http://vn2.cvacetv.ga/4K/mpegts
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 3
 http://vn3.cvacetv.ga/4K/mpegts
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 4
@@ -103,9 +103,9 @@ http://vn2.cvacetv.ga/live1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png", CVmedia Live World Cup 1
-http://vn2.cvacetv.ga/WC1
+
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png", CVmedia Live World Cup 2
-http://vn2.cvacetv.ga/WC2
+
 
 https://code.television4you.xyz/playlist/eventvieon.php?id=b0655572-16a8-4cf2-acaa-85b818395c05
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/dxjw9qjo_banner25e849c052c43ddfacd80f8af368475b_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-09/12: Brisbane Roar - Adelaide United (Vòng 7 - VĐQG Úc 2022/23)
@@ -210,7 +210,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
 http://api.vthanhtivi.pw/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv1
+http://vn2.cvacetv.ga/vtv1/mpegts
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 DVB-T2
@@ -218,9 +218,9 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/202?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
 http://api.vthanhtivi.pw/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv2
+http://vn2.cvacetv.ga/vtv2/mpegts
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 2
-http://sg.cvacetv.ga/vtv2
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server dự phòng 3
 http://vn2.vietanhtv.pw:8000/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
@@ -238,9 +238,9 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
 http://api.vthanhtivi.pw/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv3
+http://vn2.cvacetv.ga/vtv3/mpegts
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 2
-http://sg.cvacetv.ga/vtv3
+
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 3
 http://vn2.vietanhtv.pw:8000/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
@@ -260,9 +260,9 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://api.vthanhtivi.pw/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv5
+http://vn2.cvacetv.ga/vtv5/mpegts
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 2
-http://sg.cvacetv.ga/vtv5
+
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 3
 http://vn2.vietanhtv.pw:8000/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
@@ -2535,7 +2535,7 @@ http://123.24.25.154:8889/angel.php?id=12784
 #EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 3
 http://123.24.25.154:8889/angel.php?id=102461
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 2 FHD
-http://sg.cvacetv.ga:8080/stream/channelid/1083599680
+http://sg.cvacetv.ga/SportTV2
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/vlHIPhm.png", PT: Sport TV 2 FHD Server 2
 http://123.24.25.154:8889/evol.php?id=107501
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 3
@@ -2545,7 +2545,7 @@ http://123.24.25.154:8889/angel.php?id=102462
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 4K
 http://123.24.25.154:8889/angel.php?id=102463
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD
-http://sg.cvacetv.ga:8080/stream/channelid/403378061
+http://sg.cvacetv.ga:8080/SportTV3
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 2
 http://123.24.25.154:8889/evol.php?id=107502
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 3
