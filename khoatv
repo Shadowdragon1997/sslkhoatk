@@ -143,7 +143,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
-http://live.vthanhtivi.pw:8080/vtv2
+http://live.vthanhtivi.pw/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 FPT Play HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
@@ -151,7 +151,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
-http://live.vthanhtivi.pw:8080/vtv3
+http://live.vthanhtivi.pw/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 FPT Play HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_4000.stream/chunklist.m3u8
@@ -165,7 +165,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
-http://live.vthanhtivi.pw:8080/vtv5
+http://live.vthanhtivi.pw/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 FPT Play HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
@@ -180,7 +180,7 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
-http://live.vthanhtivi.pw:8080/vtvct
+http://live.vthanhtivi.pw/vtvct
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ FPT Play HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
@@ -238,7 +238,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/203?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
 http://api.vthanhtivi.pw/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv3/mpegts
+http://vn2.cvacetv.ga/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 2
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server dự phòng 3
@@ -260,7 +260,7 @@ http://laohac360.duckdns.org:9981/stream/channelnumber/205?auth=Pte-Yz9AnQarWnSQ
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://api.vthanhtivi.pw/udp/225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
-http://vn2.cvacetv.ga/vtv3
+http://vn2.cvacetv.ga/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 2
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng 3
@@ -278,11 +278,11 @@ http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ DVB-T2
 http://laohac360.duckdns.org:9981/stream/channelnumber/205555?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ FPT
-https://api.vmttv.pw/vtvgo.php?id=7
+https://nvzoftzsvflivnt.vcdn.com.vn/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tnb@high.m3u8?hdnts=exp=1669760866~acl=/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f*~hmac=9bdcbbbbba76f2f0752eec42ffd6ea9c54754bcfba4f7f8ad48d233da75bb4d2
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ FPT Server dự phòng
-http://live.vthanhtivi.pw:8080/vtv5tnb
+http://live.vthanhtivi.pw/vtv5tnb
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên FPT
-https://api.vmttv.pw/vtvgo.php?id=163
+https://nvzoftzsvflivnt.vcdn.com.vn/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tn@high.m3u8?hdnts=exp=1669760866~acl=/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f*~hmac=9bdcbbbbba76f2f0752eec42ffd6ea9c54754bcfba4f7f8ad48d233da75bb4d2
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ DVB-T2
 http://laohac360.duckdns.org:9981/stream/channelnumber/206?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
@@ -988,11 +988,11 @@ https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 https://api.vthanhtivi.pw/v1/getlink/cliptv/822
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
+https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 https://api.vthanhtivi.pw/v1/getlink/cliptv/825
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
+https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 https://api.vthanhtivi.pw/v1/getlink/cliptv/838
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
@@ -1007,20 +1007,17 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
 https://api.vthanhtivi.pw/v1/getlink/cliptv/824
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/69/hd
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://api.vthanhtivi.pw/v1/getlink/tv360_s2/135/2
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 
 #-*-- Hoạt hình -*--#
 #EXTINF:-1 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://static.mnewsvn.com/uploads/editors/2018/12/q5wdn7D2KaY9x4W6GQ5oJrirerLXmoGcpoo7hmiV.png", Aniplus HD
@@ -1370,56 +1367,44 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/25/q2w8uonv_bannerf08bd9b020c73b865ffda6b8083f134a_1920_1080.jpg" group-title="🗓| Sự kiện", 14:45-04/12: Ravolution Music Festival: Universal Love 8th Edition
-https://code.television4you.xyz/playlist/eventvieon.php?id=cef09f25-e910-4103-bf77-4135f0cd9add
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/29/w1yniesu_bannerac3382b4924f50bfd75480e237849637_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-05/12: Quay số mở thưởng Vietlott 05/12/2022
 https://code.television4you.xyz/playlist/eventvieon.php?id=ff990c33-4cb4-457d-b7d8-5fa5274a7534
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/30/4323uu10_imagee6303632a45e50528892896d6d6693d1_1920_1080.png" group-title="🗓| Sự kiện", 19:45-10/12: VUNGOC&SON CHILDHOOD MEMORY FW 22 CAMPAIGN
 https://code.television4you.xyz/playlist/eventvieon.php?id=ca31f3ab-ddab-4fa3-ac7b-c97abd9bb67c
 
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7e/e8/8c/c6/61/12/7e8c6-lphpvsbalanvng16i-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:15-04/12: Pháp vs Ba Lan - Vòng 16 đội
-http://code.television4you.xyz/mytvevent.php?id=6433
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/46/6b/bf/fe/e2/25/46bfe-lngihttnhca-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-04/12: Người Hát Tình Ca
-http://code.television4you.xyz/mytvevent.php?id=6028
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ff/f8/8d/da/af/f8/ff8da-l2ngy1m-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-04/12: 2 Ngày 1 Đêm
-http://code.television4you.xyz/mytvevent.php?id=5607
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ed/d5/53/3e/e3/32/ed53e-ltmkimtinnganhquc2022tp7-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-04/12: Tìm Kiếm Tài Năng Anh Quốc 2022 - Tập 19 + 20
-http://code.television4you.xyz/mytvevent.php?id=5547
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/0e/e6/6a/a0/03/32/0e6a0-ldpworldtour2022investecsouthafricanopenngy4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-04/12: DP World Tour 2022 Investec South African Open - Ngày 4
-http://code.television4you.xyz/mytvevent.php?id=6408
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/08/8b/bb/b5/58/86/08bb5-lnhtkfifaworldcup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:45-04/12: Nhật ký FIFA World Cup
-http://code.television4you.xyz/mytvevent.php?id=6441
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/67/71/14/40/00/0d/67140-lanhvssenegalvng16i-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:15-05/12: Anh vs Senegal - Vòng 16 đội
-http://code.television4you.xyz/mytvevent.php?id=6434
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/95/55/56/69/9a/a3/95569-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-05/12: Thế Giới Kì Diệu của Gumball
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-05/12: Thử Thách Cùng Thần Tượng - Số 631
+http://code.television4you.xyz/mytvevent.php?id=4470
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/95/55/56/69/9a/a3/95569-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-05/12: Thế Giới Kì Diệu của Gumball
 http://code.television4you.xyz/mytvevent.php?id=5693
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-05/12: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-05/12: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5703
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/00/08/84/48/8f/ff/00848-lkhanhkhanhnhtthngtp21-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-05/12: Khanh Khanh Nhật Thường - Tập 21
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/00/08/84/48/8f/ff/00848-lkhanhkhanhnhtthngtp21-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-05/12: Khanh Khanh Nhật Thường - Tập 21
 http://code.television4you.xyz/mytvevent.php?id=6311
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/05/5b/bd/d4/42/2e/05bd4-lkhanhkhanhnhtthngtp22-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:48-05/12: Khanh Khanh Nhật Thường - Tập 22
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/05/5b/bd/d4/42/2e/05bd4-lkhanhkhanhnhtthngtp22-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:48-05/12: Khanh Khanh Nhật Thường - Tập 22
 http://code.television4you.xyz/mytvevent.php?id=6312
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ef/fe/ee/e0/0f/f1/efee0-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-05/12: Nấc Cụt và Hắt Xì
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ef/fe/ee/e0/0f/f1/efee0-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-05/12: Nấc Cụt và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5707
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/b7/77/7d/d5/52/24/b77d5-laicngbitemyuanhtp31-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-05/12: Ai Cũng Biết Em Yêu Anh - Tập 31
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b7/77/7d/d5/52/24/b77d5-laicngbitemyuanhtp31-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-05/12: Ai Cũng Biết Em Yêu Anh - Tập 31
 http://code.television4you.xyz/mytvevent.php?id=6012
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/fe/ed/d2/27/7b/ba/fed27-lsteamqschuynthcachtththchquanst-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-05/12: SteamQ: Sự chuyển thể của chất - Thử thách quan sát
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fe/ed/d2/27/7b/ba/fed27-lsteamqschuynthcachtththchquanst-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-05/12: SteamQ: Sự chuyển thể của chất - Thử thách quan sát
 http://code.television4you.xyz/mytvevent.php?id=6391
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c0/01/14/4a/ad/d7/c014a-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-05/12: Ngài Bean
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c0/01/14/4a/ad/d7/c014a-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-05/12: Ngài Bean
 http://code.television4you.xyz/mytvevent.php?id=5699
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c7/7c/c6/6d/db/b3/c7c6d-llphchonmkhchmithotrangphn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-05/12: Lớp Học Hoàn Mỹ: Khách mời Thảo Trang - Trâm Ngô - Phần 1
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c7/7c/c6/6d/db/b3/c7c6d-llphchonmkhchmithotrangphn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-05/12: Lớp Học Hoàn Mỹ: Khách mời Thảo Trang - Trâm Ngô - Phần 1
 http://code.television4you.xyz/mytvevent.php?id=5849
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d9/9c/cc/c8/86/6a/d9cc8-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-06/12: Thế Giới Kì Diệu của Gumball
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/4d/de/e4/4c/cb/b7/4de4c-lnhtbnvscroatiavng16i-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:15-05/12: Nhật Bản vs Croatia - Vòng 16 đội
+http://code.television4you.xyz/mytvevent.php?id=6435
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d9/9c/cc/c8/86/6a/d9cc8-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-06/12: Thế Giới Kì Diệu của Gumball
 http://code.television4you.xyz/mytvevent.php?id=5695
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ba/a8/88/8d/d0/00/ba88d-llphchonmkhchmithotrangphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-06/12: Lớp Học Hoàn Mỹ: Khách mời Thảo Trang - Trâm Ngô - Phần 2
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ba/a8/88/8d/d0/00/ba88d-llphchonmkhchmithotrangphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-06/12: Lớp Học Hoàn Mỹ: Khách mời Thảo Trang - Trâm Ngô - Phần 2
 http://code.television4you.xyz/mytvevent.php?id=5850
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e0/03/3c/c6/66/65/e03c6-lsteamqschuynthcachtththchthchnh-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-07/12: SteamQ: Sự chuyển thể của chất - Thử thách thực hành
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e0/03/3c/c6/66/65/e03c6-lsteamqschuynthcachtththchthchnh-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-07/12: SteamQ: Sự chuyển thể của chất - Thử thách thực hành
 http://code.television4you.xyz/mytvevent.php?id=6392
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/14/43/36/62/28/8a/14362-llphchonmkhchmithotrangphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/12: Lớp Học Hoàn Mỹ: Khách mời Thảo Trang - Trâm Ngô - Phần 3
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/14/43/36/62/28/8a/14362-llphchonmkhchmithotrangphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/12: Lớp Học Hoàn Mỹ: Khách mời Thảo Trang - Trâm Ngô - Phần 3
 http://code.television4you.xyz/mytvevent.php?id=5851
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/72/2a/a6/60/0e/e7/72a60-llphchonmkhchmithotrangphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-08/12: Lớp Học Hoàn Mỹ: Khách mời Thảo Trang - Trâm Ngô - Phần 4
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/72/2a/a6/60/0e/e7/72a60-llphchonmkhchmithotrangphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-08/12: Lớp Học Hoàn Mỹ: Khách mời Thảo Trang - Trâm Ngô - Phần 4
 http://code.television4you.xyz/mytvevent.php?id=5852
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/40/09/9b/b6/6a/a5/409b6-lsteamqschuynthcachttngktvtraogii-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-09/12: SteamQ: Sự chuyển thể của chất - Tổng kết và trao giải
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/40/09/9b/b6/6a/a5/409b6-lsteamqschuynthcachttngktvtraogii-ceeshow-mytv.png" group-title="🗓| Sự kiện", 18:30-09/12: SteamQ: Sự chuyển thể của chất - Tổng kết và trao giải
 http://code.television4you.xyz/mytvevent.php?id=6393
 
 #-*-- Japan TV -*--#
