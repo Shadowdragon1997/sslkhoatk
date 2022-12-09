@@ -103,7 +103,7 @@ http://vn2.cvacetv.ga/live1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png", CVmedia Live World Cup 1
-
+http://sg.cvacetv.ga/WC1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png", CVmedia Live World Cup 2
 
 
@@ -3045,7 +3045,7 @@ https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://mitom2.90
 https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom2.90phut8.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-09/12: Nhà Đài Croatia - Brazil (Người Thỏ + Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179314182.global.cdnfastest.com/live/may12/chunklist.m3u8|referer=https://mitom2.90phut8.live/
+https://179314182.global.cdnfastest.com/live/may121/chunklist.m3u8|referer=https://mitom2.90phut8.live/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h00-10/12: SD1 Netherlands - Argentina (Cáp Tần + Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
@@ -3067,7 +3067,7 @@ https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://mitom2.90
 https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://mitom2.90phut8.live/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h00-10/12: Nhà Đài Netherlands - Argentina (Cáp Tần + Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179314182.global.cdnfastest.com/live/may12/chunklist.m3u8|referer=https://mitom2.90phut8.live/
+https://179314182.global.cdnfastest.com/live/may121/chunklist.m3u8|referer=https://mitom2.90phut8.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-09/12: SD 1 Empoli - Wolves (Giàng A Phệt)
