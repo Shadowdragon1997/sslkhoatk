@@ -1374,10 +1374,6 @@ https://code.television4you.xyz/playlist/eventvieon.php?id=17b65c99-5c1a-4231-8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/08/84sfq9ix_bannere01b8955f954386a9f56aa6df598f528_1920_1080.jpg" group-title="🗓| Sự kiện", 19:45-17/12: Show thời trang Ký Ức Tuổi Thơ - VUNGOC&SON Fall Winter 2022
 https://code.television4you.xyz/playlist/eventvieon.php?id=ca31f3ab-ddab-4fa3-ac7b-c97abd9bb67c
 
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f1/1c/c6/6e/e0/05/f1c6e-ldjstarma2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-08/12: DJ Star mùa 2
-http://code.television4you.xyz/mytvevent.php?id=6396
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f7/7b/b7/74/49/96/f7b74-lkhiutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-09/12: Khởi Đầu - Tập 6
-http://code.television4you.xyz/mytvevent.php?id=6463
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7d/d6/62/27/7a/a4/7d627-lnangmtnangthngtp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-09/12: Nửa Đường Mật, Nửa Đường Thương - Tập 4
 http://code.television4you.xyz/mytvevent.php?id=6462
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ee/e8/82/2f/f4/4c/ee82f-laicngbitemyuanhtp33-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-09/12: Ai Cũng Biết Em Yêu Anh - Tập 33
@@ -1394,12 +1390,18 @@ http://code.television4you.xyz/mytvevent.php?id=6483
 http://code.television4you.xyz/mytvevent.php?id=6466
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5f/ff/f1/13/3f/f5/5ff13-lstudio6-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-09/12: Studio 6
 http://code.television4you.xyz/mytvevent.php?id=6399
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/20/08/87/71/16/60/20871-ltmkimtinngmma15tp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:30-09/12: Tìm Kiếm Tài Năng Mỹ - Mùa 15
+http://code.television4you.xyz/mytvevent.php?id=5398
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3a/ab/b5/53/3f/fa/3ab53-lchngtrnh60s-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 06:30-10/12: Chương Trình 60S
+http://code.television4you.xyz/mytvevent.php?id=6427
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8b/b1/1d/db/bc/cd/8b1db-lknngtykimctp48-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:45-10/12: Kỳ Án Đông Tây Kim Cổ
+http://code.television4you.xyz/mytvevent.php?id=5472
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8c/cc/c6/6d/d3/39/8cc6d-laicngbitemyuanhtp34-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-10/12: Ai Cũng Biết Em Yêu Anh - Tập 34
 http://code.television4you.xyz/mytvevent.php?id=6026
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a8/85/58/8b/bc/c3/a858b-lgiaiiucmxc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-10/12: Giai Điệu Cảm Xúc
-http://code.television4you.xyz/mytvevent.php?id=6467
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/be/e6/62/24/4b/bd/be624-ldareyoubncdmma2tp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-10/12: Dare You - Bạn Có Dám - Mùa 2 - Tập 11
 http://code.television4you.xyz/mytvevent.php?id=5047
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a8/85/58/8b/bc/c3/a858b-lgiaiiucmxc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-10/12: Giai Điệu Cảm Xúc
+http://code.television4you.xyz/mytvevent.php?id=6467
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ae/ea/a6/61/13/3c/aea61-lphngtrmytvma-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-10/12: Phòng trà MyTV - Mưa
 http://code.television4you.xyz/mytvevent.php?id=6481
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/41/1f/f7/71/1a/a1/41f71-lnhanhnhchpnhma4tp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-10/12: Nhanh Như Chớp Nhí
