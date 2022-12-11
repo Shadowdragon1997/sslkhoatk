@@ -107,15 +107,6 @@ http://live4k.cvacetv.ga/WC1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png", CVmedia Live World Cup 2
 
 
-https://code.television4you.xyz/playlist/eventvieon.php?id=b0655572-16a8-4cf2-acaa-85b818395c05
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/dxjw9qjo_banner25e849c052c43ddfacd80f8af368475b_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-09/12: Brisbane Roar - Adelaide United (Vòng 7 - VĐQG Úc 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=1dceb056-0e2b-446e-a268-325b3a39efab
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/g09rmhcm_bannere57a29ac1b5da842ccfe859581d25f94_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-10/12: Wellington Phoenix - Western Sydney Wanderers FC (Vòng 7 - VĐQG Úc 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=a01fb050-e1e1-46ff-80f3-0f9538234456
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/y5cokqfn_banner5cec377e53c0281f917a04218fdecf30_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-10/12: Sydney FC - Melbourne City FC (Vòng 7 - VĐQG Úc 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=d7cf89cf-aa74-4214-bc45-39ca6757482d
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/01zsb1hc_banner553cf03b19206a9b1ffb454fd7661641_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 18:15-10/12: Perth Glory - Western United FC (Vòng 7 - VĐQG Úc 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=5e105a36-4d18-4a1a-a0c9-ddb4b8d429b9
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/iuttjod1_banner411a971c7efa1ffe7a1254f2471dffa3_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 10:45-11/12: Central Coast Mariners - Newcastle Jets (Vòng 7 - VĐQG Úc 2022/23)
 https://code.television4you.xyz/playlist/eventvieon.php?id=05fb06fb-682d-4d39-8779-5ef5c4ca3f4c
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/638xeebk_bannereec77009ceb946344902b51b3bea1510_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-11/12: Macarthur FC - Melbourne Victory (Vòng 7 - VĐQG Úc 2022/23)
@@ -971,25 +962,31 @@ https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 #-*-- In The Box -*--#
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=KhoaTivi
 https://api.vthanhtivi.pw/v1/getlink/cliptv/822
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=KhoaTivi
 https://api.vthanhtivi.pw/v1/getlink/cliptv/825
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+#EXTVLCOPT:http-user-agent=KhoaTivi
 https://api.vthanhtivi.pw/v1/getlink/cliptv/838
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/105/hd
 #EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+#EXTVLCOPT:http-user-agent=KhoaTivi
 https://api.vthanhtivi.pw/v1/getlink/cliptv/837
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+#EXTVLCOPT:http-user-agent=KhoaTivi
 https://api.vthanhtivi.pw/v1/getlink/cliptv/823
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
+#EXTVLCOPT:http-user-agent=KhoaTivi
 https://api.vthanhtivi.pw/v1/getlink/cliptv/824
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
@@ -1352,58 +1349,38 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/29/nkfkkd64_banner6952da3a32d1bd137d8fb88984586428_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-10/12: Quay số mở thưởng Vietlott 10/12/2022
-https://code.television4you.xyz/playlist/eventvieon.php?id=bc2d776a-dd94-497d-bf6b-f70faf367680
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/07/772w00m0_baner9d08e55d2d35dc5de3eac8aeb0696aa6_1920_1080.jpg" group-title="🗓| Sự kiện", 18:45-10/12: Live Concert Điểm Chạm Thời Gian - Nơi Lưu Giữ Nhan Sắc
-https://code.television4you.xyz/playlist/eventvieon.php?id=17b65c99-5c1a-4231-8bc5-7a7783bbbe1d
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/29/32oombms_bannerf1946e6032261dfcf7c60ad7ca82c77a_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-11/12: Quay số mở thưởng Vietlott 11/12/2022
+https://code.television4you.xyz/playlist/eventvieon.php?id=6743eace-a223-48b4-8a9e-290cadc87147
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/08/84sfq9ix_bannere01b8955f954386a9f56aa6df598f528_1920_1080.jpg" group-title="🗓| Sự kiện", 19:45-17/12: Show thời trang Ký Ức Tuổi Thơ - VUNGOC&SON Fall Winter 2022
 https://code.television4you.xyz/playlist/eventvieon.php?id=ca31f3ab-ddab-4fa3-ac7b-c97abd9bb67c
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/8c/cc/c6/6d/d3/39/8cc6d-laicngbitemyuanhtp34-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-10/12: Ai Cũng Biết Em Yêu Anh - Tập 34
-http://code.television4you.xyz/mytvevent.php?id=6026
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/be/e6/62/24/4b/bd/be624-ldareyoubncdmma2tp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-10/12: Dare You - Bạn Có Dám - Mùa 2 - Tập 11
-http://code.television4you.xyz/mytvevent.php?id=5047
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/a8/85/58/8b/bc/c3/a858b-lgiaiiucmxc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-10/12: Giai Điệu Cảm Xúc
-http://code.television4you.xyz/mytvevent.php?id=6467
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ae/ea/a6/61/13/3c/aea61-lphngtrmytvma-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-10/12: Phòng trà MyTV - Mưa
-http://code.television4you.xyz/mytvevent.php?id=6481
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/64/47/7b/b4/45/50/647b4-lththao365-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-10/12: Thể Thao 365
-http://code.television4you.xyz/mytvevent.php?id=4551
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/41/1f/f7/71/1a/a1/41f71-lnhanhnhchpnhma4tp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-10/12: Nhanh Như Chớp Nhí
-http://code.television4you.xyz/mytvevent.php?id=6147
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/8f/f6/66/65/5d/de/8f665-lmoroccovsbonhatkt3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:15-10/12: Morocco vs Bồ Đào Nha - Tứ kết 3
-http://code.television4you.xyz/mytvevent.php?id=6479
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/10/07/75/5b/b4/4d/1075b-ldjstarma2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-10/12: DJ Star Mùa 2
-http://code.television4you.xyz/mytvevent.php?id=6424
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/78/87/71/10/0f/fb/78710-lphpknr-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-10/12: Đập Hộp Kén Rể
-http://code.television4you.xyz/mytvevent.php?id=6425
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/13/39/92/26/61/10/13926-lanhvsphptkt4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:15-11/12: Anh vs Pháp - Tứ kết 4
-http://code.television4you.xyz/mytvevent.php?id=6480
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/db/b9/94/4b/be/e3/db94b-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:30-11/12: K-POP
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/db/b9/94/4b/be/e3/db94b-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:30-11/12: K-POP
 http://code.television4you.xyz/mytvevent.php?id=6491
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/31/1e/e3/3f/f5/5f/31e3f-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-11/12: Những Chú Gấu Boonie
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/31/1e/e3/3f/f5/5f/31e3f-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-11/12: Những Chú Gấu Boonie
 http://code.television4you.xyz/mytvevent.php?id=5184
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3b/bc/c4/4e/ef/f4/3bc4e-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-11/12: Thế Giới Kì Diệu của Gumball
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/87/70/07/74/48/82/87074-lnhnggiaiiungcnghch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-11/12: Những Giai Điệu Ngốc Nghếch
+http://code.television4you.xyz/mytvevent.php?id=6475
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3b/bc/c4/4e/ef/f4/3bc4e-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:30-11/12: Thế Giới Kì Diệu của Gumball
 http://code.television4you.xyz/mytvevent.php?id=5694
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-11/12: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-11/12: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5704
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/08/89/9c/c4/43/36/089c4-lkhanhkhanhnhtthngtp27-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-11/12: Khanh Khanh Nhật Thường - Tập 27
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/08/89/9c/c4/43/36/089c4-lkhanhkhanhnhtthngtp27-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-11/12: Khanh Khanh Nhật Thường - Tập 27
 http://code.television4you.xyz/mytvevent.php?id=6339
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/da/ab/b7/7f/f3/3f/dab7f-lkhanhkhanhnhtthngtp28-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:50-11/12: Khanh Khanh Nhật Thường - Tập 28
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/da/ab/b7/7f/f3/3f/dab7f-lkhanhkhanhnhtthngtp28-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:50-11/12: Khanh Khanh Nhật Thường - Tập 28
 http://code.television4you.xyz/mytvevent.php?id=6340
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/4a/a0/04/47/72/21/4a047-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-11/12: Nấc Cụt Và Hắt Xì
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/4a/a0/04/47/72/21/4a047-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-11/12: Nấc Cụt Và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5388
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/46/6b/b6/6b/b3/38/46b6b-laicngbitemyuanhtp35-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-11/12: Ai Cũng Biết Em Yêu Anh - Tập 35
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/46/6b/b6/6b/b3/38/46b6b-laicngbitemyuanhtp35-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-11/12: Ai Cũng Biết Em Yêu Anh - Tập 35
 http://code.television4you.xyz/mytvevent.php?id=6027
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/24/42/22/23/38/8a/24223-limhnththaojohancruyff-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-11/12: Điểm hẹn Thể thao - Johan Cruyff &amp; các ngôi sao lỡ hẹn với World Cup
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/24/42/22/23/38/8a/24223-limhnththaojohancruyff-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-11/12: Điểm hẹn Thể thao - Johan Cruyff &amp; các ngôi sao lỡ hẹn với World Cup
 http://code.television4you.xyz/mytvevent.php?id=6492
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/17/7b/bf/f2/2d/d9/17bf2-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-12/12: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/17/7b/bf/f2/2d/d9/17bf2-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-12/12: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5705
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9e/e2/21/1b/bb/be/9e21b-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-12/12: Nấc Cụt Và Hắt Xì
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9e/e2/21/1b/bb/be/9e21b-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-12/12: Nấc Cụt Và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5389
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/1b/be/e8/8e/e7/7a/1be8e-laicngbitemyuanhtp36-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-12/12: Ai Cũng Biết Em Yêu Anh - Tập 36
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1b/be/e8/8e/e7/7a/1be8e-laicngbitemyuanhtp36-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-12/12: Ai Cũng Biết Em Yêu Anh - Tập 36
 http://code.television4you.xyz/mytvevent.php?id=6025
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fe/e3/32/20/0f/fd/fe320-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-12/12: Những Chú Gấu Boonie
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/fe/e3/32/20/0f/fd/fe320-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-12/12: Những Chú Gấu Boonie
 http://code.television4you.xyz/mytvevent.php?id=5182
 
 #-*-- Japan TV -*--#
