@@ -2295,7 +2295,7 @@ http://123.17.136.44:8889/evol.php?id=149624
 http://123.17.136.44:8889/evol.php?id=149625
 #EXTINF:-1 tvg-id="beINSportsFrench2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-2UHD-FRE.png", QA: beIN Sports 2 French UHD
 http://123.17.136.44:8889/evol.php?id=211673
-#EXTINF:-1 tvg-id="beINSportsFrench3.qa" group-title="🇶🇦| Qatar beIN Sports HD tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-3UHD-FRE.png", QA: beIN Sports 3 French UHD
+#EXTINF:-1 tvg-id="beINSportsFrench3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-3UHD-FRE.png", QA: beIN Sports 3 French UHD
 http://123.17.136.44:8889/evol.php?id=211674
 #EXTINF:-1 tvg-id="beINSportsNBA.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports-NBA-HD-2.png", QA: beIN Sports NBA UHD
 http://123.17.136.44:8889/evol.php?id=271226
