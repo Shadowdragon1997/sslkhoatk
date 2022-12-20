@@ -1453,6 +1453,10 @@ http://123.30.146.168:21585/1506/video.m3u8
 #-*-- South Korean TV -*--#
 #EXTINF:-1 tvg-id="Ariang.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png", KR: Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KR: KBS 1
+http://sg.cvacetv.ga/KBS1
+#EXTINF:-1 tvg-id="KBS2TV.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KR: KBS 2
+http://sg.cvacetv.ga/KBS2
 #EXTINF:-1 tvg-id="KBSDrama.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png", KR: KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 #EXTINF:-1 tvg-id="KBSJoy.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png", KR: KBS Joy
@@ -1585,6 +1589,14 @@ http://39.135.163.5:6610/shandong_cabletv.live.zte.com////CHANNEL00000347/index.
 http://39.134.65.162/PLTV/88888888/224/3221225665/1.m3u8
 
 #-*-- UK TV -*--#
+#EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One
+http://sg.cvacetv.ga/BBC1
+#EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One Server 2
+http://14.177.57.56:8889/evol.php?id=17305
+#EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two
+http://sg.cvacetv.ga/BBC2
+#EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two Server 2
+http://14.177.57.56:8889/evol.php?id=17318
 #EXTINF:-1 tvg-id="BBCThree.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png", UK: BBC Three
 http://14.177.57.56:8889/evol.php?id=17321
 #EXTINF:-1 tvg-id="BBCFour.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png", UK: BBC Four
@@ -1603,6 +1615,10 @@ http://sg.cvacetv.ga/channel4
 http://sg.cvacetv.ga/channel5
 #EXTINF:-1 tvg-id="CBBC.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1200px-CBBC_%282022%29.svg.png", UK: CBBC
 http://sg.cvacetv.ga/CBBC
+#EXTINF:-1 tvg-id="ITV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV
+http://sg.cvacetv.ga/ITV
+#EXTINF:-1 tvg-id="ITV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV Server 2
+http://14.177.57.56:8889/evol.php?id=17295
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png", UK: ITV2
 http://sg.cvacetv.ga/ITV2
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png", UK: ITV2 Server 2
@@ -1621,6 +1637,10 @@ http://sg.cvacetv.ga/STV
 http://sg.cvacetv.ga/SkyNews
 
 #-*-- Germany TV -*--#
+#EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/512px-Das_Erste_2014.svg.png", DE: Das Erste
+http://vn1.cvacetv.ga/DasErste
+#EXTINF:-1 tvg-id="ZDF.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png", DE: ZDF
+http://vn1.cvacetv.ga/ZDF
 #EXTINF:-1 tvg-id="RTLGermany.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png", DE: RTL
 http://sg.cvacetv.ga/RTL
 #EXTINF:-1 tvg-id="RTLZwei.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/800px-RTLZWEI_Logo_2019.svg.png", DE: RTL Zwei
@@ -1649,6 +1669,14 @@ http://sg.cvacetv.ga/France2
 
 
 #-*-- Italy TV -*--#
+#EXTINF:-1 tvg-id="Rai1.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD
+http://vn1.cvacetv.ga/Rai1
+#EXTINF:-1 tvg-ID="Rai1.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD Server 2
+http://14.177.57.56:8889/evol.php?id=68620
+#EXTINF:-1 tvg-id="Rai2.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD
+http://sg.cvacetv.ga/Rai2
+#EXTINF:-1 tvg-ID="Rai2.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD Server 2
+http://14.177.57.56:8889/evol.php?id=68621
 #EXTINF:-1 tvg-id="Rai3.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png", IT: Rai 3
 http://sg.cvacetv.ga/Rai3
 #EXTINF:-1 tvg-id="RaiNews24.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1024px-Rai_News_24_logo_%282022%29.svg.png", IT: Rai News 24
@@ -1666,15 +1694,17 @@ http://sg.cvacetv.ga/TRT_Turk
 
 #-*-- Portugal TV -*--#
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png", PT: RTP 1
-
+http://sg.cvacetv.ga/RTP1
 #EXTINF:-1 tvg-id="RTP2.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png", PT: RTP 2
-
+http://sg.cvacetv.ga/RTP2
 #EXTINF:-1 tvg-id="RTP3.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png", PT: RTP 3
-
+http://sg.cvacetv.ga/RTP3
 #EXTINF:-1 tvg-id="AMCPortugal.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png", PT: AMC
-
+http://sg.cvacetv.ga/AMC
 #EXTINF:-1 tvg-id="SIC.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png", PT: SIC
-
+http://sg.cvacetv.ga/SIC
+#EXTINF:-1 tvg-id="TVI.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png", PT: TVI
+http://sg.cvacetv.ga/TVI
 
 #-*-- Poland TV -*--#
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png", PL: TVP 1
@@ -1707,6 +1737,8 @@ http://sg.cvacetv.ga/NBC
 http://sg.cvacetv.ga/CBS
 #EXTINF:-1 tvg-id="ABCEast.us" group-title="🇺🇸| USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png", US: ABC
 http://sg.cvacetv.ga/ABC
+#EXTINF:-1 tvg-id="FoxMiddleEast.us" group-title="🇺🇸| USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png", US: FOX
+http://sg.cvacetv.ga/FOX
 #EXTINF:-1 tvg-id="UniMasEast.us" group-title="🇺🇸| USA TV" tvg-logo="https://st1.uvnimg.com/dims4/default/c7fd409/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2F9a%2F2ef55e7f4057beb6024842c8fdef%2Funiversal.jpg", US: Unimas
 
 #EXTINF:-1 tvg-id="UnivisionWest.us" group-title="🇺🇸| USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png", US: Univision
@@ -1723,6 +1755,10 @@ http://vn1.cvacetv.ga:8080/stream/channelid/1949641268
 http://vn1.cvacetv.ga:8080/stream/channelid/1247244408
 #EXTINF:-1 tvg-id="9Gem.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png", AU: 9Gem (Network Nine WWOS)
 http://vn1.cvacetv.ga:8080/stream/channelid/1545598529
+#EXTINF:-1 tvg-id="SBSOne.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png", AU: SBS One
+http://sg.cvacetv.ga/SBSOne
+#EXTINF:-1 tvg-id="SBSViceland.au" group-title="🇦🇺| Australia TV" tvg-logo="https://i.imgur.com/yIdjafM.png", AU: SBS Viceland
+http://sg.cvacetv.ga/SBSViceland
 
 #-*-- Russia/Ukraine TV -*--#
 #EXTINF:-1 tvg-ID="OPT1.ua" group-title="🇷🇺/🇺🇬| Russia/Ukraine TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi", UA: OPT1
@@ -1829,64 +1865,6 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/224931
 http://14.177.57.56:8889/evol.php?id=68441
 #EXTINF:-1 tvg-ID="Rai2.it" group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 2 4K
 http://14.177.57.56:8889/evol.php?id=68442
-
-#-*-- FIFA World Cup 2022 -*--#
-#EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One
-http://sg.cvacetv.ga/BBC1
-#EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One Server 2
-http://14.177.57.56:8889/evol.php?id=17305
-#EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two
-
-#EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two Server 2
-http://14.177.57.56:8889/evol.php?id=17318
-#EXTINF:-1 tvg-id="ITV.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV
-http://sg.cvacetv.ga/ITV
-#EXTINF:-1 tvg-id="ITV.uk" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV Server 2
-http://14.177.57.56:8889/evol.php?id=17295
-#EXTINF:-1 tvg-id="FoxMiddleEast.us" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png", US: FOX
-http://sg.cvacetv.ga/FOX
-#EXTINF:-1 tvg-id="FoxSports1.us" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD
-http://sg.cvacetv.ga/FS1
-#EXTINF:-1 tvg-id="FoxSports1.us" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD Server 2
-http://live.easy24dar.tk:80/9cgFkGQwmD/qfnJgoWYYG/74489
-#EXTINF:-1 tvg-id="SBSOne.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png", AU: SBS One
-http://sg.cvacetv.ga/SBSOne
-#EXTINF:-1 tvg-id="SBSViceland.au" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://i.imgur.com/yIdjafM.png", AU: SBS Viceland
-
-#EXTINF:-1 group-title="🏆| FIFA World Cup 2022" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", beIN Sports
-http://vn1.cvacetv.ga/beIN
-#EXTINF:-1 tvg-id="TVPSport.pl" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
-http://sg.cvacetv.ga/TVP_Sport
-#EXTINF:-1 tvg-id="TVPSport.pl" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD Server 2
-http://14.177.57.56:8889/evol.php?id=67806
-#EXTINF:-1 tvg-id="DasErste.de" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/512px-Das_Erste_2014.svg.png", DE: Das Erste
-http://vn1.cvacetv.ga/DasErste
-#EXTINF:-1 tvg-id="ZDF.de" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png", DE: ZDF
-http://vn1.cvacetv.ga/ZDF
-#EXTINF:-1 tvg-id="TVI.pt" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png", PT: TVI
-http://sg.cvacetv.ga/TVI
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="🏆| FIFA World Cup 2022" tvg-id="RTP1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png", PT: RTP 1
-
-#EXTINF:-1 tvg-ID="NPO1.nl" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/512px-NPO_1_logo_2014.svg.png", NL: NPO1
-
-#EXTINF:-1 tvg-id="TF1.fr" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png", FR: TF1
-
-#EXTINF:-1 tvg-id="Rai1.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD
-http://vn1.cvacetv.ga/Rai1
-#EXTINF:-1 tvg-ID="Rai1.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD Server 2
-http://14.177.57.56:8889/evol.php?id=68620
-#EXTINF:-1 tvg-id="Rai2.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD
-
-#EXTINF:-1 tvg-ID="Rai2.it" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD Server 2
-http://14.177.57.56:8889/evol.php?id=68621
-#EXTINF:-1 tvg-id="KBS1TV.kr" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KR: KBS 1
-http://sg.cvacetv.ga/KBS1
-#EXTINF:-1 tvg-id="KBS2TV.kr" group-title="🏆| FIFA World Cup 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KR: KBS 2
-http://sg.cvacetv.ga/KBS2
-#EXTINF:-1 group-title="🏆| FIFA World Cup 2022" tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/04/logo-FIFA-world-cup-qatar-2022-free.png", Astro World Cup 1
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:01:B9:B6&stream=1552973&extension=ts&play_token=qgrz5idFn8
-#EXTINF:-1 group-title="🏆| FIFA World Cup 2022" tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/04/logo-FIFA-world-cup-qatar-2022-free.png", Astro World Cup 2
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:01:B9:B6&stream=1552972&extension=ts&play_token=sn1uSkakBE
 
 #-*-- Sports UK -*--#
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/rsT6Cu2.png", UK: Sky Sports Football FHD
@@ -2010,6 +1988,10 @@ http://tv.allkaicerteam.com:8080/kaicer_VIPzex84p/m3xs72/743
 http://141.94.163.202:80/play/live.php?mac=00:1A:79:70:30:14&stream=489&extension=ts&play_token=jxrw1RHwEI
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png", US: Golf Channel FHD
 
+#EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD
+http://sg.cvacetv.ga/FS1
+#EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD Server 2
+http://live.easy24dar.tk:80/9cgFkGQwmD/qfnJgoWYYG/74489
 #EXTINF:-1 tvg-id="FoxSports2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png", US: Fox Sports 2 FHD
 http://sg.cvacetv.ga/FS2
 #EXTINF:-1 tvg-id="FoxSports2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png", US: Fox Sports 2 FHD
@@ -2059,7 +2041,7 @@ http://vn1.cvacetv.ga/Diema1
 #EXTINF:-1 tvg-ID="DiemaSport2.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/4Cscok5.png", BG: Diema Sport 2 FHD
 http://vn1.cvacetv.ga/Diema2
 #EXTINF:-1 tvg-ID="DiemaSport3.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DiemaSport3logo.png/512px-DiemaSport3logo.png", BG: Diema Sport 3 HD
-http://sg.cvacetv.ga/Diema3
+
 
 #-*-- Sports French -*--#
 #EXTINF:-1 tvg-ID="Eurosport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/z3fQ87X.png", FR: Eurosport 1 HD
@@ -2394,6 +2376,10 @@ http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=1
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197518
 #EXTINF:-1 tvg-ID="AstroArena.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/IPK9f6h.png", MY Astro: Arena FHD
 http://14.177.57.56:8889/ultratv.php?id=161948
+#EXTINF:-1 group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/04/logo-FIFA-world-cup-qatar-2022-free.png", Astro World Cup 1
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:01:B9:B6&stream=1552973&extension=ts&play_token=qgrz5idFn8
+#EXTINF:-1 group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/04/logo-FIFA-world-cup-qatar-2022-free.png", Astro World Cup 2
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:01:B9:B6&stream=1552972&extension=ts&play_token=sn1uSkakBE
 
 #-*-- Sports South Africa -*--#
 #EXTINF:-1 tvg-ID="SuperSportPremierLeague.za" group-title="🇿🇦 | Sports Africa" group-title="🇿🇦 | Sports Africa"="AF: SuperSport Premier League FHD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png", AF: SuperSport Premier League FHD
@@ -2704,6 +2690,10 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8835
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8915
 #EXTINF:-1 tvg-id="Eurosport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/0xpN9B6.png", PL: Eurosport 2 HD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8959
+#EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
+http://sg.cvacetv.ga/TVP_Sport
+#EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD Server 2
+http://14.177.57.56:8889/evol.php?id=67806
 
 #-*-- Sports Romania -*--#
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO: Digi Sport 1
