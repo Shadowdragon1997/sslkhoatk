@@ -605,7 +605,7 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 https://raintv.tk/get/vieon/350ce14f56aeca606240b630c74141233447be8c/klifehd/manifest.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD FPT Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ska56wGhgkTbg9muMuP1PQ","kid":"xtTz\/8X9OuSy\/xA2dCd35g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ska56wGhgkTbg9muMuP1PQ","kid":"xtTz/8X9OuSy/xA2dCd35g"}],"type":"temporary"}
 http://vietanhtv.pw/fptplay/life/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
@@ -626,7 +626,7 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 https://raintv.tk/get/vieon/350ce14f56aeca606240b630c74141233447be8c/ksport1hd/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD FPT Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=={"keys":[{"kty":"oct","k":"XaUqecAm5BpOPcxU9W2ntA","kid":"1Xmxbd5/OGeAtMi0pXIWAQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XaUqecAm5BpOPcxU9W2ntA","kid":"1Xmxbd5/OGeAtMi0pXIWAQ"}],"type":"temporary"}
 http://vietanhtv.pw/fptplay/sp1/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
@@ -658,7 +658,7 @@ http://vietanhtv.pw/fptplay/sp2/manifest.mpd
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD FPT Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xEAD1IIyW\/Mqe4ce3BYsDg","kid":"Ivwk+BfzNPWy174JZSU75w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xEAD1IIyW/Mqe4ce3BYsDg","kid":"Ivwk+BfzNPWy174JZSU75w"}],"type":"temporary"}
 http://vietanhtv.pw/fptplay/kids/manifest.mpd
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD
