@@ -106,10 +106,6 @@ http://sg.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 4
 http://sg2.cvacetv.ga/4KUHD
 
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/14/8wdm7md0_banner7ee217ab008a9703c89f7073db6e56cc_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-27/12: Melbourne City FC - Central Coast Mariners (Vòng 9 - VĐQG Úc 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=59831eec-1915-4377-855f-6f1daa1f22b6
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/14/sqqoe0xz_banner0cac72b99fc5b17d538acdc8d8982c42_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-27/12: Adelaide United - Newcastle Jets (Vòng 9 - VĐQG Úc 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=f0259d4f-4a35-4a0f-b081-d9ac6e5e5a8d
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/15/fp80nz5e_banner11f1f935cd5dcafe2af464f49aebfe1f_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-30/12: Western United FC - Brisbane Roar FC (Vòng 10 - VĐQG Úc 2022/23)
 https://code.television4you.xyz/playlist/eventvieon.php?id=dc77f752-70ca-4bb7-87f9-31543d50bac1
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/16/cwsj4amq_banner2d1cf23e0a6484a0bba0fc9e2f2133a9_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 14:45-31/12: Central Coast Mariners - Melbourne Victory (Vòng 10 - VĐQG Úc 2022/23)
@@ -138,14 +134,32 @@ https://code.television4you.xyz/playlist/eventvieon.php?id=a53395c8-d119-4617-bd
 https://code.television4you.xyz/playlist/eventvieon.php?id=74ea987a-d2e6-4ed6-9d50-cbfb1c641cfa
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/eqsgn7ix_bannerdb2254293dda1d9659f3d56be532ead9_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 20:15-08/01: NEC - Ajax (Vòng 15 - VĐQG Hà Lan 2022/23)
 https://code.television4you.xyz/playlist/eventvieon.php?id=173f114f-26e9-409e-96b8-9a223286ec3d
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/27/a5cctmou_bannere828ddc165ec1137363f9b7a56109cd8_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-13/01: Macarthur FC - Central Coast Mariners (Vòng 12 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=85885830-45ab-44b4-b9fc-8b5ebe96e106
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/27/mxopdhca_bannerf3f4522792fd3f6cd9a4777d63698e34_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-14/01: Brisbane Roar  - Wellington Phoenix (Vòng 12 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=2e492d71-71b4-4aee-a67c-77f557970c26
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/27/wttw0jig_banner412ee200fe143d6da8e4fa0cbd14bd7e_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-14/01: Adelaide United - Melbourne Victory (Vòng 12 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=23f5bf15-7fa1-4ff9-9524-2db5aff1a351
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/27/64h017z2_bannerc14db6ad45527e088194aa46a7e7c208_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 18:15-14/01: Perth Glory - Sydney FC (Vòng 12 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=6a97e851-9fba-4f89-b2f4-7be2ae1de7df
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/16/pjjo8hzv_banner64d6c98e50680f39dcb73d0d8221d2cb_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 02:45-15/01: AFC Ajax  - FC Twente (Vòng 16 - VĐQG Hà Lan 2022/23)
 https://code.television4you.xyz/playlist/eventvieon.php?id=68187ae6-4206-494b-b5b1-59cbfd5b15ad
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/16/jisf5xff_banner2e5d79350875295e17cdaeb1582f555a_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 20:15-15/01: Fortuna Sittard - PSV Eindhoven (Vòng 16 - VĐQG Hà Lan 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=f2efd0df-265f-4e8a-a69c-aa46c93d0d14
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/26/3063z42g_banner04e2c5fdd6f3b1488a2e37afd532e1c1_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 20:30-22/01: FC Twente - FC Utrecht (Vòng 17 - VĐQG Hà Lan 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=1aa1c2f0-a8a5-4d61-8e8e-1f1ea6401cf1
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/26/1jmui4si_banner045a934bef49eb404dc0bed8d722b854_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 22:00-22/01: Feyenoord - AFC Ajax (Vòng 17 - VĐQG Hà Lan 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=22a65f44-9002-49fc-ba7e-7032d981d2cf
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/27/1iup8ewp_bannerdcc1ca964cf9e02eb14e35a27bca1917_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 10:45-15/01: Western Sydney Wanderers - Melbourne City (Vòng 12 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=b384b5aa-a3c7-4c59-b62d-75b5077759be
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/27/0w9a3ads_banner87b0d8d8da19ae761e4aa8674c6b3df1_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-15/01: Western United - Newcastle Jets (Vòng 12 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=a679aa7d-361e-432b-af59-12ddbb994fa9
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/28/jiqqq01m_banner62073e06b2e0a74843f2040812329555_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-20/01: Adelaide United - Macarthur FC (Vòng 13 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=da12fa04-34b9-4cea-be56-9c79b2dd1431
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/28/aj2sap1u_bannerd5adbc67a43520763a61f10b16f3a356_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-21/01: Western United FC - Sydney FC (Vòng 13 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=844ff57f-a72a-4ff1-a224-81700901a7a3
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/28/byqw357u_bannerf938c0b302eed6ac74e325f810ec56e1_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-21/01: Brisbane Roar - Melbourne City (Vòng 13 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=2c8dab39-2934-45fd-aa88-a959bf43a57b
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/28/097x0pdb_banner369c2af1e285999681ee787149b9e1d7_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 18:15-21/01: Perth Glory - Melbourne Victory (Vòng 13 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=c0b58326-53c2-41f5-9d44-10f9c53d90cf
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/28/6rm9cc8k_banner0d533af2ca43b1a22698d6c4768b372f_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 08:45-22/01: Wellington Phoenix - Central Coast Mariners (Vòng 13 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=ef6d4a92-94ea-4d77-9c8e-b91402f171df
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/28/4mvfuvmy_banner5035668c7712a3bf09a22eb831323454_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 10:45-22/01: Newcastle Jets - Western Sydney Wanderers (Vòng 13 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=2cb63426-467a-410d-8bcd-0e4539f4d15a
 
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
@@ -1325,47 +1339,21 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/29/7907b6gp_bannerc293651ed134e6cf43720b6c774637f1_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-27/12: Quay số mở thưởng Vietlott 27/12/2022
-https://code.television4you.xyz/playlist/eventvieon.php?id=3d2c7e8d-b69c-4930-a758-2cb4559824bf
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/29/8z4dtupk_bannercd454b9fbed43b06e94db00f2da559f5_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-29/12: Quay số mở thưởng Vietlott 29/12/2022
+https://code.television4you.xyz/playlist/eventvieon.php?id=cfd43881-6c4b-4f6f-9152-75fa3d3a8687
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/16/6af66gi5_banner_1920_1080.jpg" group-title="🗓| Sự kiện", 18:45-29/12: Sự kiện thảm đỏ - Đỗ Long Fashion Show 2022
 https://code.television4you.xyz/playlist/eventvieon.php?id=dfe3f723-0cf7-435e-9712-2544d0e14c39
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/23/8o2er74t_banner5c684581d6da379e216d0d14e8d67fde_1920_1080.jpg" group-title="🗓| Sự kiện", 13:00-01/01: Họp Mặt Fan Hâm Mộ -  Super Hero Fan Meeting
 https://code.television4you.xyz/playlist/eventvieon.php?id=57c10d71-3c44-4bcc-ab77-f4c90af78f1d
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/7d/d6/60/04/45/57/7d604-llovssingaporeaffmitsubishielectriccup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:45-27/12: Lào vs Singapore - AFF Mitsubishi Electric Cup
-http://code.television4you.xyz/mytvevent.php?id=6607
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/95/55/56/69/9a/a3/95569-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:35-27/12: Thế Giới Kì Diệu của Gumball
-http://code.television4you.xyz/mytvevent.php?id=5693
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bf/fe/ef/f6/61/1c/bfef6-lvitnamvsmalaysiaaffmitsubishielectriccup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-27/12: Việt Nam vs Malaysia  - AFF Mitsubishi Electric Cup
-http://code.television4you.xyz/mytvevent.php?id=6609
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/87/70/07/74/48/82/87074-lnhnggiaiiungcnghch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-27/12: Những Giai Điệu Ngốc Nghếch
-http://code.television4you.xyz/mytvevent.php?id=6475
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/30/03/3a/a4/4c/c7/303a4-llphchonmkhchmitinathothiphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-27/12: Lớp Học Hoàn Mỹ: Khách mời Tina Thảo Thi - Phần 2
-http://code.television4you.xyz/mytvevent.php?id=5850
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/38/81/1c/ca/a5/5a/381ca-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-27/12: Chúng Tôi Đơn Giản Là Gấu
-http://code.television4you.xyz/mytvevent.php?id=5554
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/43/3a/a6/63/30/05/43a63-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-28/12: Biệt Đội Thiếu Niên Titan Xuất Kích!
-http://code.television4you.xyz/mytvevent.php?id=6514
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f7/7b/b7/74/49/96/f7b74-lkhiutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-28/12: Khởi Đầu - Tập 16
-http://code.television4you.xyz/mytvevent.php?id=6463
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/05/54/4e/ee/e4/44/054ee-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-28/12: Những Chú Gấu Boonie
-http://code.television4you.xyz/mytvevent.php?id=5183
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/6e/e6/6d/d9/9b/bc/6e6d9-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-28/12: Ngài Bean
-http://code.television4you.xyz/mytvevent.php?id=5697
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bf/f1/15/5f/f3/39/bf15f-lnangmtnangthngtp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-28/12: Nửa Đường Mật, Nửa Đường Thương - Tập 23
-http://code.television4you.xyz/mytvevent.php?id=6469
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-28/12: Bố Đầu Nhỏ Con Đầu To
-http://code.television4you.xyz/mytvevent.php?id=5704
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/4a/a0/04/47/72/21/4a047-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-28/12: Nấc Cụt Và Hắt Xì
-http://code.television4you.xyz/mytvevent.php?id=5388
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3b/bc/c4/4e/ef/f4/3bc4e-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:35-28/12: Thế Giới Kì Diệu của Gumball
 http://code.television4you.xyz/mytvevent.php?id=5694
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/09/9f/fd/d6/63/3a/09fd6-lnhnggiaiiungcnghch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-28/12: Những Giai Điệu Ngốc Nghếch
 http://code.television4you.xyz/mytvevent.php?id=6474
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ea/a1/13/3b/bb/bf/ea13b-llphchonmkhchmitinathothiphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-28/12: Lớp Học Hoàn Mỹ: Khách mời Tina Thảo Thi - Phần 3
-http://code.television4you.xyz/mytvevent.php?id=5851
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/7e/e7/72/2e/ed/d2/7e72e-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-28/12: Chúng Tôi Đơn Giản Là Gấu
 http://code.television4you.xyz/mytvevent.php?id=5552
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ea/a1/13/3b/bb/bf/ea13b-llphchonmkhchmitinathothiphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-28/12: Lớp Học Hoàn Mỹ: Khách mời Tina Thảo Thi - Phần 3
+http://code.television4you.xyz/mytvevent.php?id=5851
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/82/21/1b/bc/c3/3b/821bc-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-29/12: Biệt Đội Thiếu Niên Titan Xuất Kích!
 http://code.television4you.xyz/mytvevent.php?id=6513
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/39/95/5f/f0/09/93/395f0-lkhiutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-29/12: Khởi Đầu - Tập 17
@@ -1380,8 +1368,12 @@ http://code.television4you.xyz/mytvevent.php?id=5705
 http://code.television4you.xyz/mytvevent.php?id=6465
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/73/36/67/7b/ba/a6/7367b-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-29/12: Nấc Cụt Và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5387
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d0/05/5b/bd/d1/1f/d05bd-lindonesiavsthilanaffmitsubishielectriccup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:20-29/12: Indonesia vs Thái Lan - AFF Mitsubishi Electric Cup
+http://code.television4you.xyz/mytvevent.php?id=6616
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ec/c0/0d/db/b8/8f/ec0db-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:35-29/12: Thế Giới Kì Diệu Của Gumball
 http://code.television4you.xyz/mytvevent.php?id=5557
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/48/8b/b5/50/07/79/48b50-lmuaythaigrandprixduynhtvsrachvicha-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:30-29/12: Muaythai Grand Prix - Duy Nhất vs Rachvicha
+http://code.television4you.xyz/mytvevent.php?id=6617
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bd/d3/3a/a8/8d/d7/bd3a8-llphchonmkhchmitinathothiphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-29/12: Lớp Học Hoàn Mỹ: Khách mời Tina Thảo Thi - Phần 4
 http://code.television4you.xyz/mytvevent.php?id=6564
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5a/ad/dd/d8/8f/f5/5add8-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-29/12: Chúng Tôi Đơn Giản Là Gấu
@@ -1396,6 +1388,8 @@ http://code.television4you.xyz/mytvevent.php?id=5182
 http://code.television4you.xyz/mytvevent.php?id=6462
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ef/fe/ee/e0/0f/f1/efee0-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-30/12: Nấc Cụt và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5707
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/96/6b/bf/f4/4c/c1/96bf4-lliveshowliyuthng-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-30/12: Liveshow Lời Yêu Thương
+http://code.television4you.xyz/mytvevent.php?id=6614
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-30/12: Đừng Làm Mẹ Cáu - Tập 10
 http://code.television4you.xyz/mytvevent.php?id=6471
 
