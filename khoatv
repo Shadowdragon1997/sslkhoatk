@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/th.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr.xml.gz,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr.xml.gz,https://iptv-org.github.io/epg/guides/au.xml.gz,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/sg.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/bg.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/qa.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/hk.xml.gz,https://iptv-org.github.io/epg/guides/at.xml.gz,https://iptv-org.github.io/epg/guides/de.xml.gz,https://iptv-org.github.io/epg/guides/my.xml.gz,https://iptv-org.github.io/epg/guides/za.xml.gz,https://iptv-org.github.io/epg/guides/pt.xml.gz,https://iptv-org.github.io/epg/guides/pl.xml.gz,https://iptv-org.github.io/epg/guides/ro.xml.gz,https://iptv-org.github.io/epg/guides/mx.xml.gz,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/ru.xml.gz"
 
+#-*-- Info -*--#
+#EXTINF:-1 group-title="ℹ| Info Khoa Tivi" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
+https://i.imgur.com/IcYbL93.mp4
+
 #-*-- Livestream bóng đá -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 1
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m30_index.m3u8
@@ -3014,111 +3018,133 @@ http://222.254.48.176:8889/evol.php?id=21416
 http://sg.cvacetv.ga/matchpre
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-27/12: SD1 Laos vs Singapore (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-27/12: SD2 Laos vs Singapore (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/oldSD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-27/12: HD Laos vs Singapore (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-27/12: Full HD Laos vs Singapore (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/oldFHD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",17h00-27/12: Nhà đài Laos vs Singapore (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179314182.global.cdnfastest.com/live/may11/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-27/12: SD1 Vietnam vs Malaysia (Người Thỏ + Người Mới)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-28/12: SD1 AJ Auxerre vs Monaco (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-27/12: SD2 Vietnam vs Malaysia (Người Thỏ + Người Mới)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-28/12: SD2 AJ Auxerre vs Monaco (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-27/12: HD Vietnam vs Malaysia (Người Thỏ + Người Mới)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-28/12: HD AJ Auxerre vs Monaco (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-27/12: Full HD Vietnam vs Malaysia (Người Thỏ + Người Mới)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-28/12: Full HD AJ Auxerre vs Monaco (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-27/12: Nhà đài Vietnam vs Malaysia (Người Thỏ + Người Mới)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-28/12: Nhà đài AJ Auxerre vs Monaco (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-28/12: SD1 Chelsea vs Bournemouth AFC (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-29/12: SD1 Clermont vs Lille (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179314182.global.cdnfastest.com/live/may2SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-28/12: SD2 Chelsea vs Bournemouth AFC (Cáp Tần)
+https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-29/12: SD2 Clermont vs Lille (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-28/12: HD Chelsea vs Bournemouth AFC (Cáp Tần)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-29/12: HD Clermont vs Lille (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-28/12: Full HD Chelsea vs Bournemouth AFC (Cáp Tần)
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-29/12: Full HD Clermont vs Lille (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179314182.global.cdnfastest.com/live/may2FHD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-28/12: Nhà đài Chelsea vs Bournemouth AFC (Cáp Tần)
+https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-29/12: Nhà đài Clermont vs Lille (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179314182.global.cdnfastest.com/live/may10/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-28/12: SD1 Manchester United vs Nottingham Forest (Người Rơi + Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: SD1 Leeds United vs Manchester City (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179314182.global.cdnfastest.com/live/may3SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-28/12: SD2 Manchester United vs Nottingham Forest (Người Rơi + Người Thỏ)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: SD2 Leeds United vs Manchester City (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-28/12: HD Manchester United vs Nottingham Forest (Người Rơi + Người Thỏ)
+https://179672673.global.cdnfastest.com/live/oldSD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: HD Leeds United vs Manchester City (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-28/12: Full HD Manchester United vs Nottingham Forest (Người Rơi + Người Thỏ)
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: Full HD Leeds United vs Manchester City (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179672673.global.cdnfastest.com/live/may3FHD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-28/12: Nhà đài Manchester United vs Nottingham Forest (Người Rơi + Người Thỏ)
+https://179672673.global.cdnfastest.com/live/oldFHD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: Nhà đài Leeds United vs Manchester City (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://179314182.global.cdnfastest.com/live/may101/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+https://179314182.global.cdnfastest.com/live/may11/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: SD1 Paris Saint Germain (PSG) vs Strasbourg (Người Nện)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: SD2 Paris Saint Germain (PSG) vs Strasbourg (Người Nện)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: HD Paris Saint Germain (PSG) vs Strasbourg (Người Nện)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: Full HD Paris Saint Germain (PSG) vs Strasbourg (Người Nện)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-29/12: Nhà đài Paris Saint Germain (PSG) vs Strasbourg (Người Nện)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8|referer=https://xem.xoilac12.org/truc-tiep/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-27/12: SD 1 Laos - Singapore (Giàng A Bịp)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: SD 1 Troyes - Nantes (Giàng A Páo)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: HD 1 Troyes - Nantes (Giàng A Páo)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: SD 2 Troyes - Nantes (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://xem.rakhoi5.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: HD 2 Troyes - Nantes (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://xem.rakhoi5.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: Nhà Đài Troyes - Nantes (Giàng A Páo)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://xem.rakhoi5.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: SD 1 AC Ajaccio - Angers (Giàng A Bịp)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@bipsd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-27/12: HD 1 Laos - Singapore (Giàng A Bịp)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: HD 1 AC Ajaccio - Angers (Giàng A Bịp)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@biphd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-27/12: SD 2 Laos - Singapore (Giàng A Bịp)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: SD 2 AC Ajaccio - Angers (Giàng A Bịp)
 https://179665839.global.cdnfastest.com/live/bipsd2/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-27/12: HD 2 Laos - Singapore (Giàng A Bịp)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: HD 2 AC Ajaccio - Angers (Giàng A Bịp)
 https://179665839.global.cdnfastest.com/live/biphd2/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-27/12: Nhà Đài Laos - Singapore (Giàng A Bịp)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h00-28/12: Nhà Đài AC Ajaccio - Angers (Giàng A Bịp)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://xem.rakhoi5.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-27/12: SD 1 Vietnam - Malaysia (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-28/12: SD 1 Auxerre - Monaco (Giàng A Lử)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-27/12: HD 1 Vietnam - Malaysia (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-28/12: HD 1 Auxerre - Monaco (Giàng A Lử)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-27/12: SD 2 Vietnam - Malaysia (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-28/12: SD 2 Auxerre - Monaco (Giàng A Lử)
 https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-27/12: HD 2 Vietnam - Malaysia (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-28/12: HD 2 Auxerre - Monaco (Giàng A Lử)
 https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-27/12: Nhà Đài Vietnam - Malaysia (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-28/12: Nhà Đài Auxerre - Monaco (Giàng A Lử)
 https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|referer=https://xem.rakhoi5.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-28/12: SD 1 Chelsea - Bournemouth (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",01h00-29/12: SD 1 Clermont Foot - Lille (Giàng A Phệt)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phetsd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-28/12: HD 1 Chelsea - Bournemouth (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",01h00-29/12: HD 1 Clermont Foot - Lille (Giàng A Phệt)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phethd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-28/12: SD 2 Chelsea - Bournemouth (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",01h00-29/12: SD 2 Clermont Foot - Lille (Giàng A Phệt)
 https://179665839.global.cdnfastest.com/live/phetsd2/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-28/12: HD 2 Chelsea - Bournemouth (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",01h00-29/12: HD 2 Clermont Foot - Lille (Giàng A Phệt)
 https://179665839.global.cdnfastest.com/live/phethd2/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-28/12: Nhà đài Chelsea - Bournemouth (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",01h00-29/12: Nhà đài Clermont Foot - Lille (Giàng A Phệt)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://xem.rakhoi5.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-28/12: SD 1 Man United - Nottm Forest (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: SD 1 Leeds - Man City (Giàng A Lử)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-28/12: HD 1 Man United - Nottm Forest (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: HD 1 Leeds - Man City (Giàng A Lử)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-28/12: SD 2 Man United - Nottm Forest (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: SD 2 Leeds - Man City (Giàng A Lử)
 https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-28/12: HD 2 Man United - Nottm Forest (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: HD 2 Leeds - Man City (Giàng A Lử)
 https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|referer=https://xem.rakhoi5.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-28/12: Nhà Đài Man United - Nottm Forest (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: Nhà Đài Leeds - Man City (Giàng A Lử)
 https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|referer=https://xem.rakhoi5.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: SD 1 PSG - Strasbourg (Giàng A Bịp)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@bipsd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: HD 1 PSG - Strasbourg (Giàng A Bịp)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@biphd1/playlist.m3u8|referer=https://xem.rakhoi5.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: SD 2 PSG - Strasbourg (Giàng A Bịp)
+https://179665839.global.cdnfastest.com/live/bipsd2/playlist.m3u8|referer=https://xem.rakhoi5.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: HD 2 PSG - Strasbourg (Giàng A Bịp)
+https://179665839.global.cdnfastest.com/live/biphd2/playlist.m3u8|referer=https://xem.rakhoi5.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-29/12: Nhà Đài PSG - Strasbourg (Giàng A Bịp)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://xem.rakhoi5.com/
