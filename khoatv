@@ -2098,7 +2098,7 @@ http://113.190.71.217:8889/ultratv.php?id=10919
 http://113.190.71.217:8889/ultratv.php?id=114840
 #EXTINF:-1 tvg-id="Eurosport2.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Eurosport 2
 http://113.190.71.217:8889/ultratv.php?id=4206
-#EXTINF:-1 group-title="🇪🇸| Sports Spain", ES: Movistar LC
+#EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", ES: Movistar LC
 http://sg.cvacetv.ga/M_LC
 
 #-*-- Sports Netherlands -*--#
