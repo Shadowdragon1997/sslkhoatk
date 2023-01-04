@@ -2098,6 +2098,8 @@ http://113.190.71.217:8889/ultratv.php?id=10919
 http://113.190.71.217:8889/ultratv.php?id=114840
 #EXTINF:-1 tvg-id="Eurosport2.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Eurosport 2
 http://113.190.71.217:8889/ultratv.php?id=4206
+#EXTINF:-1 group-title="🇪🇸| Sports Spain", ES: Movistar LC
+http://sg.cvacetv.ga/M_LC
 
 #-*-- Sports Netherlands -*--#
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" group-title="🇳🇱| Sports Netherlands" tvg-logo="https://i.imgur.com/4Mf67WJ.png", NL: Ziggo Sport Select FHD
