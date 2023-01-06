@@ -102,7 +102,7 @@ http://vn2.cvacetv.ga/live1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
 http://vn2.cvacetv.ga/live2
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
-http://vn3.cvacetv.ga/4KUHD
+http://vn2.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 2
 http://vn1.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 3
@@ -1352,60 +1352,76 @@ https://code.television4you.xyz/playlist/eventvieon.php?id=7b580e13-5310-44eb-bc
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/h56upy4a_banner828a465038b1108953112b1003aa2fee_1920_1080.jpg" group-title="🗓| Sự kiện", 19:15-06/01: Show Diễn Obsession - Đỗ Long Fashion Show 2023
 https://code.television4you.xyz/playlist/eventvieon.php?id=e0460631-8d76-4f1d-9651-20547554d307
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9a/a7/7e/e4/4e/e9/9a7e4-lnglmmcutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-05/01: Đừng Làm Mẹ Cáu - Tập 11
-http://code.television4you.xyz/mytvevent.php?id=6470
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/43/3a/a6/63/30/05/43a63-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-06/01: Biệt Đội Thiếu Niên Titan Xuất Kích!
-http://code.television4you.xyz/mytvevent.php?id=6514
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/09/92/20/03/32/2c/09203-lmbhit-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:00-06/01: MB - Hit
-http://code.television4you.xyz/mytvevent.php?id=6655
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/05/54/4e/ee/e4/44/054ee-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-06/01: Những Chú Gấu Boonie
-http://code.television4you.xyz/mytvevent.php?id=5183
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/6e/e6/6d/d9/9b/bc/6e6d9-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-06/01: Ngài Bean
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6e/e6/6d/d9/9b/bc/6e6d9-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-06/01: Ngài Bean
 http://code.television4you.xyz/mytvevent.php?id=5697
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-06/01: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/a6/6b/b3/36/67/75/a6b36-lchnghutp910-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:00-06/01: Chàng Hậu - Tập 19 - 20
+http://code.television4you.xyz/mytvevent.php?id=6608
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/bf/f1/15/5f/f3/39/bf15f-lnangmtnangthngtp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-06/01: Nửa Đường Mật, Nửa Đường Thương - Tập 32
+http://code.television4you.xyz/mytvevent.php?id=6469
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-06/01: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5703
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/4a/a0/04/47/72/21/4a047-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-06/01: Nấc Cụt Và Hắt Xì
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/4a/a0/04/47/72/21/4a047-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-06/01: Nấc Cụt Và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5388
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/13/3b/b6/6a/ab/b0/13b6a-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-06/01: Bé Kẹo Bông Và Mẹ Đám Mây
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c4/40/02/29/97/73/c4029-lindonesiavsvitnambnkt1ltiaffmitsubishielectriccup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-06/01: Indonesia vs Việt Nam: Bán kết 1 lượt đi - AFF Mitsubishi Electric Cup
+http://code.television4you.xyz/mytvevent.php?id=6680
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/13/3b/b6/6a/ab/b0/13b6a-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-06/01: Bé Kẹo Bông Và Mẹ Đám Mây
 http://code.television4you.xyz/mytvevent.php?id=5563
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d9/9c/cc/c8/86/6a/d9cc8-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-06/01: Thế Giới Kì Diệu của Gumball
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d9/9c/cc/c8/86/6a/d9cc8-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-06/01: Thế Giới Kì Diệu của Gumball
 http://code.television4you.xyz/mytvevent.php?id=5695
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/2c/c0/02/28/87/7e/2c028-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-06/01: Chúng Tôi Đơn Giản Là Gấu
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2c/c0/02/28/87/7e/2c028-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-06/01: Chúng Tôi Đơn Giản Là Gấu
 http://code.television4you.xyz/mytvevent.php?id=4971
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c5/56/6d/d6/62/28/c56d6-lqutngtith6sngabun-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-06/01: Quà tặng Tối Thứ 6 - Sân ga buồn
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c5/56/6d/d6/62/28/c56d6-lqutngtith6sngabun-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-06/01: Quà tặng Tối Thứ 6 - Sân ga buồn
 http://code.television4you.xyz/mytvevent.php?id=6660
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/95/5c/c7/76/60/03/95c76-ltasngcm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-06/01: Tỏa Sáng Ước Mơ
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/95/5c/c7/76/60/03/95c76-ltasngcm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-06/01: Tỏa Sáng Ước Mơ
 http://code.television4you.xyz/mytvevent.php?id=6656
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-06/01: Đừng Làm Mẹ Cáu - Tập 12
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-06/01: Đừng Làm Mẹ Cáu - Tập 12
 http://code.television4you.xyz/mytvevent.php?id=6471
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/69/98/84/4c/c9/93/6984c-lmanchesterutdvsevertonfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-07/01: Manchester Utd vs Everton: FA Cup - Vòng 3
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/69/98/84/4c/c9/93/6984c-lmanchesterutdvsevertonfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-07/01: Manchester Utd vs Everton: FA Cup - Vòng 3
 http://code.television4you.xyz/mytvevent.php?id=6661
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9d/da/a5/5e/e3/3e/9da5e-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-07/01: Biệt Đội Thiếu Niên Titan Xuất Kích!
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9d/da/a5/5e/e3/3e/9da5e-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-07/01: Biệt Đội Thiếu Niên Titan Xuất Kích!
 http://code.television4you.xyz/mytvevent.php?id=4534
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/31/1e/e3/3f/f5/5f/31e3f-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-07/01: Những Chú Gấu Boonie
-http://code.television4you.xyz/mytvevent.php?id=5184
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9f/f9/96/6c/cf/fd/9f96c-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-07/01: Dance
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9f/f9/96/6c/cf/fd/9f96c-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-07/01: Dance
 http://code.television4you.xyz/mytvevent.php?id=6657
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/53/38/86/6c/cb/b5/5386c-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-07/01: Chúng Tôi Đơn Giản Là Gấu
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/31/1e/e3/3f/f5/5f/31e3f-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-07/01: Những Chú Gấu Boonie
+http://code.television4you.xyz/mytvevent.php?id=5184
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/53/38/86/6c/cb/b5/5386c-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-07/01: Chúng Tôi Đơn Giản Là Gấu
 http://code.television4you.xyz/mytvevent.php?id=5690
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-07/01: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-07/01: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5704
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/73/36/67/7b/ba/a6/7367b-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-07/01: Nấc Cụt Và Hắt Xì
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/18/8f/f9/94/41/1f/18f94-lnangmtnangthngtp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-07/01: Nửa Đường Mật, Nửa Đường Thương - Tập 33
+http://code.television4you.xyz/mytvevent.php?id=6465
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/73/36/67/7b/ba/a6/7367b-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-07/01: Nấc Cụt Và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5387
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/0b/b1/19/91/1a/a8/0b191-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-07/01: Bé Kẹo Bông Và Mẹ Đám Mây
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/0b/b1/19/91/1a/a8/0b191-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-07/01: Bé Kẹo Bông Và Mẹ Đám Mây
 http://code.television4you.xyz/mytvevent.php?id=5171
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ed/d2/25/54/40/05/ed254-ltottenhamhotspurvsportsmouthfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-07/01: Tottenham Hotspur vs Portsmouth: FA Cup - Vòng 3
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ed/d2/25/54/40/05/ed254-ltottenhamhotspurvsportsmouthfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-07/01: Tottenham Hotspur vs Portsmouth: FA Cup - Vòng 3
 http://code.television4you.xyz/mytvevent.php?id=6662
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bc/cb/b5/57/78/82/bcb57-lgiaiiucmxc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/01: Giai Điệu Cảm Xúc
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/bc/cb/b5/57/78/82/bcb57-lgiaiiucmxc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/01: Giai Điệu Cảm Xúc
 http://code.television4you.xyz/mytvevent.php?id=6658
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d7/72/20/00/09/9f/d7200-lphngtrmytvgingitiyu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-07/01: Phòng trà MyTV - Gửi người tôi yêu
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/a4/47/7e/e6/69/9e/a47e6-ldareyoubncdmma2tp15-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/01: Dare You - Bạn Có Dám - Mùa 2 - Tập 15
+http://code.television4you.xyz/mytvevent.php?id=5047
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d7/72/20/00/09/9f/d7200-lphngtrmytvgingitiyu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-07/01: Phòng trà MyTV - Gửi người tôi yêu
 http://code.television4you.xyz/mytvevent.php?id=6659
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fe/e3/32/20/0f/fd/fe320-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-08/01: Những Chú Gấu Boonie
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5c/c4/45/56/66/67/5c456-lhullcityvsfulhamfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-07/01: Hull City vs Fulham: FA Cup - Vòng 3
+http://code.television4you.xyz/mytvevent.php?id=6663
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/80/0c/c5/54/4c/ce/80c54-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-08/01: Hip Hop
+http://code.television4you.xyz/mytvevent.php?id=6675
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/09/9a/a9/94/4b/b6/09a94-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-08/01: K-POP
+http://code.television4you.xyz/mytvevent.php?id=6674
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/fe/e3/32/20/0f/fd/fe320-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-08/01: Những Chú Gấu Boonie
 http://code.television4you.xyz/mytvevent.php?id=5182
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/17/7b/bf/f2/2d/d9/17bf2-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-08/01: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/8b/b8/8b/b8/80/09/8b8b8-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-08/01: K-Pop
+http://code.television4you.xyz/mytvevent.php?id=6676
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/17/7b/bf/f2/2d/d9/17bf2-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-08/01: Bố Đầu Nhỏ Con Đầu To
 http://code.television4you.xyz/mytvevent.php?id=5705
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c0/01/14/4a/ad/d7/c014a-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-09/01: Ngài Bean
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/7d/d6/62/27/7a/a4/7d627-lnangmtnangthngtp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-08/01: Nửa Đường Mật, Nửa Đường Thương - Tập 34
+http://code.television4you.xyz/mytvevent.php?id=6462
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-09/01: Thử Thách Cùng Thần Tượng - Số 636
+http://code.television4you.xyz/mytvevent.php?id=4470
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c0/01/14/4a/ad/d7/c014a-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-09/01: Ngài Bean
 http://code.television4you.xyz/mytvevent.php?id=5699
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b8/8e/e9/91/10/07/b8e91-lchnghutp12-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:00-09/01: Chàng Hậu - Tập 21 - 22
+http://code.television4you.xyz/mytvevent.php?id=6601
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
