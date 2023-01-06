@@ -592,13 +592,13 @@ https://api.vthanhtivi.pw/v2/getlink/sctv/sctv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cetAhX+T17QAOfrpTvfF2w","kid":"owIynbzJStS0+++vPF0tiA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"prucNUNxGm3hdQAGHMqw7Q","kid":"Tr4bAL56TFGHco++TEQ1cg"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Px9xzGSPP9edJgYL9hY2SA","kid":"Ehz1v27nQZKuY2SmD0kqVA"}],"type":"temporary"}
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+#http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MUhMjNRWi7thEBq8D5kfXw","kid":"LBiIAkpIOki5i0jME/+znA"}],"type":"temporary"}
@@ -613,13 +613,13 @@ http://vietanhtv.pw/fptplay/cine/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fQY/IVxW1X97rhPMuWcVbg","kid":"S6taK4SeSm+RuAwVYDrFHw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jHc696DIkh7Z1cmAe13Vpg","kid":"tWAtgIyZQVGQl9c/Q+4AoQ"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kETktdhDDu3Hd6hV17XlXg","kid":"zCgxGrP9S7eznQrNWNjVAw"}],"type":"temporary"}
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+#http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iWFGjPZD4yqU9SR4AW5SVQ","kid":"ogbfU5DaMZ+fM7ofpIpEhg"}],"type":"temporary"}
@@ -634,13 +634,13 @@ http://vietanhtv.pw/fptplay/life/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GlEbJsr8G8ejW7WzJG88LQ","kid":"bbXSiLSaTDK/xcBjNb5sXg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dCs1ytrN/uzRvfl0Yaz4zA","kid":"4QqVzpZISEGDvsXhooRtPw"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Kppi0iLkP65skRnIqNh8Aw","kid":"FEeYw86wRKy45tLwj/iLog"}],"type":"temporary"}
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+#http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vz3g6rR3Y5W4RUjWN75Zgg","kid":"AJwgucFiNFCwPW9Xjn6RMA"}],"type":"temporary"}
@@ -655,13 +655,13 @@ http://vietanhtv.pw/fptplay/sp1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nOBYAXon2U5jug5fDlCuTA","kid":"YhEjQiHeTD+ZsD9G8Pglcg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s9A+QcqZ04MQ7fecUrSTGA","kid":"Ipy/eQpRRCem2daCMQ45oA"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pH5xUM7bGFVlI44TfriUWA","kid":"PyCw7LaWRUms9FDcNxm/3g"}],"type":"temporary"}
-http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+#http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C1m6hYwbfPIkTFdtonYsgg","kid":"PGQuhgq+PfqKyJcA93BvqA"}],"type":"temporary"}
@@ -676,7 +676,7 @@ http://vietanhtv.pw/fptplay/sp2/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iBgh4VxEzWCHmOb8cNKT6w","kid":"yubUE6hkQYKvW+ksPzboow"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oQ3I1Lu3pMTZFaWHz580eQ","kid":"QcDt13AZRV+0iVwr/8K0LQ"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD FPT Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1347,37 +1347,13 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/04/gbc468zj_banner5b4dbbfbae26208888624aebca0752d4_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-06/01: Quay số mở thưởng Vietlott 06/01/2023
-https://code.television4you.xyz/playlist/eventvieon.php?id=7b580e13-5310-44eb-bc30-1b779d479f07
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/h56upy4a_banner828a465038b1108953112b1003aa2fee_1920_1080.jpg" group-title="🗓| Sự kiện", 19:15-06/01: Show Diễn Obsession - Đỗ Long Fashion Show 2023
-https://code.television4you.xyz/playlist/eventvieon.php?id=e0460631-8d76-4f1d-9651-20547554d307
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/04/mi4nddvv_banner5d0f275a7f43949acc20c8827113923f_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-07/01: Quay số mở thưởng Vietlott 07/01/2023
+https://code.television4you.xyz/playlist/eventvieon.php?id=5ba2bd03-d727-4c2c-95a8-f33aa1bbb59c
 
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6e/e6/6d/d9/9b/bc/6e6d9-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-06/01: Ngài Bean
-http://code.television4you.xyz/mytvevent.php?id=5697
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/a6/6b/b3/36/67/75/a6b36-lchnghutp910-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:00-06/01: Chàng Hậu - Tập 19 - 20
-http://code.television4you.xyz/mytvevent.php?id=6608
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/bf/f1/15/5f/f3/39/bf15f-lnangmtnangthngtp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-06/01: Nửa Đường Mật, Nửa Đường Thương - Tập 32
-http://code.television4you.xyz/mytvevent.php?id=6469
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-06/01: Bố Đầu Nhỏ Con Đầu To
-http://code.television4you.xyz/mytvevent.php?id=5703
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/4a/a0/04/47/72/21/4a047-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-06/01: Nấc Cụt Và Hắt Xì
-http://code.television4you.xyz/mytvevent.php?id=5388
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c4/40/02/29/97/73/c4029-lindonesiavsvitnambnkt1ltiaffmitsubishielectriccup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-06/01: Indonesia vs Việt Nam: Bán kết 1 lượt đi - AFF Mitsubishi Electric Cup
-http://code.television4you.xyz/mytvevent.php?id=6680
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/13/3b/b6/6a/ab/b0/13b6a-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-06/01: Bé Kẹo Bông Và Mẹ Đám Mây
-http://code.television4you.xyz/mytvevent.php?id=5563
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d9/9c/cc/c8/86/6a/d9cc8-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-06/01: Thế Giới Kì Diệu của Gumball
-http://code.television4you.xyz/mytvevent.php?id=5695
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2c/c0/02/28/87/7e/2c028-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-06/01: Chúng Tôi Đơn Giản Là Gấu
-http://code.television4you.xyz/mytvevent.php?id=4971
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c5/56/6d/d6/62/28/c56d6-lqutngtith6sngabun-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-06/01: Quà tặng Tối Thứ 6 - Sân ga buồn
-http://code.television4you.xyz/mytvevent.php?id=6660
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/95/5c/c7/76/60/03/95c76-ltasngcm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-06/01: Tỏa Sáng Ước Mơ
-http://code.television4you.xyz/mytvevent.php?id=6656
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-06/01: Đừng Làm Mẹ Cáu - Tập 12
-http://code.television4you.xyz/mytvevent.php?id=6471
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/69/98/84/4c/c9/93/6984c-lmanchesterutdvsevertonfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-07/01: Manchester Utd vs Everton: FA Cup - Vòng 3
 http://code.television4you.xyz/mytvevent.php?id=6661
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/0b/be/ea/a5/5c/cd/0bea5-lraithroversvsdundeecinchchampionship-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-07/01: Raith Rovers vs Dundee - Cinch Scottish Championship
+http://code.television4you.xyz/mytvevent.php?id=6685
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9d/da/a5/5e/e3/3e/9da5e-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-07/01: Biệt Đội Thiếu Niên Titan Xuất Kích!
 http://code.television4you.xyz/mytvevent.php?id=4534
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9f/f9/96/6c/cf/fd/9f96c-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-07/01: Dance
@@ -1386,10 +1362,10 @@ http://code.television4you.xyz/mytvevent.php?id=6657
 http://code.television4you.xyz/mytvevent.php?id=5184
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/53/38/86/6c/cb/b5/5386c-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-07/01: Chúng Tôi Đơn Giản Là Gấu
 http://code.television4you.xyz/mytvevent.php?id=5690
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-07/01: Bố Đầu Nhỏ Con Đầu To
-http://code.television4you.xyz/mytvevent.php?id=5704
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/18/8f/f9/94/41/1f/18f94-lnangmtnangthngtp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-07/01: Nửa Đường Mật, Nửa Đường Thương - Tập 33
 http://code.television4you.xyz/mytvevent.php?id=6465
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-07/01: Bố Đầu Nhỏ Con Đầu To
+http://code.television4you.xyz/mytvevent.php?id=5704
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/73/36/67/7b/ba/a6/7367b-lncctvhtx-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-07/01: Nấc Cụt Và Hắt Xì
 http://code.television4you.xyz/mytvevent.php?id=5387
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/0b/b1/19/91/1a/a8/0b191-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-07/01: Bé Kẹo Bông Và Mẹ Đám Mây
@@ -1400,7 +1376,7 @@ http://code.television4you.xyz/mytvevent.php?id=6662
 http://code.television4you.xyz/mytvevent.php?id=6658
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/a4/47/7e/e6/69/9e/a47e6-ldareyoubncdmma2tp15-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/01: Dare You - Bạn Có Dám - Mùa 2 - Tập 15
 http://code.television4you.xyz/mytvevent.php?id=5047
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d7/72/20/00/09/9f/d7200-lphngtrmytvgingitiyu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-07/01: Phòng trà MyTV - Gửi người tôi yêu
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/95/55/5a/aa/a9/92/955aa-lphngtrmytvgingitiyu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-07/01: Phòng trà MyTV - Gửi người tôi yêu
 http://code.television4you.xyz/mytvevent.php?id=6659
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5c/c4/45/56/66/67/5c456-lhullcityvsfulhamfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-07/01: Hull City vs Fulham: FA Cup - Vòng 3
 http://code.television4you.xyz/mytvevent.php?id=6663
@@ -1416,6 +1392,10 @@ http://code.television4you.xyz/mytvevent.php?id=6676
 http://code.television4you.xyz/mytvevent.php?id=5705
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/7d/d6/62/27/7a/a4/7d627-lnangmtnangthngtp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-08/01: Nửa Đường Mật, Nửa Đường Thương - Tập 34
 http://code.television4you.xyz/mytvevent.php?id=6462
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/05/58/83/33/37/76/05833-lmotherwellvshiberniancinchchampionship-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-08/01: Motherwell vs Hibernian - Cinch Scottish Championship
+http://code.television4you.xyz/mytvevent.php?id=6686
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ec/c4/45/58/83/30/ec458-ldundeeunitedvsrangerscinchchampionship-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-08/01: Dundee United vs Rangers - Cinch Scottish Championship
+http://code.television4you.xyz/mytvevent.php?id=6687
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-09/01: Thử Thách Cùng Thần Tượng - Số 636
 http://code.television4you.xyz/mytvevent.php?id=4470
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c0/01/14/4a/ad/d7/c014a-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-09/01: Ngài Bean
