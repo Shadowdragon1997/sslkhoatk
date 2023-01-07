@@ -110,10 +110,6 @@ http://sg.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 4
 http://sg2.cvacetv.ga/4KUHD
 
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/22/g60uy55e_banner39b97baaf6e1f374818a7149657a2f25_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-07/01: Melbourne City FC - Western United (Vòng 11 - VĐQG Úc 2022/23)
-https://code.television4you.xyz/playlist/eventvieon.php?id=f03af3cd-c269-4644-83a9-60c3ac1c845a
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/04/mi4nddvv_banner5d0f275a7f43949acc20c8827113923f_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 18:00-07/01: Quay số mở thưởng Vietlott 07/01/2023
-https://code.television4you.xyz/playlist/eventvieon.php?id=5ba2bd03-d727-4c2c-95a8-f33aa1bbb59c
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/22/5tbyy00q_banner92c07142359a84636128196f96b6f534_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 10:45-08/01: Macarthur - Newcastle Jets (Vòng 11 - VĐQG Úc 2022/23)
 https://code.television4you.xyz/playlist/eventvieon.php?id=a53395c8-d119-4617-bd43-91939ea45f75
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/11/14/dxm82qhz_banner940ea0af4ff539504eeac4ff656cc301_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 02:45-08/01: PSV Eindhoven - Sparta Rotterdam (Vòng 15 - VĐQG Hà Lan 2022/23)
@@ -170,6 +166,8 @@ https://code.television4you.xyz/playlist/eventvieon.php?id=52786777-6c1f-4bf8-84
 https://code.television4you.xyz/playlist/eventvieon.php?id=47bf556a-fcdc-42a0-ae2d-49bf48089b12
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/8ryn07yo_bannera3087fe84660f031bad81eeeb4602e94_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 08:45-28/01: Wellington Phoenix - Perth Glory (Vòng 14 - VĐQG Úc 2022/23)
 https://code.television4you.xyz/playlist/eventvieon.php?id=d5f59ec8-d142-42a1-bc81-8d74fe3f3ee8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/ptpk6fd7_bannerc001232fd1af8a160d876fd117cb4bec_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-28/01: Macarthur FC - Western United FC (Vòng 14 - VĐQG Úc 2022/23)
+https://code.television4you.xyz/playlist/eventvieon.php?id=bd683f12-4bb4-45c0-851b-6f175657d66b
 
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
@@ -1351,17 +1349,9 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/04/mi4nddvv_banner5d0f275a7f43949acc20c8827113923f_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-07/01: Quay số mở thưởng Vietlott 07/01/2023
-https://code.television4you.xyz/playlist/eventvieon.php?id=5ba2bd03-d727-4c2c-95a8-f33aa1bbb59c
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/04/0s4h17ze_bannerbdcd009eea1e0cbd90b8bc4c7b970029_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-08/01: Quay số mở thưởng Vietlott 08/01/2023
+https://code.television4you.xyz/playlist/eventvieon.php?id=379ebe0c-b7a7-4e06-9a3e-38f5e5527343
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ed/d2/25/54/40/05/ed254-ltottenhamhotspurvsportsmouthfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-07/01: Tottenham Hotspur vs Portsmouth: FA Cup - Vòng 3
-http://code.television4you.xyz/mytvevent.php?id=6662
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/a4/47/7e/e6/69/9e/a47e6-ldareyoubncdmma2tp15-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/01: Dare You - Bạn Có Dám - Mùa 2 - Tập 15
-http://code.television4you.xyz/mytvevent.php?id=5047
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bc/cb/b5/57/78/82/bcb57-lgiaiiucmxc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/01: Giai Điệu Cảm Xúc
-http://code.television4you.xyz/mytvevent.php?id=6658
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/95/55/5a/aa/a9/92/955aa-lphngtrmytvgingitiyu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-07/01: Phòng trà MyTV - Gửi người tôi yêu
-http://code.television4you.xyz/mytvevent.php?id=6659
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5c/c4/45/56/66/67/5c456-lhullcityvsfulhamfacupvng3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-07/01: Hull City vs Fulham: FA Cup - Vòng 3
 http://code.television4you.xyz/mytvevent.php?id=6663
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/80/0c/c5/54/4c/ce/80c54-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-08/01: Hip Hop
@@ -1378,8 +1368,16 @@ http://code.television4you.xyz/mytvevent.php?id=6462
 http://code.television4you.xyz/mytvevent.php?id=5705
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/05/58/83/33/37/76/05833-lmotherwellvshiberniancinchchampionship-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-08/01: Motherwell vs Hibernian - Cinch Scottish Championship
 http://code.television4you.xyz/mytvevent.php?id=6686
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/08/88/8f/f7/79/9c/088f7-lthamvngtp3a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-08/01: Tham Vọng - Tập 3A
+http://code.television4you.xyz/mytvevent.php?id=6670
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ec/c4/45/58/83/30/ec458-ldundeeunitedvsrangerscinchchampionship-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-08/01: Dundee United vs Rangers - Cinch Scottish Championship
 http://code.television4you.xyz/mytvevent.php?id=6687
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/38/89/9c/cd/df/f8/389cd-lthamvngtp3b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:17-08/01: Tham Vọng - Tập 3B
+http://code.television4you.xyz/mytvevent.php?id=6671
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bf/fe/e6/69/9b/bf/bfe69-lthamvngtp4a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:40-08/01: Tham Vọng - Tập 4A
+http://code.television4you.xyz/mytvevent.php?id=6672
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/aa/ae/eb/b4/4e/e4/aaeb4-lthamvngtp4b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:57-08/01: Tham Vọng - Tập 4B
+http://code.television4you.xyz/mytvevent.php?id=6673
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-09/01: Thử Thách Cùng Thần Tượng - Số 636
 http://code.television4you.xyz/mytvevent.php?id=4470
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c0/01/14/4a/ad/d7/c014a-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-09/01: Ngài Bean
@@ -3068,21 +3066,69 @@ https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8|referer=ht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may4/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: SD1 Juventus vs Udinese (Người Nện)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: SD1 Juventus vs Udinese (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: SD2 Juventus vs Udinese (Người Nện)
+https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: SD2 Juventus vs Udinese (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: HD Juventus vs Udinese (Người Nện)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: HD Juventus vs Udinese (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: Full HD Juventus vs Udinese (Người Nện)
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: Full HD Juventus vs Udinese (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: Nhà đài Juventus vs Udinese (Người Nện)
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-08/01: Nhà đài Juventus vs Udinese (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+https://1123139281.cdn.khmer-hd.com/may6/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-08/01: SD1 Brentford vs West Ham United (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-08/01: SD2 Brentford vs West Ham United (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-08/01: HD Brentford vs West Ham United (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-08/01: Full HD Brentford vs West Ham United (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may011FHD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-08/01: Nhà đài Brentford vs West Ham United (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may81/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-08/01: SD1 Monza vs Inter Milan (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-08/01: SD2 Monza vs Inter Milan (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-08/01: HD Monza vs Inter Milan (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-08/01: Full HD Monza vs Inter Milan (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may011FHD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-08/01: Nhà đài Monza vs Inter Milan (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may81/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/01: SD1 Liverpool vs Wolves (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/01: SD2 Liverpool vs Wolves (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/01: HD Liverpool vs Wolves (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/01: Full HD Liverpool vs Wolves (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-08/01: Nhà đài Liverpool vs Wolves (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may6/chunks.m3u8|referer=https://xem2.xoilac12.org/truc-tiep/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-07/01: SD 1 Malaysia - Thailand (Giàng A Lử)
@@ -3145,11 +3191,11 @@ https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlis
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-08/01: HD 1 Juventus - Udinese (Giàng A Cay)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|referer=https://xem.rakhoi15.tv/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-08/01: SD 2 Juventus - Udinese (Giàng A Cay)
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|referer=https://xem.rakhoi15.tv/
+https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|referer=https://xem.rakhoi15.tv/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-08/01: HD 2 Juventus - Udinese (Giàng A Cay)
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|referer=https://xem.rakhoi15.tv/
+https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|referer=https://xem.rakhoi15.tv/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-08/01: Nhà Đài Juventus - Udinese (Giàng A Cay)
-https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|referer=https://xem.rakhoi15.tv/
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|referer=https://xem.rakhoi15.tv/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-08/01: SD 1 Brentford - West Ham (Giàng A Phệt)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phetsd1/playlist.m3u8|referer=https://xem.rakhoi15.tv/
