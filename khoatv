@@ -2289,23 +2289,21 @@ http://222.254.49.97:8889/ultratv.php?id=9652
 
 #-*-- Sports HK/Taiwan -*--#
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115", HK: Now Sports Premier League 1 FHD
-http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/49674.ts
+http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425332
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115", HK: Now Sports Premier League 2 FHD
-http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/49675.ts
+http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425333
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague3.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_160_115", HK: Now Sports Premier League 3 FHD
-http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/49676.ts
+http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425334
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague4.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_160_115", HK: Now Sports Premier League 4 FHD
-http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/49677.ts
+http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425335
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague5.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_160_115", HK: Now Sports Premier League 5 FHD
-http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/49678.ts
+http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425336
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague6.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 6 FHD
-http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/49678.ts
-#EXTINF:-1 tvg-ID="NowSportsPremierLeague7.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 6 FHD
-http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/49680.ts
-#EXTINF:-1 tvg-ID="" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="", HK: Now Sports Premier League 7 FHD
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425331
-#EXTINF:-1 tvg-ID="" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="", HK: Now Sports Premier League 8 FHD
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425330
+http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425337
+#EXTINF:-1 tvg-ID="NowSportsPremierLeague7.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 7 FHD
+http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425331
+#EXTINF:-1 tvg-ID="NowSportsPremierLeague8.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 8 FHD
+http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425330
 #EXTINF:-1 tvg-ID="NowSports1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115", HK: Now Sports 1 FHD
 http://222.254.49.97:8889/ultratv.php?id=246323
 #EXTINF:-1 tvg-ID="NowSports2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_160_115", HK: Now Sports 2 FHD
