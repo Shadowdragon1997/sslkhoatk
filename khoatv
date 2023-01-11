@@ -2253,11 +2253,13 @@ http://113.178.25.20:8889/evol.php?id=207574
 
 #-*-- Sports Italia -*--#
 #EXTINF:-1 tvg-ID="SkySportUno.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sky_Sport_Uno_HD_-_Logo_2020.svg/512px-Sky_Sport_Uno_HD_-_Logo_2020.svg.png", IT: Sky Sport Uno FHD
-http://113.178.25.20:8889/iprotv.php?id=44700
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159572
 #EXTINF:-1 tvg-ID="SkySportFootball.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sky_Sport_Football_HD_-_Logo_2020.svg/512px-Sky_Sport_Football_HD_-_Logo_2020.svg.png", IT: Sky Sport Football FHD
 http://113.178.25.20:8889/iprotv.php?id=2770
 #EXTINF:-1 tvg-ID="SkySportArena.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sky_Sport_Arena_HD_-_Logo_2020.svg/512px-Sky_Sport_Arena_HD_-_Logo_2020.svg.png", IT: Sky Sport Arena FHD
 http://113.178.25.20:8889/iprotv.php?id=2739
+#EXTINF:-1 tvg-ID="SkySportF1Italy.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png", IT: Sky Sport F1 FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159567
 #EXTINF:-1 tvg-ID="Rai3.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 3 4K
 http://113.178.25.20:8889/evol.php?id=68443
 #EXTINF:-1 tvg-ID="Rai3.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png", IT: Rai 3 FHD
@@ -2327,7 +2329,7 @@ http://113.178.25.20:8889/evol.php?id=310970
 #EXTINF:-1 tvg-ID="skysporttennis.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png", DE: Sky Sport Tennis FHD
 http://113.178.25.20:8889/evol.php?id=310967
 #EXTINF:-1 tvg-ID="SkySportF1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png", DE: Sky Sport F1 FHD
-http://113.178.25.20:8889/ultratv.php?id=223333
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174563
 #EXTINF:-1 tvg-ID="DAZN1BarHD.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/qMr4eDT.png", DE: DAZN 1 Bar FHD
 http://113.178.25.20:8889/evol.php?id=45656
 #EXTINF:-1 tvg-ID="daznbar2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DE: DAZN 2 Bar FHD
@@ -2365,9 +2367,9 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204957
 #EXTINF:-1 tvg-ID="SkySportBundesliga10.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/22/Sky_Sport_Bundesliga_10_Logo_2020.png/512px-Sky_Sport_Bundesliga_10_Logo_2020.png", DE: Sky Bundesliga 10 FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204958
 #EXTINF:-1 tvg-ID="Eurosport1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/z3fQ87X.png", DE: Eurosport 1 FHD
-http://113.178.25.20:8889/ultratv.php?id=7817
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/412
 #EXTINF:-1 tvg-ID="Eurosport2Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/0xpN9B6.png", DE: Eurosport 2 FHD
-http://113.178.25.20:8889/ultratv.php?id=7816
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2082
 
 #-*-- Sports Hungary -*--#
 #EXTINF:-1 tvg-id="DigiSport1Hungary.hu" group-title="🇭🇺| Sports Hungary" tvg-logo="https://i.imgur.com/si4dU6Q.png", DIGI Sport 1 HU
@@ -2523,7 +2525,7 @@ http://113.178.25.20:8889/ultratv.php?id=164982
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10155
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
-http://113.178.25.20:8889/evol.php?id=107504
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
 http://113.178.25.20:8889/angel.php?id=12800
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 4
@@ -2533,7 +2535,7 @@ http://113.178.25.20:8889/angel.php?id=102470
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10156
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 2
-http://113.178.25.20:8889/evol.php?id=107505
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
 http://113.178.25.20:8889/angel.php?id=12801
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
@@ -2541,7 +2543,7 @@ http://113.178.25.20:8889/angel.php?id=102471
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10157
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 2
-http://113.178.25.20:8889/evol.php?id=107506
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 3
 http://113.178.25.20:8889/angel.php?id=12802
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 4
@@ -2551,7 +2553,7 @@ http://113.178.25.20:8889/angel.php?id=102473
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10159
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 2
-http://113.178.25.20:8889/evol.php?id=107507
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 3
 http://113.178.25.20:8889/angel.php?id=12803
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 4
@@ -2559,7 +2561,7 @@ http://113.178.25.20:8889/angel.php?id=102474
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10160 
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 2
-http://113.178.25.20:8889/evol.php?id=107508
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 3
 http://113.178.25.20:8889/angel.php?id=12804
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 4
@@ -2567,7 +2569,7 @@ http://113.178.25.20:8889/angel.php?id=102475
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10158
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 2
-http://113.178.25.20:8889/evol.php?id=107509
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 3
 http://113.178.25.20:8889/angel.php?id=12805
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 4
@@ -2581,7 +2583,7 @@ http://113.178.25.20:8889/ultratv.php?id=5119
 #EXTINF:-1 tvg-ID="Eurosport2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2.jpg", PT: Eurosport 2 FHD
 http://113.178.25.20:8889/ultratv.php?id=9345
 #EXTINF:-1 tvg-ID="BenficaTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/512px-BTV_Red.svg.png", PT: Benfica TV FHD
-http://113.178.25.20:8889/ultratv.php?id=9345
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587
 #EXTINF:-1 tvg-ID="BenficaTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/512px-BTV_Red.svg.png", PT: Benfica TV FHD Server 2
 http://113.178.25.20:8889/ultratv.php?id=9345
 #EXTINF:-1 tvg-ID="SportingTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/GOlNfTo.png", PT: Sporting TV FHD
