@@ -2718,12 +2718,14 @@ http://sg.cvacetv.ga/TVP_Sport
 http://113.178.25.20:8889/evol.php?id=67806
 
 #-*-- Sports Romania -*--#
-#EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO: Digi Sport 1
-
-#EXTINF:-1 tvg-id="DigiSport2Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO: Digi Sport 2
-
-#EXTINF:-1 tvg-id="DigiSport3Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO:  DIGI SPORT 3
-http://113.178.25.20:8889/prostv.php?id=5238
+#EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/5zMxDYq.png", RO: Digi Sport 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/71457
+#EXTINF:-1 tvg-id="DigiSport2Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/KWDUi3v.png", RO: Digi Sport 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/71459
+#EXTINF:-1 tvg-id="DigiSport3Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/T1ci5UK.png", RO:  DIGI SPORT 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2243
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO:  DIGI SPORT 4
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4219
 #EXTINF:-1 tvg-id="TelekomSport1.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-1.png", RO: Telekom Sport 1
 http://113.178.25.20:8889/evol.php?id=150235
 #EXTINF:-1 tvg-id="TelekomSport2.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-2.png", RO: Telekom Sport 2
