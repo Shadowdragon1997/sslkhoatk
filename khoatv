@@ -593,7 +593,7 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"prucNUNxGm3hdQAGHMqw7Q","kid":"Tr4bAL56TFGHco++TEQ1cg"},{"kty":"oct","k":"1M2C6AlzSj5W7mW7R8Rilg","kid":"lgIbAL56TFGHco++TEQ1cg"},{"kty":"oct","k":"pw9zZEKrY3nN9LzLLf2FbQ","kid":"owZfMb56TFGHco++TEQ1cg"},{"kty":"oct","k":"4lMwq9eICXjvNslub3uAIg","kid":"jxNfSQ16TFGHco++TEQ1cg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CoFEgBN6e3I+PrYmPfNp4g","kid":"q6zp42P1TJaeJJnE8Jol9A"},{"kty":"oct","k":"uZCHlIrjwaAIeggI85vtAQ","kid":"8/Dp42P1TJaeJJnE8Jol9A"},{"kty":"oct","k":"f7lu/2d25IFqUtlII3Yizw","kid":"APQtFGP1TJaeJJnE8Jol9A"},{"kty":"oct","k":"GzNLfAuVCmnmc2bWnrfXUg","kid":"7AEtLLL1TJaeJJnE8Jol9A"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -618,7 +618,7 @@ https://longpt.net/vtvcabon/k-plus-1.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jHc696DIkh7Z1cmAe13Vpg","kid":"tWAtgIyZQVGQl9c/Q+4AoQ"},{"kty":"oct","k":"zTaQ9043UDYqGCILgAVo3w","kid":"/aQtgIyZQVGQl9c/Q+4AoQ"},{"kty":"oct","k":"WJuBDMnIqOgW5GGs2AHiFg","kid":"CqhxsYyZQVGQl9c/Q+4AoQ"},{"kty":"oct","k":"J+8E7AkNBSEo683Tu0jo+w","kid":"9rVxyduZQVGQl9c/Q+4AoQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"H+9EefaBAsYzYGlF8//Cxg","kid":"m27zX1QJT7uoQ4wmdehJbQ"},{"kty":"oct","k":"wotGryjps4FrAZW8WhdedQ","kid":"47LzX1QJT7uoQ4wmdehJbQ"},{"kty":"oct","k":"jCLU6IM/x7G6y90MmF1VAg","kid":"8LY3kFQJT7uoQ4wmdehJbQ"},{"kty":"oct","k":"0rjoxBnu44jsGslmP8O9aQ","kid":"3MM3qKMJT7uoQ4wmdehJbQ"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -643,7 +643,7 @@ https://longpt.net/vtvcabon/k-plus-ns.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dCs1ytrN/uzRvfl0Yaz4zA","kid":"4QqVzpZISEGDvsXhooRtPw"},{"kty":"oct","k":"GU9f8dwJO1n8Ur45/V3pgw","kid":"KU6VzpZISEGDvsXhooRtPw"},{"kty":"oct","k":"MgaazKixVyW34L2M/vHROg","kid":"NlLZ/5ZISEGDvsXhooRtPw"},{"kty":"oct","k":"Kbs36h4E8OywqwiY0/33EQ","kid":"Il/ZF+VISEGDvsXhooRtPw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HOW1RaCEFyqVbP6anu27Gw","kid":"1vpaoObBS3yDCU67NlMUow"},{"kty":"oct","k":"n/GALqFCYQOdmoMyAsFxcA","kid":"Hj5aoObBS3yDCU67NlMUow"},{"kty":"oct","k":"GaJAH7ce+2G+AHPd6Tchpw","kid":"K0Ke0ebBS3yDCU67NlMUow"},{"kty":"oct","k":"Us0c6x1HM5EBoILfeKUvAQ","kid":"F0+e6TXBS3yDCU67NlMUow"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -668,7 +668,7 @@ https://longpt.net/vtvcabon/k-plus-pm.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s9A+QcqZ04MQ7fecUrSTGA","kid":"Ipy/eQpRRCem2daCMQ45oA"},{"kty":"oct","k":"5VYkVxrtpaq4k5HuL0hPBA","kid":"auC/eQpRRCem2daCMQ45oA"},{"kty":"oct","k":"ytqLNS32hAFWGj3GOxCOPg","kid":"d+QDqgpRRCem2daCMQ45oA"},{"kty":"oct","k":"fRwxxM0KtpWaJ0+/+M6Dxw","kid":"Y/EDwllRRCem2daCMQ45oA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"N9Sl/THUJsmznOrc+/V2Fw","kid":"K8Meg3/GTTicYuE9iUjUrQ"},{"kty":"oct","k":"51lqB+q93DwkCRi69M1YgA","kid":"cwceg3/GTTicYuE9iUjUrQ"},{"kty":"oct","k":"u9UEV/Sc5r62dAGxnooljw","kid":"gAtitH/GTTicYuE9iUjUrQ"},{"kty":"oct","k":"918gOCJDFg7FPbDuqVGhPQ","kid":"bBhizM7GTTicYuE9iUjUrQ"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -693,7 +693,7 @@ https://longpt.net/vtvcabon/k-plus-pc.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oQ3I1Lu3pMTZFaWHz580eQ","kid":"QcDt13AZRV+0iVwr/8K0LQ"},{"kty":"oct","k":"xe73YyKpIc/Itrgpgwk3uQ","kid":"iQTt13AZRV+0iVwr/8K0LQ"},{"kty":"oct","k":"eySVcxZnUFB+yHeT+d0Dug","kid":"lggxCHAZRV+0iVwr/8K0LQ"},{"kty":"oct","k":"5J0KDE4DVgY1JaeYXyUSlg","kid":"ghUxIL8ZRV+0iVwr/8K0LQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"36PLv8UXf9/cVfAsjnltJA","kid":"5xlj/pNsTOCTxWxYKWsx6w"},{"kty":"oct","k":"7fz9h3RZue3YZ8blOzPxTg","kid":"L11j/pNsTOCTxWxYKWsx6w"},{"kty":"oct","k":"wrwAyM/Y1XoHADqMUHDQog","kid":"PGGnL5NsTOCTxWxYKWsx6w"},{"kty":"oct","k":"N1+dNPdfy52r8zv0kGXgAQ","kid":"KG6nR+JsTOCTxWxYKWsx6w"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD FPT Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1370,53 +1370,73 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/09/mx7a3ueo_bannerb0735fac3f708c5b86dcbada803d7166_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-13/01: Quay số mở thưởng Vietlott 13/01/2023
-https://code.television4you.xyz/playlist/eventvieon.php?id=2efee64f-db62-4a86-900f-c20606aeef65
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/09/j2rfssnq_bannerd162f312b1dee548e1331ee7dd170025_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-14/01: Quay số mở thưởng Vietlott 14/01/2023
+https://code.television4you.xyz/playlist/eventvieon.php?id=00c7ac5d-3c0d-4348-9300-197bfc986c39
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/10/bi86gq8n_1920x1080-master-live-sailgp_1920_1080.jpg" group-title="🗓| Sự kiện", 12:45-14/01: Giải Đua Thuyền SailGP 2022 - Chặng Singapore  - Ngày 1
 https://code.television4you.xyz/playlist/eventvieon.php?id=b6135a06-90bd-47d0-869e-6477a7ab2c20
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/10/wzb012fu_ban15-1_1920_1080.jpg" group-title="🗓| Sự kiện", 12:45-15/01: Giải Đua Thuyền SailGP 2022 - Chặng Singapore  - Ngày 2
 https://code.television4you.xyz/playlist/eventvieon.php?id=a365218f-978a-4f03-a16c-0f8b65493dc3
 
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/55/52/20/0d/d3/38/5520d-lrtp25-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:00-13/01: Ở Rể - Tập 25
-http://code.television4you.xyz/mytvevent.php?id=6731
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/23/3d/d6/67/7d/da/23d67-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-13/01: K-PoP
-http://code.television4you.xyz/mytvevent.php?id=6724
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/92/24/42/21/19/9f/92421-lvitnamvsthilanchungkt2ltiaffmitsubishielectriccup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-13/01: Việt Nam vs Thái Lan: Chung kết 2 lượt đi - AFF Mitsubishi Electric Cup
-http://code.television4you.xyz/mytvevent.php?id=6728
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/08/8b/b5/52/26/64/08b52-lphongkhilngtytp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-13/01: Phong Khởi Lũng Tây - Tập 3
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/08/8b/b5/52/26/64/08b52-lphongkhilngtytp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-13/01: Phong Khởi Lũng Tây - Tập 3
 http://code.television4you.xyz/mytvevent.php?id=6716
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/35/5e/e8/87/75/5e/35e87-lqutngtith6emchncn-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-13/01: Quà tặng Tối Thứ 6 - Em chọn cô đơn
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/35/5e/e8/87/75/5e/35e87-lqutngtith6emchncn-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-13/01: Quà tặng Tối Thứ 6 - Em chọn cô đơn
 http://code.television4you.xyz/mytvevent.php?id=6735
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-13/01: Đừng Làm Mẹ Cáu - Tập 14
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/92/24/42/21/19/9f/92421-lvitnamvsthilanchungkt2ltiaffmitsubishielectriccup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-13/01: Việt Nam vs Thái Lan: Chung kết lượt đi - AFF Mitsubishi Electric Cup
+http://code.television4you.xyz/mytvevent.php?id=6728
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-13/01: Đừng Làm Mẹ Cáu - Tập 14
 http://code.television4you.xyz/mytvevent.php?id=6471
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9e/e7/75/5e/e2/21/9e75e-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-14/01: Dance
-http://code.television4you.xyz/mytvevent.php?id=6725
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d6/65/5c/cf/f2/26/d65cf-lhiphngvsviettelgiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:30-14/01: Hải Phòng vs Viettel: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/8b/b0/04/4b/b5/59/8b04b-ldpworldtour2022dpherocupngy2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-14/01: DP World Tour 2022 DP Hero Cup - Ngày 2
+http://code.television4you.xyz/mytvevent.php?id=6747
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d6/65/5c/cf/f2/26/d65cf-lhiphngvsviettelgiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:30-14/01: Hải Phòng vs Viettel: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
 http://code.television4you.xyz/mytvevent.php?id=6729
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/30/04/4d/d5/5e/e0/304d5-lhnivscnganhnigiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:30-14/01: Hà Nội vs Công An Hà Nội: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9e/e7/75/5e/e2/21/9e75e-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:30-14/01: Dance
+http://code.television4you.xyz/mytvevent.php?id=6725
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/15/58/8f/fc/c6/6b/158fc-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-14/01: K-PoP
+http://code.television4you.xyz/mytvevent.php?id=6740
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/30/04/4d/d5/5e/e0/304d5-lhnivscnganhnigiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:30-14/01: Hà Nội vs Công An Hà Nội: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
 http://code.television4you.xyz/mytvevent.php?id=6730
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/45/51/18/88/81/1a/45188-ldareyoubncdmma2tp16-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-14/01: Dare You - Bạn Có Dám - Mùa 2 - Tập 16
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/45/51/18/88/81/1a/45188-ldareyoubncdmma2tp16-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-14/01: Dare You - Bạn Có Dám - Mùa 2 - Tập 16
 http://code.television4you.xyz/mytvevent.php?id=5047
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/4e/ef/f6/6f/f7/79/4ef6f-lthamvngtp5a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-14/01: Tham Vọng - Tập 5A
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/68/84/4a/ae/e3/33/684ae-lphngtrmytvlngnghemaxunv-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-14/01: Phòng trà MyTV - Lắng nghe mùa xuân về
+http://code.television4you.xyz/mytvevent.php?id=6736
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/4e/ef/f6/6f/f7/79/4ef6f-lthamvngtp5a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-14/01: Tham Vọng - Tập 5A
 http://code.television4you.xyz/mytvevent.php?id=6666
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8e/ea/ac/c4/4a/ac/8eac4-lthamvngtp5b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:17-14/01: Tham Vọng - Tập 5B
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/8e/ea/ac/c4/4a/ac/8eac4-lthamvngtp5b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:17-14/01: Tham Vọng - Tập 5B
 http://code.television4you.xyz/mytvevent.php?id=6667
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7f/fe/e2/2d/da/ab/7fe2d-lthamvngtp6a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:40-14/01: Tham Vọng - Tập 6A
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/7f/fe/e2/2d/da/ab/7fe2d-lthamvngtp6a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:40-14/01: Tham Vọng - Tập 6A
 http://code.television4you.xyz/mytvevent.php?id=6668
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/46/65/56/63/3d/da/46563-lthamvngtp6b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:57-14/01: Tham Vọng - Tập 6B
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/46/65/56/63/3d/da/46563-lthamvngtp6b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:57-14/01: Tham Vọng - Tập 6B
 http://code.television4you.xyz/mytvevent.php?id=6669
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f3/32/21/12/21/1a/f3212-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-15/01: K-POP
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f3/32/21/12/21/1a/f3212-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-15/01: K-POP
 http://code.television4you.xyz/mytvevent.php?id=6726
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/84/4d/d7/70/02/25/84d70-lpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-15/01: Pop
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/18/82/2d/d4/42/21/182d4-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:00-15/01: Dance
+http://code.television4you.xyz/mytvevent.php?id=6741
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/84/4d/d7/70/02/25/84d70-lpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:30-15/01: Pop
 http://code.television4you.xyz/mytvevent.php?id=6727
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c0/0c/c1/11/11/19/c0c11-lthamvngtp7a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-15/01: Tham Vọng - Tập 7A
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/36/69/9b/bb/be/ef/369bb-limhnththaobravecf67cucscgia2thh-ceeshow-mytv.png" group-title="🗓| Sự kiện", 20:30-15/01: Điểm hẹn Thể thao: Brave CF 67 - Cuộc đọ sức giữa 2 thế hệ
+http://code.television4you.xyz/mytvevent.php?id=6744
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c0/0c/c1/11/11/19/c0c11-lthamvngtp7a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-15/01: Tham Vọng - Tập 7A
 http://code.television4you.xyz/mytvevent.php?id=6670
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/18/81/13/3f/f8/8d/1813f-lthamvngtp7b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:15-15/01: Tham Vọng - Tập 7B
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/18/81/13/3f/f8/8d/1813f-lthamvngtp7b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:15-15/01: Tham Vọng - Tập 7B
 http://code.television4you.xyz/mytvevent.php?id=6671
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/13/38/84/47/7a/a2/13847-lthamvngtp8a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:30-15/01: Tham Vọng - Tập 8A
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/13/38/84/47/7a/a2/13847-lthamvngtp8a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:30-15/01: Tham Vọng - Tập 8A
 http://code.television4you.xyz/mytvevent.php?id=6672
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1a/af/f6/67/71/15/1af67-lthamvngtp8b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:45-15/01: Tham Vọng - Tập 8B
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/1a/af/f6/67/71/15/1af67-lthamvngtp8b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:45-15/01: Tham Vọng - Tập 8B
 http://code.television4you.xyz/mytvevent.php?id=6673
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-16/01: Thử Thách Cùng Thần Tượng - Số 637
+http://code.television4you.xyz/mytvevent.php?id=4470
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/72/20/04/49/9a/a0/72049-lhiphngvshnigiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:30-16/01: Hải Phòng vs Hà Nội: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
+http://code.television4you.xyz/mytvevent.php?id=6743
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c8/82/26/6f/f7/74/c826f-lcnganhnivsviettelgiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:30-16/01: Công an Hà Nội vs Viettel: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
+http://code.television4you.xyz/mytvevent.php?id=6742
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ae/ef/fe/e0/0b/b6/aefe0-llphchonmkhchmicaslunaphn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 1
+http://code.television4you.xyz/mytvevent.php?id=5849
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/6d/d8/8e/eb/ba/ad/6d8eb-llphchonmkhchmicaslunaphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-17/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 2
+http://code.television4you.xyz/mytvevent.php?id=5850
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/13/3c/c9/92/2a/a0/13c92-llphchonmkhchmicaslunaphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-18/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 3
+http://code.television4you.xyz/mytvevent.php?id=5851
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/71/1c/cb/b5/59/91/71cb5-llphchonmkhchmicaslunaphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-19/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 4
+http://code.television4you.xyz/mytvevent.php?id=6564
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="🇯🇵| Japan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
