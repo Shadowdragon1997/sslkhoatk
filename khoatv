@@ -657,7 +657,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #https://raintv.tk/get/vieon/350ce14f56aeca606240b630c74141233447be8c/ksport1hd/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD FPT Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XaUqecAm5BpOPcxU9W2ntA","kid":"1Xmxbd5/OGeAtMi0pXIWAQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Nbx5fDBRlW9yM5ylOAPRaw","kid":"aKrt2n4bPSyBk8RZVIfXFg"}],"type":"temporary"}
 http://vietanhtv.pw/fptplay/sp1/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD ClipTV
 http://103.56.160.133:8081/vagroup/cliptv/ksport1/index.m3u8
