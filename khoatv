@@ -1362,22 +1362,24 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/09/23wix941_bannerf9c2afb887edd9ace03d4756c0caf34a_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-15/01: Quay số mở thưởng Vietlott 15/01/2023
-https://code.television4you.xyz/playlist/eventvieon.php?id=f62ee90f-dda1-44d4-b9e4-be126f7e476e
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/09/vy1gv84e_banner705efbd3a6f43bca4f2e41983f4b5220_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-16/01: Quay số mở thưởng Vietlott 16/01/2023
+https://code.television4you.xyz/playlist/eventvieon.php?id=5f3d7edf-1233-4b87-b02a-1cd6cb7d5414
 
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-16/01: Thử Thách Cùng Thần Tượng - Số 637
-http://code.television4you.xyz/mytvevent.php?id=4470
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/72/20/04/49/9a/a0/72049-lhiphngvshnigiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:30-16/01: Hải Phòng vs Hà Nội: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
-http://code.television4you.xyz/mytvevent.php?id=6743
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c8/82/26/6f/f7/74/c826f-lcnganhnivsviettelgiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:30-16/01: Công an Hà Nội vs Viettel: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2c/cb/b1/11/15/57/2cb11-lcnganhnivsviettelgiibngthngcuplienvietpostbank2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-16/01: Công an Hà Nội vs Viettel: Giải Bóng đá tứ hùng - Cup LienVietPostBank 2023
 http://code.television4you.xyz/mytvevent.php?id=6742
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ae/ef/fe/e0/0b/b6/aefe0-llphchonmkhchmicaslunaphn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 1
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/03/3b/bd/d3/38/89/03bd3-lthilanvsvitnamchungktltvaffmitsubishielectriccup-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-16/01: Thái Lan vs Việt Nam: Chung kết lượt về - AFF Mitsubishi Electric Cup
+http://code.television4you.xyz/mytvevent.php?id=6752
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ae/ef/fe/e0/0b/b6/aefe0-llphchonmkhchmicaslunaphn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 1
 http://code.television4you.xyz/mytvevent.php?id=5849
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/6d/d8/8e/eb/ba/ad/6d8eb-llphchonmkhchmicaslunaphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-17/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 2
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/72/2e/eb/ba/ad/d1/72eba-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-17/01: Dance
+http://code.television4you.xyz/mytvevent.php?id=6755
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/75/58/8a/ab/b1/19/758ab-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-17/01: Hip Hop
+http://code.television4you.xyz/mytvevent.php?id=6756
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6d/d8/8e/eb/ba/ad/6d8eb-llphchonmkhchmicaslunaphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-17/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 2
 http://code.television4you.xyz/mytvevent.php?id=5850
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/13/3c/c9/92/2a/a0/13c92-llphchonmkhchmicaslunaphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-18/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 3
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/13/3c/c9/92/2a/a0/13c92-llphchonmkhchmicaslunaphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-18/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 3
 http://code.television4you.xyz/mytvevent.php?id=5851
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/71/1c/cb/b5/59/91/71cb5-llphchonmkhchmicaslunaphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-19/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 4
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/71/1c/cb/b5/59/91/71cb5-llphchonmkhchmicaslunaphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-19/01: Lớp Học Hoàn Mỹ: Khách mời Ca sỹ Luna - Phần 4
 http://code.television4you.xyz/mytvevent.php?id=6564
 
 #-*-- Japan TV -*--#
