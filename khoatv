@@ -98,11 +98,11 @@ https://api.vthanhtivi.pw/v2/getlink/mytv/449/hd
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 1
-http://vn3.vthanhtivi.com/live1
+http://vn2.vthanhtivi.com/live1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
-http://vn3.vthanhtivi.com/live2
+http://vn2.vthanhtivi.com/live2
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
-http://vn3.vthanhtivi.com/4KUHD
+http://vn2.vthanhtivi.com/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 2
 http://vn1.cvmedia.vthanhtivi.com/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 3
