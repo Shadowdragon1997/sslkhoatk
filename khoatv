@@ -1848,6 +1848,8 @@ http://39.134.193.101:6610/030000001000/GDWS-HD/GDWS-HD.m3u8?IASHttpSessionId=RR
 http://39.135.163.5:6610/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8?IASHttpSessionId=SLB693820220724054209591365
 #EXTINF:-1 tvg-id="" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/W2fxCd3/Thi-n-T-n-BEARTV.png", CN: Thiên Tân
 http://39.134.65.162/PLTV/88888888/224/3221225665/1.m3u8
+#EXTINF:-1 tvg-id="GreatSportsChannel.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.imgur.com/HmlGhYD.png", Great Sports
+http://sg.vthanhtivi.com/WXTY
 
 #-*-- UK TV -*--#
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One
@@ -1955,15 +1957,15 @@ http://sg.vthanhtivi.com/TRT_Turk
 
 #-*-- Portugal TV -*--#
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png", PT: RTP 1
-http://sg.vthanhtivi.com/RTP1
+
 #EXTINF:-1 tvg-id="RTP2.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png", PT: RTP 2
-http://sg.vthanhtivi.com/RTP2
+
 #EXTINF:-1 tvg-id="RTP3.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png", PT: RTP 3
-http://sg.vthanhtivi.com/RTP3
+
 #EXTINF:-1 tvg-id="AMCPortugal.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png", PT: AMC
-http://sg.vthanhtivi.com/AMC
+
 #EXTINF:-1 tvg-id="SIC.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png", PT: SIC
-http://sg.vthanhtivi.com/SIC
+
 #EXTINF:-1 tvg-id="TVI.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png", PT: TVI
 
 
@@ -2365,11 +2367,11 @@ http://sg.vthanhtivi.com:8080/stream/channelid/891465161
 
 #-*-- Sports Central Europe -*--#
 #EXTINF:-1 tvg-ID="DiemaSport.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/mVTmLXm.png", BG: Diema Sport FHD
-
+http://sg.vthanhtivi.com/Diema1
 #EXTINF:-1 tvg-ID="DiemaSport2.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/4Cscok5.png", BG: Diema Sport 2 FHD
-
+http://sg.vthanhtivi.com/Diema2
 #EXTINF:-1 tvg-ID="DiemaSport3.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DiemaSport3logo.png/512px-DiemaSport3logo.png", BG: Diema Sport 3 HD
-
+http://sg.vthanhtivi.com/Diema3
 
 #-*-- Sports French -*--#
 #EXTINF:-1 tvg-ID="Eurosport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/z3fQ87X.png", FR: Eurosport 1 HD
@@ -2879,7 +2881,7 @@ http://14.248.231.50:8889/angel.php?id=12805
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 4
 http://14.248.231.50:8889/angel.php?id=102476
 #EXTINF:-1 tvg-id="Canal11.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png", PT: CANAL 11 FHD
-http://sg.vthanhtivi.com:8080/stream/channelid/2103119835
+
 #EXTINF:-1 tvg-id="Canal11.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png", PT: CANAL 11 FHD Server 2
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/15958
 #EXTINF:-1 tvg-ID="Eurosport1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="", PT: Eurosport 1 FHD
@@ -3017,7 +3019,7 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8915
 #EXTINF:-1 tvg-id="Eurosport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/0xpN9B6.png", PL: Eurosport 2 HD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8959
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
-http://sg.vthanhtivi.com/TVP_Sport
+http://sg.vthanhtivi.com:8080/stream/channelid/1560768115
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD Server 2
 http://14.248.231.50:8889/evol.php?id=67806
 
