@@ -110,46 +110,38 @@ http://sg.vthanhtivi.com/4KUHD
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 4
 http://sg2.vthanhtivi.com/4KUHD
 
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/30/8a6q49se_banner7195f60d9e68d38587bfdc65d132a203_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 03:45-26/01: Feyenoord - NEC (Vòng 18 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/b653659f-beff-4b78-b868-50e0839b7836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/zeqvz5d5_banner_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-26/01: Melbourne Victory - Sydney FC (Vòng 14 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/a075176f-818e-46a6-85d9-527f0044e394/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/12/30/z0855vhb_banner97692b3a6d8ca889f3c5e31780569dfc_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 03:45-27/01: AFC Ajax - FC Volendam (Vòng 18 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/52786777-6c1f-4bf8-8489-47d37de66c78/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/13/ksz2kv5j_bannerb0799f87f66752ade81a64dfe69b5628_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 21:15-05/02: Feyenoord - PSV Eindhoven (Vòng 20 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/9fa1e61f-0d0b-42a0-9e49-824a7849100d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/oqkxtzq4_banner02699e3dc34ee6e58758413ca350049d_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 16:30-27/01: Newcastle Jets - Brisbane Roar (Vòng 14 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/47bf556a-fcdc-42a0-ae2d-49bf48089b12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/8ryn07yo_bannera3087fe84660f031bad81eeeb4602e94_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 09:45-28/01: Wellington Phoenix - Perth Glory (Vòng 14 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/d5f59ec8-d142-42a1-bc81-8d74fe3f3ee8/playlist.m3u8
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/d5f59ec8-d142-42a1-bc81-8d74fe3f3ee8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/ptpk6fd7_bannerc001232fd1af8a160d876fd117cb4bec_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 13:45-28/01: Macarthur FC - Western United FC (Vòng 14 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/bd683f12-4bb4-45c0-851b-6f175657d66b/playlist.m3u8
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/bd683f12-4bb4-45c0-851b-6f175657d66b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/8zmeeou6_bannerb87a1c74583fa1c8e646a4e57fb05f76_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 16:30-28/01: C.C Mariners - W.S Wanderers FC (Vòng 14 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/af683478-92bc-44d3-89b2-eb64ac0ea097/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/y8z8j9e2_banner421938e0e81a0d273b274636f0802aa1_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 21:15-28/01: PSV Eindhoven - Go Ahead Eagles (Vòng 19 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/f9a294c1-df5d-490c-a0fb-4cfd665edd86/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/pnjceq6y_banner1e9857bfdc8decfe56912b43e60ce09f_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 11:45-29/01: Melbourne City - Adelaide United (Vòng 14 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/9267b13f-0d6f-408f-8f98-818f02f1c2fb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/ta7q9jxf_banneraad6d30860746af677fc122e2e165d2e_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 19:00-29/01: FC Twente - Feyenoord (Vòng 19 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/fadac43b-e9dc-42e8-bec4-3e54d4dddd3d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/ew77ujx9_banner46cf5e85281ab2d8c4817cc028b187bc_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 21:15-29/01: Excelsior - AFC Ajax (Vòng 19 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/db8cc669-4b87-43e0-aa23-91972e177685/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/jtgbz5no_banner2360dddf28ebee76648f414be79f6857_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 16:30-03/02: Melbourne Victory - Wellington Phoenix (Vòng 15 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/a04bd712-5c87-4d56-a263-bca04753881e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/8jfponsc_banner7adbbe4d03749269a51cdf469ee9020e_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 09:45-04/02: Perth Glory - Newcastle Jets (Vòng 15 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/4d822964-baa3-4be6-9107-6dc24db33e5d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/vxkongqi_bannera2ba728de4bca453b1ece58e44cef092_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 13:45-04/02: Sydney FC - C.C Mariners (Vòng 15 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/80a767c0-05d5-44b9-a8fa-5ae9a6b8aad3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/akvnh8rs_banner0b5b13708a0abe1a3b3f97c92c70add4_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 13:45-04/02: Melbourne City FC - Macarthur FC (Vòng 15 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/048b0e3c-ced8-4b07-8e29-94bc9d4e6fcd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/phykk4fp_bannerb7f032b8563b8c840300f39ab05f0373_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 16:30-04/02: Adelaide United - Brisbane Roar FC (Vòng 15 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/ac336929-6041-4151-b368-793281687f06/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/13/d1ihiz3p_bannera5f87e0a1ff988f33b19d3745375c716_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 19:00-05/02: Cambuur - Ajax (Vòng 20 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/bb583fb5-f81f-416c-b7f2-f512c2ca645c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/x385y76h_bannerc6c5bb4ef21999090d0ff4eb34b4cd8a_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 19:15-05/02: WS Wanderers FC - Western United FC (Vòng 15 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/408b7e5f-4b3f-401d-a628-2208c87cebe4/playlist.m3u8
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/af683478-92bc-44d3-89b2-eb64ac0ea097/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/13/ksz2kv5j_bannerb0799f87f66752ade81a64dfe69b5628_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 21:15-05/02: Feyenoord - PSV Eindhoven (Vòng 20 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/9fa1e61f-0d0b-42a0-9e49-824a7849100d/playlist.m3u8
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/9fa1e61f-0d0b-42a0-9e49-824a7849100d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/y8z8j9e2_banner421938e0e81a0d273b274636f0802aa1_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 21:15-28/01: PSV Eindhoven - Go Ahead Eagles (Vòng 19 - VĐQG Hà Lan 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/f9a294c1-df5d-490c-a0fb-4cfd665edd86/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/pnjceq6y_banner1e9857bfdc8decfe56912b43e60ce09f_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 11:45-29/01: Melbourne City - Adelaide United (Vòng 14 - VĐQG Úc 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/9267b13f-0d6f-408f-8f98-818f02f1c2fb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/ta7q9jxf_banneraad6d30860746af677fc122e2e165d2e_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 19:00-29/01: FC Twente - Feyenoord (Vòng 19 - VĐQG Hà Lan 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/fadac43b-e9dc-42e8-bec4-3e54d4dddd3d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/05/ew77ujx9_banner46cf5e85281ab2d8c4817cc028b187bc_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 21:15-29/01: Excelsior - AFC Ajax (Vòng 19 - VĐQG Hà Lan 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/db8cc669-4b87-43e0-aa23-91972e177685/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/jtgbz5no_banner2360dddf28ebee76648f414be79f6857_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 16:30-03/02: Melbourne Victory - Wellington Phoenix (Vòng 15 - VĐQG Úc 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/a04bd712-5c87-4d56-a263-bca04753881e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/8jfponsc_banner7adbbe4d03749269a51cdf469ee9020e_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 09:45-04/02: Perth Glory - Newcastle Jets (Vòng 15 - VĐQG Úc 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/4d822964-baa3-4be6-9107-6dc24db33e5d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/vxkongqi_bannera2ba728de4bca453b1ece58e44cef092_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 13:45-04/02: Sydney FC - C.C Mariners (Vòng 15 - VĐQG Úc 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/80a767c0-05d5-44b9-a8fa-5ae9a6b8aad3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/akvnh8rs_banner0b5b13708a0abe1a3b3f97c92c70add4_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 13:45-04/02: Melbourne City FC - Macarthur FC (Vòng 15 - VĐQG Úc 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/048b0e3c-ced8-4b07-8e29-94bc9d4e6fcd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/phykk4fp_bannerb7f032b8563b8c840300f39ab05f0373_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 16:30-04/02: Adelaide United - Brisbane Roar FC (Vòng 15 - VĐQG Úc 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/ac336929-6041-4151-b368-793281687f06/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/13/d1ihiz3p_bannera5f87e0a1ff988f33b19d3745375c716_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 19:00-05/02: Cambuur - Ajax (Vòng 20 - VĐQG Hà Lan 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/bb583fb5-f81f-416c-b7f2-f512c2ca645c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/18/x385y76h_bannerc6c5bb4ef21999090d0ff4eb34b4cd8a_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 19:15-05/02: WS Wanderers FC - Western United FC (Vòng 15 - VĐQG Úc 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/408b7e5f-4b3f-401d-a628-2208c87cebe4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/13/ksz2kv5j_bannerb0799f87f66752ade81a64dfe69b5628_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 21:15-05/02: Feyenoord - PSV Eindhoven (Vòng 20 - VĐQG Hà Lan 2022/23)
+http://api.vthanhtivi.pw/v2/getlink/vieonevent/9fa1e61f-0d0b-42a0-9e49-824a7849100d/playlist.m3u8
 
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
@@ -1376,58 +1368,56 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/09/4v23znwx_banner866679f7a1e8fb6afb5c22be339e186e_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-22/01: Quay số mở thưởng Vietlott 22/01/2023
 https://code.television4you.xyz/playlist/eventvieon.php?id=5362ac9e-329f-4fd6-94c8-d3394f1f61cd
 
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/13/39/94/45/50/0d/13945-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:00-27/01: Dance
-http://api.vthanhtivi.pw/v2/getlink/mytvevent/6790/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/a0/07/7a/a5/5b/bc/a07a5-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-27/01: Country
-http://api.vthanhtivi.pw/v2/getlink/mytvevent/6791/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/7f/f6/62/29/90/0d/7f629-lqutngtith6maxunciem-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-27/01: Quà tặng Tối Thứ 6 - Mùa xuân cưới em
-http://api.vthanhtivi.pw/v2/getlink/mytvevent/6809/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/0a/a0/07/70/0c/c5/0a070-lmanchestercityvsarsenalfacupvng4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-28/01: Manchester City vs Arsenal: FA Cup - Vòng 4
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/0a/a0/07/70/0c/c5/0a070-lmanchestercityvsarsenalfacupvng4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-28/01: Manchester City vs Arsenal: FA Cup - Vòng 4
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/6777/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/aa/a4/45/59/99/9a/aa459-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-28/01: Hip Hop
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/aa/a4/45/59/99/9a/aa459-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-28/01: Hip Hop
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/6792/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/db/b8/8e/e3/3f/fe/db8e3-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:00-28/01: K-PoP
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/db/b8/8e/e3/3f/fe/db8e3-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:00-28/01: K-PoP
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/6793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/1b/b1/13/30/0b/b2/1b130-lwalsalvsleicestercityfacupvng4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-28/01: Walsal vs Leicester City: FA Cup - Vòng 4
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/1b/b1/13/30/0b/b2/1b130-lwalsalvsleicestercityfacupvng4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-28/01: Walsal vs Leicester City: FA Cup - Vòng 4
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/6779/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/a5/53/36/66/6e/ee/a5366-ldareyoubncdmma2tp18-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-28/01: Dare You - Bạn Có Dám - Mùa 2 - Tập 18
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/a5/53/36/66/6e/ee/a5366-ldareyoubncdmma2tp18-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-28/01: Dare You - Bạn Có Dám - Mùa 2 - Tập 18
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/4630/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/c7/7c/ce/e7/7d/d0/c7ce7-lphngtrmytvcuchuyntnhyu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-28/01: Phòng trà MyTV - Câu chuyện tình yêu
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c7/7c/ce/e7/7d/d0/c7ce7-lphngtrmytvcuchuyntnhyu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-28/01: Phòng trà MyTV - Câu chuyện tình yêu
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/6810/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/c5/59/96/68/8b/bc/c5968-lfullhamvssunderlandfacupvng4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-28/01: Fullham vs Sunderland: FA Cup - Vòng 4
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c5/59/96/68/8b/bc/c5968-lfullhamvssunderlandfacupvng4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-28/01: Fullham vs Sunderland: FA Cup - Vòng 4
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/6778/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/e7/7b/be/ef/ff/f1/e7bef-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-29/01: MB - Hits
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/a0/02/2f/f2/2d/df/a02f2-lthamvngtp13a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-28/01: Tham Vọng - Tập 13A
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6666/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/38/87/73/30/0c/ce/38730-lthamvngtp13b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:17-28/01: Tham Vọng - Tập 13B
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6667/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/06/68/83/3b/b0/01/0683b-lthamvngtp14a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:35-28/01: Tham Vọng - Tập 14A
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6668/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/43/3e/ef/fa/a1/15/43efa-lthamvngtp14b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:52-28/01: Tham Vọng - Tập 14B
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6669/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e7/7b/be/ef/ff/f1/e7bef-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-29/01: MB - Hits
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/6795/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s129197.cdn.mytvnet.vn/vimages/345x194/6f/f8/83/30/07/73/6f830-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-29/01: Dance
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/6f/f8/83/30/07/73/6f830-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-29/01: Dance
 http://api.vthanhtivi.pw/v2/getlink/mytvevent/6798/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/75/5f/f8/80/05/55/75f80-lthamvngtp15a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-29/01: Tham Vọng - Tập 15A
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6670/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5a/a5/53/31/13/31/5a531-lthamvngtp15b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:17-29/01: Tham Vọng - Tập 15B
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6671/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/a7/77/70/03/39/9f/a7703-lthamvngtp16a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:35-29/01: Tham Vọng - Tập 16A
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6672/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ad/d7/7b/b0/04/4e/ad7b0-lthamvngtp16b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:52-29/01: Tham Vọng - Tập 16B
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6673/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-30/01: Thử Thách Cùng Thần Tượng - Số 639
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/4470/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/dd/d9/92/25/51/1c/dd925-lrtp26-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:00-30/01: Ở Rể - Tập 12
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6732/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/18/8b/bd/d1/14/40/18bd1-lphongkhilngtytp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-30/01: Phong Khởi Lũng Tây - Tập 15
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6713/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d6/68/85/5c/c6/6e/d685c-lngnikhiyutp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-30/01: Đừng Nói Khi Yêu - Tập 1
+http://api.vthanhtivi.pw/v2/getlink/mytvevent/6818/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/26/09/1674701929264/64e47df3d9df_640_360.png" group-title="🗓| Sự kiện", 21:00 | CS:GO
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/08/1674781327963/ecf3e06538ee_640_360.png" group-title="🗓| Sự kiện", 21:00 | CS:GO
 https://api.vthanhtivi.pw/v2/getlink/tv360/9820/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/17/1674037790874/a2b1faf22158_640_360.jpg" group-title="🗓| Sự kiện", 3:00 | Golf
-https://api.vthanhtivi.pw/v2/getlink/event360/169/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/11/1674103110924/b7e734965292_640_360.png" group-title="🗓| Sự kiện", 21:00 | CS:GO
-https://api.vthanhtivi.pw/v2/getlink/tv360/9820/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/16/16/1673860559401/bd26995fb653_640_360.jpg" group-title="🗓| Sự kiện", 8:00 | Tennis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HOW1RaCEFyqVbP6anu27Gw", "kid":"1vpaoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"n/GALqFCYQOdmoMyAsFxcA", "kid":"Hj5aoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"GaJAH7ce+2G+AHPd6Tchpw", "kid":"K0Ke0ebBS3yDCU67NlMUow" },{ "kty":"oct", "k":"Us0c6x1HM5EBoILfeKUvAQ", "kid":"F0+e6TXBS3yDCU67NlMUow" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/16/15/1673856084483/e42fec6c0d62_640_360.jpg" group-title="🗓| Sự kiện", 8:00 | Tennis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N9Sl/THUJsmznOrc+/V2Fw", "kid":"K8Meg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"51lqB+q93DwkCRi69M1YgA", "kid":"cwceg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"u9UEV/Sc5r62dAGxnooljw", "kid":"gAtitH/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"918gOCJDFg7FPbDuqVGhPQ", "kid":"bBhizM7GTTicYuE9iUjUrQ" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-
-
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/17/1674037820406/9ff832260679_640_360.jpg" group-title="🗓| Sự kiện", 14:30 | Golf
-https://api.vthanhtivi.pw/v2/getlink/event360/169/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/09/1674093978504/67cf30ca98a0_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/12/1674105209594/b1b4c1d7ee3b_640_360.png" group-title="🗓| Sự kiện", 21:00 | CS:GO
 https://api.vthanhtivi.pw/v2/getlink/tv360/9820/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/08/167409355982/9469015bf66b_640_360.jpg" group-title="🗓| Sự kiện", 2:30 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/16/1674813064690/4d12a4b1a0f1_640_360.jpg" group-title="🗓| Sự kiện", 2:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/09/1674094008301/e306d9e06778_640_360.jpg" group-title="🗓| Sự kiện", 2:45 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
@@ -1459,41 +1449,39 @@ https://api.vthanhtivi.pw/v2/getlink/event360/174/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/09/1674093765579/c60a78d25692_640_360.jpg" group-title="🗓| Sự kiện", 21:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/08/1674093499360/3726bde5475a_640_360.jpg" group-title="🗓| Sự kiện", 21:30 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/16/1674813038518/3b5e3f162407_640_360.jpg" group-title="🗓| Sự kiện", 21:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/173/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/08/1674093303756/98e9fc66e6a4_640_360.jpg" group-title="🗓| Sự kiện", 22:15 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/174/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/18/1674040533283/b2b4a5a9b3ad_640_360.jpg" group-title="🗓| Sự kiện", 0:00 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/1674817086265/7e6ebc202c89_640_360.jpg" group-title="🗓| Sự kiện", 0:00 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/11/1674103110924/b7e734965292_640_360.png" group-title="🗓| Sự kiện", 21:00 | CS:GO
 https://api.vthanhtivi.pw/v2/getlink/tv360/9820/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/10/1674097240488/849c02cdfd44_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/1674816944711/b9e87fde7bf3_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/18/1674040043921/ca5ea97cf331_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/1674817012870/2b18bf5d8a11_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/10/1674097285885/21ec3fbf71c3_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/1674816970810/4a916b351df1_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/174/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/17/1674037790874/a2b1faf22158_640_360.jpg" group-title="🗓| Sự kiện", 1:00 | Golf
 https://api.vthanhtivi.pw/v2/getlink/event360/169/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/18/1674040496771/a4f70b32d2a8_640_360.jpg" group-title="🗓| Sự kiện", 2:45 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/1674817039908/8b84c1e120d4_640_360.jpg" group-title="🗓| Sự kiện", 2:45 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/10/1674097324165/d073b122676e_640_360.jpg" group-title="🗓| Sự kiện", 3:00 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/1674816913775/92caf9cca2c8_640_360.jpg" group-title="🗓| Sự kiện", 3:00 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/10/1674097383364/5959a0abc417_640_360.jpg" group-title="🗓| Sự kiện", 3:00 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/174/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/17/1674037820406/9ff832260679_640_360.jpg" group-title="🗓| Sự kiện", 14:00 | Golf
 https://api.vthanhtivi.pw/v2/getlink/event360/169/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/22/16/1634893367245/e0a7f6f6978a_640_360.jpg" group-title="🗓| Sự kiện", 18:00 | Sự Kiện
-https://api.vthanhtivi.pw/v2/getlink/tv360/197/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/18/1674040810480/80d7a92961b5_640_360.jpg" group-title="🗓| Sự kiện", 18:30 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/1674817134527/a4183a18ee21_640_360.jpg" group-title="🗓| Sự kiện", 18:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/10/1674097422451/40c30e9bc128_640_360.jpg" group-title="🗓| Sự kiện", 19:00 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/1674817159358/0c25f1dabddb_640_360.jpg" group-title="🗓| Sự kiện", 19:00 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/10/1674097460136/cde945c25092_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/17/167481719679/ba0231ce64bb_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/174/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/10/1674097540204/b41cf889608c_640_360.jpg" group-title="🗓| Sự kiện", 20:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/18/1674040763615/65a8ec70ca63_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/18/1674817223311/91d50948024f_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/18/1674040076479/d52d5a0598a9_640_360.jpg" group-title="🗓| Sự kiện", 21:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
@@ -1501,8 +1489,36 @@ https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/event360/174/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/10/1674097829494/6cd0bd875a3a_640_360.jpg" group-title="🗓| Sự kiện", 23:00 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/18/167404010119/cff1f34ff92a_640_360.jpg" group-title="🗓| Sự kiện", 23:30 | Bóng Đá
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/18/1674817387698/723e6d745513_640_360.jpg" group-title="🗓| Sự kiện", 23:30 | Bóng Đá
 https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/10/1674791502860/503d53614399_640_360.jpg" group-title="🗓| Sự kiện", 0:00 | Bóng Đá
+https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/10/1674791573771/414bc84c4113_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
+https://api.vthanhtivi.pw/v2/getlink/event360/174/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/10/1674791765452/251282d3848c_640_360.jpg" group-title="🗓| Sự kiện", 2:45 | Bóng Đá
+https://api.vthanhtivi.pw/v2/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/10/1674791641801/4eab1a7a8c1a_640_360.jpg" group-title="🗓| Sự kiện", 2:45 | Bóng Đá
+https://api.vthanhtivi.pw/v2/getlink/event360/183/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/27/10/1674791714459/2a638d045861_640_360.jpg" group-title="🗓| Sự kiện", 3:00 | Bóng Đá
+https://api.vthanhtivi.pw/v2/getlink/event360/174/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/16/15/1673856084483/e42fec6c0d62_640_360.jpg" group-title="🗓| Sự kiện", 8:00 | Tennis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N9Sl/THUJsmznOrc+/V2Fw", "kid":"K8Meg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"51lqB+q93DwkCRi69M1YgA", "kid":"cwceg3/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"u9UEV/Sc5r62dAGxnooljw", "kid":"gAtitH/GTTicYuE9iUjUrQ" },{ "kty":"oct", "k":"918gOCJDFg7FPbDuqVGhPQ", "kid":"bBhizM7GTTicYuE9iUjUrQ" } ], "type":"temporary" }
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
+
+
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HOW1RaCEFyqVbP6anu27Gw", "kid":"1vpaoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"n/GALqFCYQOdmoMyAsFxcA", "kid":"Hj5aoObBS3yDCU67NlMUow" },{ "kty":"oct", "k":"GaJAH7ce+2G+AHPd6Tchpw", "kid":"K0Ke0ebBS3yDCU67NlMUow" },{ "kty":"oct", "k":"Us0c6x1HM5EBoILfeKUvAQ", "kid":"F0+e6TXBS3yDCU67NlMUow" } ], "type":"temporary" }
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+
+
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/13/1674109744141/bb3cf77400f2_640_360.jpg" group-title="🗓| Sự kiện", 14:40 | TV Show
+https://api.vthanhtivi.pw/v2/getlink/tv360/2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2022/12/09/10/1670557906156/634c4b0203ff_640_360.jpg" group-title="🗓| Sự kiện", 15:30 | Phim Truyện
+https://api.vthanhtivi.pw/v2/getlink/tv360/2/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
