@@ -658,7 +658,7 @@ http://vietanhtv.pw/fptplay/sp1/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD ClipTV
 https://iplogger.com/2XgeE6.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD VTVcab On
-#https://longpt.net/vtvcabon/k-plus-pm.m3u8
+https://vn.sugustv.tk/play/vtvcab/kplus-pc-hd/SugusTV/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -683,7 +683,7 @@ http://vietanhtv.pw/fptplay/sp2/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD ClipTV
 https://iplogger.com/2XArE6.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD VTVcab On
-#https://longpt.net/vtvcabon/k-plus-pc.m3u8
+https://vn.sugustv.tk/play/vtvcab/kplus-pc-hd/SugusTV/master.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
