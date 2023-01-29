@@ -1363,28 +1363,24 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/09/4v23znwx_banner866679f7a1e8fb6afb5c22be339e186e_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-22/01: Quay số mở thưởng Vietlott 22/01/2023
 https://code.television4you.xyz/playlist/eventvieon.php?id=5362ac9e-329f-4fd6-94c8-d3394f1f61cd
 
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e7/7b/be/ef/ff/f1/e7bef-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-29/01: MB - Hits
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6795/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6f/f8/83/30/07/73/6f830-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-29/01: Dance
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6798/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/75/5f/f8/80/05/55/75f80-lthamvngtp15a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-29/01: Tham Vọng - Tập 15A
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/75/5f/f8/80/05/55/75f80-lthamvngtp15a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-29/01: Tham Vọng - Tập 15A
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6670/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5a/a5/53/31/13/31/5a531-lthamvngtp15b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:17-29/01: Tham Vọng - Tập 15B
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5a/a5/53/31/13/31/5a531-lthamvngtp15b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:17-29/01: Tham Vọng - Tập 15B
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6671/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/a7/77/70/03/39/9f/a7703-lthamvngtp16a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:35-29/01: Tham Vọng - Tập 16A
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/a7/77/70/03/39/9f/a7703-lthamvngtp16a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:35-29/01: Tham Vọng - Tập 16A
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6672/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ad/d7/7b/b0/04/4e/ad7b0-lthamvngtp16b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:52-29/01: Tham Vọng - Tập 16B
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ad/d7/7b/b0/04/4e/ad7b0-lthamvngtp16b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:52-29/01: Tham Vọng - Tập 16B
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6673/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-30/01: Thử Thách Cùng Thần Tượng - Số 639
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-30/01: Thử Thách Cùng Thần Tượng - Số 639
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/4470/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/dd/d9/92/25/51/1c/dd925-lrtp26-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:00-30/01: Ở Rể - Tập 12
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/dd/d9/92/25/51/1c/dd925-lrtp26-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:00-30/01: Ở Rể - Tập 12
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6732/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/18/8b/bd/d1/14/40/18bd1-lphongkhilngtytp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-30/01: Phong Khởi Lũng Tây - Tập 15
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/18/8b/bd/d1/14/40/18bd1-lphongkhilngtytp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-30/01: Phong Khởi Lũng Tây - Tập 15
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6713/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d6/68/85/5c/c6/6e/d685c-lngnikhiyutp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-30/01: Đừng Nói Khi Yêu - Tập 1
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d6/68/85/5c/c6/6e/d685c-lngnikhiyutp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-30/01: Đừng Nói Khi Yêu - Tập 1
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6818/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/19/11/1674103110924/b7e734965292_640_360.png" group-title="🗓| Sự kiện", 21:00 | CS:GO
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/29/18/1674991632362/3f366ab582e0_640_360.png" group-title="🗓| Sự kiện", 21:00 | CS:GO
 https://api.vthanhtivi.pw/v2/getlink/tv360/9820/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/18/17/1674037820406/9ff832260679_640_360.jpg" group-title="🗓| Sự kiện", 14:00 | Golf
 https://api.vthanhtivi.pw/v2/getlink/event360/169/playlist.m3u8
