@@ -47,36 +47,57 @@ https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 2
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 3
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 3
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 4
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 4
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 5
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 5
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 6
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 6
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 7
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 7
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 9
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 9
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 10
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 10
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 14
+#EXTVLCOPT:http-user-agent=KhoaTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 15
+#EXTVLCOPT:http-user-agent=KhoaTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 16
+#EXTVLCOPT:http-user-agent=KhoaTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao16_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 17
+#EXTVLCOPT:http-user-agent=KhoaTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao17_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 18
+#EXTVLCOPT:http-user-agent=KhoaTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao18_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 19
+#EXTVLCOPT:http-user-agent=KhoaTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao19_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 20
+#EXTVLCOPT:http-user-agent=KhoaTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao20_vhls.smil/chunklist_b5500000.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", WBC 01
 #EXTVLCOPT:http-user-agent=KhoaTivi
@@ -657,7 +678,7 @@ http://vietanhtv.pw/fptplay/sp1/manifest.mpd
 #https://iplogger.com/2XgeE6.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD VTVcab
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vn.sugustv.tk/play/vtvcab/kplus-pm-hd/SugusTV/master.m3u8
+http://xui.tivifree.ml/play/ArVmFgfekwkGLVUQXh1-r_ps9LrSIg_LN4z7ebnzwkM/m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -683,7 +704,7 @@ http://vietanhtv.pw/fptplay/sp2/manifest.mpd
 #https://iplogger.com/2XArE6.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD VTVcab
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vn.sugustv.tk/play/vtvcab/kplus-pc-hd/SugusTV/master.m3u8
+http://xui.tivifree.ml/play/ArVmFgfekwkGLVUQXh1-rw0VOWDNqQG4kavALwy6ANU/m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3255,57 +3276,156 @@ https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8|referer=
 https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem4.xoilac12.org/truc-tiep/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-03/02: SD 1 Al Fateh FC - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-04/02: SD 1 Hoang Anh Gia Lai - Hong Linh Ha Tinh (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-03/02: HD 1 Al Fateh FC - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-04/02: HD 1 Hoang Anh Gia Lai - Hong Linh Ha Tinh (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-03/02: SD 2 Al Fateh FC - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-04/02: SD 2 Hoang Anh Gia Lai - Hong Linh Ha Tinh (Giàng A Lử)
 https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-03/02: HD 2 Al Fateh FC - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-04/02: HD 2 Hoang Anh Gia Lai - Hong Linh Ha Tinh (Giàng A Lử)
 https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-03/02: Nhà Đài Al Fateh FC - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-04/02: Nhà Đài Hoang Anh Gia Lai - Hong Linh Ha Tinh (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|referer=https://live.rakhoi7.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/02: SD 1 Sandhausen - SV Darmstadt (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h15-04/02: SD 1 Hai Phong - Binh Duong (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/02: HD 1 Sandhausen - SV Darmstadt (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h15-04/02: HD 1 Hai Phong - Binh Duong (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/02: SD 2 Sandhausen - SV Darmstadt (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h15-04/02: SD 2 Hai Phong - Binh Duong (Giàng A Páo)
 https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/02: HD 2 Sandhausen - SV Darmstadt (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h15-04/02: HD 2 Hai Phong - Binh Duong (Giàng A Páo)
 https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/02: Nhà Đài Sandhausen - SV Darmstadt (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h15-04/02: Nhà Đài Hai Phong - Binh Duong (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://live.rakhoi7.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/02: SD 1 Augsburg - Leverkusen (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-04/02: SD 1 Everton - Arsenal (Giàng A Phò)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-04/02: HD 1 Everton - Arsenal (Giàng A Phò)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-04/02: SD 2 Everton - Arsenal (Giàng A Phò)
+https://179665839.global.cdnfastest.com/live/cakhiasd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-04/02: HD 2 Everton - Arsenal (Giàng A Phò)
+https://179665839.global.cdnfastest.com/live/cakhiahd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h30-04/02: Nhà Đài Everton - Arsenal (Giàng A Phò)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 1 Man United - Crystal Palace (Giàng A Phò)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 1 Man United - Crystal Palace (Giàng A Phò)
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 2 Man United - Crystal Palace (Giàng A Phò)
+https://179665839.global.cdnfastest.com/live/cakhiasd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 2 Man United - Crystal Palace (Giàng A Phò)
+https://179665839.global.cdnfastest.com/live/cakhiahd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: Nhà Đài Man United - Crystal Palace (Giàng A Phò)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 1 Aston Villa - Leicester (Giàng A Cay)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 1 Aston Villa - Leicester (Giàng A Cay)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 2 Aston Villa - Leicester (Giàng A Cay)
+https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 2 Aston Villa - Leicester (Giàng A Cay)
+https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: Nhà Đài Aston Villa - Leicester (Giàng A Cay)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 1 Brentford - Southampton (Giàng A Phệt)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phetsd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/02: HD 1 Augsburg - Leverkusen (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 1 Brentford - Southampton (Giàng A Phệt)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phethd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/02: SD 2 Augsburg - Leverkusen (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 2 Brentford - Southampton (Giàng A Phệt)
 https://179665839.global.cdnfastest.com/live/phetsd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/02: HD 2 Augsburg - Leverkusen (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 2 Brentford - Southampton (Giàng A Phệt)
 https://179665839.global.cdnfastest.com/live/phethd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/02: Nhà Đài Augsburg - Leverkusen (Giàng A Phệt)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: Nhà Đài Brentford - Southampton (Giàng A Phệt)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|referer=https://live.rakhoi7.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: SD 1 Chelsea - Fulham (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 1 Brighton - Bournemouth (Giàng A Bịp)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@bipsd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 1 Brighton - Bournemouth (Giàng A Bịp)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@biphd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 2 Brighton - Bournemouth (Giàng A Bịp)
+https://179665839.global.cdnfastest.com/live/bipsd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 2 Brighton - Bournemouth (Giàng A Bịp)
+https://179665839.global.cdnfastest.com/live/biphd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: Nhà Đài Brighton - Bournemouth (Giàng A Bịp)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 1 Wolves - Liverpool (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: HD 1 Chelsea - Fulham (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 1 Wolves - Liverpool (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: SD 2 Chelsea - Fulham (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: SD 2 Wolves - Liverpool (Giàng A Lử)
 https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: HD 2 Chelsea - Fulham (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: HD 2 Wolves - Liverpool (Giàng A Lử)
 https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: Nhà Đài Chelsea - Fulham (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",22h00-04/02: Nhà Đài Wolves - Liverpool (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|referer=https://live.rakhoi7.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: SD 1 Athletic Club - Cadiz (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-04/02: SD 1 PSG - Toulouse (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-04/02: HD 1 PSG - Toulouse (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-04/02: SD 2 PSG - Toulouse (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-04/02: HD 2 PSG - Toulouse (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",23h00-04/02: Nhà Đài PSG - Toulouse (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-05/02: SD 1 Roma - Empoli (Giàng A Cay)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: HD 1 Athletic Club - Cadiz (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-05/02: HD 1 Roma - Empoli (Giàng A Cay)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: SD 2 Athletic Club - Cadiz (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-05/02: SD 2 Roma - Empoli (Giàng A Cay)
 https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: HD 2 Athletic Club - Cadiz (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-05/02: HD 2 Roma - Empoli (Giàng A Cay)
 https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|referer=https://live.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/02: Nhà Đài Athletic Club - Cadiz (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h00-05/02: Nhà Đài Roma - Empoli (Giàng A Cay)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: SD 1 Newcastle - West Ham (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: HD 1 Newcastle - West Ham (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: SD 2 Newcastle - West Ham (Giàng A Lử)
+https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: HD 2 Newcastle - West Ham (Giàng A Lử)
+https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: Nhà Đài Newcastle - West Ham (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: SD 1 Atletico Madrid - Getafe (Giàng A Bịp)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@bipsd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: HD 1 Atletico Madrid - Getafe (Giàng A Bịp)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@biphd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: SD 2 Atletico Madrid - Getafe (Giàng A Bịp)
+https://179665839.global.cdnfastest.com/live/bipsd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: HD 2 Atletico Madrid - Getafe (Giàng A Bịp)
+https://179665839.global.cdnfastest.com/live/biphd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-05/02: Nhà Đài Atletico Madrid - Getafe (Giàng A Bịp)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-05/02: SD 1 Sassuolo - Atalanta (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-05/02: HD 1 Sassuolo - Atalanta (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-05/02: SD 2 Sassuolo - Atalanta (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-05/02: HD 2 Sassuolo - Atalanta (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-05/02: Nhà Đài Sassuolo - Atalanta (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://live.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-05/02: SD 1 Real Betis - Celta Vigo (Giàng A Phệt)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phetsd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-05/02: HD 1 Real Betis - Celta Vigo (Giàng A Phệt)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phethd1/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-05/02: SD 2 Real Betis - Celta Vigo (Giàng A Phệt)
+https://179665839.global.cdnfastest.com/live/phetsd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-05/02: HD 2 Real Betis - Celta Vigo (Giàng A Phệt)
+https://179665839.global.cdnfastest.com/live/phethd2/playlist.m3u8|referer=https://live.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-05/02: Nhà Đài Real Betis - Celta Vigo (Giàng A Phệt)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|referer=https://live.rakhoi7.com/
