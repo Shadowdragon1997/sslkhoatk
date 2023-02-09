@@ -702,12 +702,12 @@ https://api.tivifree.ml/getlink/vtvcab/ksport2hd.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x8A/fZ2+aYZYQKyo0Oib7w","kid":"IW8gzTP9SMGeQqQKihAEnw"},{"kty":"oct","k":"4onASeu8egEpia9ztmjH0w","kid":"abMgzTP9SMGeQqQKihAEnw"},{"kty":"oct","k":"ItEOmLvsyRu9f2r21m8HUg","kid":"drdk/jP9SMGeQqQKihAEnw"},{"kty":"oct","k":"Bl3hKtlp7wgZ5zROFlVP5g","kid":"YsRkFoL9SMGeQqQKihAEnw"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD FPT Play
+#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iWFGjPZD4yqU9SR4AW5SVQ","kid":"ogbfU5DaMZ+fM7ofpIpEhg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://raintv.tk/get/vieon/ba2c5a1385af8s9ca4se08e1379d4edf35afaad349/kids/manifest.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Vieon
+#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD FPT Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MRr+P9nbE2pB18cF7TA/pQ","kid":"2td5+/VDOIWgkU5gOZx23w"}],"type":"temporary"}
 http://vietanhtv.pw/fptplay/kids/manifest.mpd
