@@ -1369,30 +1369,26 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/31/tttc9xib_banner0600636a609c1b336c8aa28744489a70_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-09/02: Quay số mở thưởng Vietlott 09/02/2023
 https://api.vthanhtivi.pw/v2/getlink/vieonevent/7511275d-67c1-42ce-aa65-e89a52115f12/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c4/4a/a8/80/05/59/c4a80-lpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-09/02: Pop
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6913/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/43/3a/a6/63/30/05/43a63-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-09/02: Biệt Đội Thiếu Niên Titan Xuất Kích!
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6514/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2f/f6/62/23/3b/b1/2f623-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-09/02: EDM
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6914/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/05/54/4e/ee/e4/44/054ee-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-09/02: Những Chú Gấu Boonie
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5183/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/31/1e/e3/3f/f5/5f/31e3f-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-09/02: Những Chú Gấu Boonie
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5184/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/00/03/30/01/16/68/00301-lngibean-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-09/02: Ngài Bean
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5698/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/54/42/2a/a9/9e/e1/542a9-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:30-09/02: K-Pop
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6921/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a4/4a/a6/62/20/0c/a4a62-lasiantour2023internationalseriesomanngy1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-09/02: Asian Tour 2023 International Series Oman - Ngày 1
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6925/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/95/55/56/69/9a/a3/95569-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-09/02: Thế Giới Kì Diệu của Gumball
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5693/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a6/6e/ea/a9/9c/c8/a6ea9-lvleaguevng1hnivscnganhni-ceeshow-mytv.jpeg" group-title="🗓| Sự kiện", 19:15-09/02: V.League - Vòng 1: Hà Nội vs Công an Hà Nội
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a4/4a/a6/62/20/0c/a4a62-lasiantour2023internationalseriesomanngy1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-09/02: Asian Tour 2023 International Series Oman - Ngày 1
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6925/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a6/6e/ea/a9/9c/c8/a6ea9-lvleaguevng1hnivscnganhni-ceeshow-mytv.jpeg" group-title="🗓| Sự kiện", 19:15-09/02: V.League - Vòng 2: Hà Nội vs Công an Hà Nội
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6924/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5b/b7/77/7a/a0/02/5b77a-llphchonmkhchmicaslcphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-09/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Lê Đức - Phần 4
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6564/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e9/9b/b9/93/3e/e8/e9b93-lvenomimttth-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:59-09/02: Venom: Đối Mặt Tử Thù
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6928/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/53/38/86/6c/cb/b5/5386c-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-09/02: Chúng Tôi Đơn Giản Là Gấu
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5690/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5b/b7/77/7a/a0/02/5b77a-llphchonmkhchmicaslcphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-09/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Lê Đức - Phần 4
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6564/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3b/bd/d9/99/97/7b/3bd99-lxuhng24hgimlisutchovaycgiiquytcthtrngbs-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-09/02: Xu hướng 24h: Giảm lãi suất cho vay có giải quyết được thị trường BĐS?
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6930/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/0e/ef/f2/23/3f/fc/0ef23-lhynghetihtphinbnnh-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-09/02: Hãy Nghe Tôi Hát - Phiên bản Nhí
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6585/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-09/02: Dưới Bóng Cây Hạnh Phúc - Tập 13
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-09/02: Đừng Làm Mẹ Cáu - Tập 17
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6471/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/82/21/1b/bc/c3/3b/821bc-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-10/02: Biệt Đội Thiếu Niên Titan Xuất Kích!
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6513/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c7/74/43/3b/bc/c7/c743b-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-10/02: Những Chú Gấu Boonie
@@ -1405,6 +1401,12 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/5696/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6916/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2c/c0/02/28/87/7e/2c028-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-10/02: Chúng Tôi Đơn Giản Là Gấu
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/4971/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3c/c6/6f/fc/c4/46/3c6fc-lqutngtith6yuvnht-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-10/02: Quà tặng Tối Thứ 6 - Yêu vợ nhất
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6929/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9e/ef/f1/16/63/3f/9ef16-lbitinhthu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:34-10/02: Biệt Đội Đánh Thuê
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/4667/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9a/a7/7e/e4/4e/e9/9a7e4-lnglmmcutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-10/02: Đừng Làm Mẹ Cáu - Tập 18
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6470/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/43/3f/f6/64/41/1c/43f64-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-11/02: Dance
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6917/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ae/e2/27/70/03/3d/ae270-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-11/02: MB - Hits
@@ -1416,54 +1418,54 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/6920/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/96/64/4c/c0/03/37/964c0-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-12/02: Country
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6919/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675668412/cmc_new/img.live_channel_schedule/0/0/130/67003/34305767.jpg" group-title="🗓| Sự kiện", 07:55-09/02: Những Dự Án Tham Vọng Của Savage (Phần 1 - Tập 7)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675152030/cmc_new/img.live_channel_schedule/0/0/130/66676/34138492.jpg" group-title="🗓| Sự kiện", 08:15-09/02: Những Chuyến Phiêu Lưu Của Mèo Đi Hia
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675701148/cmc_new/img.live_channel_schedule/0/0/130/66661/34130663.jpg" group-title="🗓| Sự kiện", 08:50-09/02: Nhà Máy Thực Phẩm (Tập 17)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/634/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675393782/cmc_new/img.live_channel_schedule/0/0/130/66685/34143059.jpg" group-title="🗓| Sự kiện", 09:00-09/02: Vua Bóng Chuyền (Phần 1 - Tập 14)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675238983/cmc_new/img.live_channel_schedule/0/0/130/66676/34138494.jpg" group-title="🗓| Sự kiện", 09:05-09/02: Quỷ Lùn Tinh Nghịch: Giai Điệu Bất Tận
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675839983/cmc_new/img.live_channel_schedule/0/0/130/67015/34311841.jpg" group-title="🗓| Sự kiện", 09:05-09/02: Khám Phá Xác Ướp
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675822149/cmc_new/img.live_channel_schedule/0/0/131/67224/34418744.jpg" group-title="🗓| Sự kiện", 20:00-09/02: Mẹ Chồng Nàng Dâu
+https://api.vthanhtivi.pw/v2/getlink/cliptv/484/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675913808/cmc_new/img.live_channel_schedule/0/0/131/67272/34443604.jpg" group-title="🗓| Sự kiện", 04:15-09/02: Chân Dung Cuộc Tình
+https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675839975/cmc_new/img.live_channel_schedule/0/0/130/67015/34311852.jpg" group-title="🗓| Sự kiện", 17:25-09/02: Cặp Đôi Sinh Tồn
 https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675701148/cmc_new/img.live_channel_schedule/0/0/130/66661/34130664.jpg" group-title="🗓| Sự kiện", 09:15-09/02: Nhà Máy Thực Phẩm
-https://api.vthanhtivi.pw/v2/getlink/cliptv/634/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675697216/cmc_new/img.live_channel_schedule/0/0/130/66676/34138495.jpg" group-title="🗓| Sự kiện", 09:30-09/02: Xe Tải Khủng Long
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675695514/cmc_new/img.live_channel_schedule/0/0/130/66676/34138516.jpg" group-title="🗓| Sự kiện", 18:05-09/02: Những Câu Chuyện Kinh Điển Của Đội Trưởng Quần Sịp
 https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675244225/cmc_new/img.live_channel_schedule/0/0/130/66685/34143060.jpg" group-title="🗓| Sự kiện", 09:30-09/02: Naruto (Tập 95)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675151429/cmc_new/img.live_channel_schedule/0/0/130/66633/34116330.jpg" group-title="🗓| Sự kiện", 09:30-09/02: Chú Nhện Lucas
-https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675695034/cmc_new/img.live_channel_schedule/0/0/130/66602/34100369.jpg" group-title="🗓| Sự kiện", 09:35-09/02: Rèn Luyện Cơ Thể (Tập 21)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/823/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675701975/cmc_new/img.live_channel_schedule/0/0/130/66635/34117124.jpg" group-title="🗓| Sự kiện", 09:45-09/02: Mạng Lưới Xã Hội Của Động Vật
-https://api.vthanhtivi.pw/v2/getlink/cliptv/787/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675152638/cmc_new/img.live_channel_schedule/0/0/130/66676/34138496.jpg" group-title="🗓| Sự kiện", 10:00-09/02: Biệt Đội Giải Cứu Rồng
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675244225/cmc_new/img.live_channel_schedule/0/0/130/66685/34143061.jpg" group-title="🗓| Sự kiện", 10:00-09/02: Naruto (Tập 96)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675582553/cmc_new/img.live_channel_schedule/0/0/130/66633/34116331.jpg" group-title="🗓| Sự kiện", 10:00-09/02: Gấu Xám Và Những Chú Chuột Lemmut
-https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675668403/cmc_new/img.live_channel_schedule/0/0/130/67003/34305774.jpg" group-title="🗓| Sự kiện", 10:10-09/02: Sao Sinh Tồn Cùng Bear Grylls (Phần 5 - Tập 3)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675668389/cmc_new/img.live_channel_schedule/0/0/130/67003/34305786.jpg" group-title="🗓| Sự kiện", 18:10-09/02: Thám Hiểm Nước Úc (Phần 5 - Tập 1)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675701975/cmc_new/img.live_channel_schedule/0/0/130/66635/34117125.jpg" group-title="🗓| Sự kiện", 10:40-09/02: Frank Hoang Dã (Tập 5)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/787/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675824901/cmc_new/img.live_channel_schedule/0/0/131/67223/34418401.jpg" group-title="🗓| Sự kiện", 10:45-09/02: Việt Nam Ngày Mới
-https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675839983/cmc_new/img.live_channel_schedule/0/0/130/67015/34311843.jpg" group-title="🗓| Sự kiện", 10:45-09/02: Chuyến Săn Bão Táp
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675909613/cmc_new/img.live_channel_schedule/0/0/130/66599/34098719.jpg" group-title="🗓| Sự kiện", 18:10-09/02: Gia Đình Siêu Đầu Bếp (Phần 1 - Tập 12)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/827/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675839975/cmc_new/img.live_channel_schedule/0/0/130/67015/34311853.jpg" group-title="🗓| Sự kiện", 18:15-09/02: Thợ Săn Đá Opal Vùng Hẻo Lánh (Tập 4)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675702933/cmc_new/img.live_channel_schedule/0/0/130/66670/34135129.jpg" group-title="🗓| Sự kiện", 10:45-09/02: Chuyến Săn Bão Táp (Tập 5)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760148/cmc_new/img.live_channel_schedule/0/0/131/67090/34350286.jpg" group-title="🗓| Sự kiện", 10:55-09/02: Hồi Sinh Đống Sắt (Phần 4)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675840025/cmc_new/img.live_channel_schedule/0/0/130/67017/34312749.jpg" group-title="🗓| Sự kiện", 11:00-09/02: Những Kẻ Thích Đùa Dại Dột (Tập 1)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675668403/cmc_new/img.live_channel_schedule/0/0/130/67003/34305775.jpg" group-title="🗓| Sự kiện", 11:00-09/02: Người Không Hít Thở (Tập 1)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675839851/cmc_new/img.live_channel_schedule/0/0/131/67121/34366056.jpg" group-title="🗓| Sự kiện", 11:15-09/02: Chuyển Động 24h
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675054289/cmc_new/img.live_channel_schedule/0/0/130/66600/34099575.jpg" group-title="🗓| Sự kiện", 18:20-09/02: Oakley, Bác Sĩ Thú Y Yukon (Phần 8 - Tập 8)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/826/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675839857/cmc_new/img.live_channel_schedule/0/0/131/67121/34366074.jpg" group-title="🗓| Sự kiện", 18:30-09/02: Chuyển Động 24h
 https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675152030/cmc_new/img.live_channel_schedule/0/0/130/66676/34138517.jpg" group-title="🗓| Sự kiện", 18:30-09/02: Những Chuyến Phiêu Lưu Của Mèo Đi Hia
+https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675244225/cmc_new/img.live_channel_schedule/0/0/130/66685/34143078.jpg" group-title="🗓| Sự kiện", 18:30-09/02: Naruto (Tập 97)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675824893/cmc_new/img.live_channel_schedule/0/0/131/67223/34418418.jpg" group-title="🗓| Sự kiện", 18:30-09/02: Chuyển Động 365
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675839857/cmc_new/img.live_channel_schedule/0/0/131/67121/34366075.jpg" group-title="🗓| Sự kiện", 19:00-09/02: Thời Sự 19h
+https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675236701/cmc_new/img.live_channel_schedule/0/0/130/66637/34118210.jpg" group-title="🗓| Sự kiện", 19:00-09/02: Cú Ngã (Phần 9)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/604/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675244225/cmc_new/img.live_channel_schedule/0/0/130/66685/34143079.jpg" group-title="🗓| Sự kiện", 19:00-09/02: Naruto (Tập 98)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675824893/cmc_new/img.live_channel_schedule/0/0/131/67223/34418419.jpg" group-title="🗓| Sự kiện", 19:00-09/02: Tiếp Sóng Thời Sự VTV
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675151429/cmc_new/img.live_channel_schedule/0/0/130/66633/34116343.jpg" group-title="🗓| Sự kiện", 19:00-09/02: Chú Nhện Lucas
+https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675909613/cmc_new/img.live_channel_schedule/0/0/130/66599/34098720.jpg" group-title="🗓| Sự kiện", 19:05-09/02: Gặp Gỡ Kelly Clarkson (Phần 4 - Tập 92)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/827/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675839975/cmc_new/img.live_channel_schedule/0/0/130/67015/34311854.jpg" group-title="🗓| Sự kiện", 19:10-09/02: Thế Giới Xe Hơi Của Mike Brewer
+https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675701148/cmc_new/img.live_channel_schedule/0/0/130/66661/34130678.jpg" group-title="🗓| Sự kiện", 19:15-09/02: Nhà Máy Thực Phẩm (Tập 19)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675913808/cmc_new/img.live_channel_schedule/0/0/131/67302/34458731.jpg" group-title="🗓| Sự kiện", 19:15-09/02: Nàng Dâu Thời Nay
+https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675393782/cmc_new/img.live_channel_schedule/0/0/130/66685/34143080.jpg" group-title="🗓| Sự kiện", 19:30-09/02: Vua Bóng Chuyền (Phần 1 - Tập 15)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675701148/cmc_new/img.live_channel_schedule/0/0/130/66661/34130679.jpg" group-title="🗓| Sự kiện", 19:40-09/02: Nhà Máy Thực Phẩm (Tập 20)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675824892/cmc_new/img.live_channel_schedule/0/0/131/67223/34418421.jpg" group-title="🗓| Sự kiện", 20:00-09/02: Thời Sự
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
