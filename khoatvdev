@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/en/sportsnet.ca.xml,https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/en/bein.com.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/at.xml.gz,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml"
+#EXTM3U url-tvg="https://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/en/sportsnet.ca.xml,https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/en/bein.com.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/at.xml.gz,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml"
 
 #-*-- Info -*--#
 #EXTINF:-1 group-title="💁| Thông tin Khoa Tivi" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
@@ -3105,6 +3105,22 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56777
 http://2.cvmtv.site/StarSL2
 
 #-*-- Sports Serbia -*--#
+#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/csv6YsL.png", RS: Arena Sport 1 Premium
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2496.ts
+#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/ztOmQ7P.png", RS: Arena Sport 2 Premium
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2497.ts
+#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gpqemLf.png", RS: Arena Sport 3 Premium
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2498.ts
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/RJrJGbW.png", RS: Arena Sport 1
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2499.ts
+#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/aqlECBj.png", RS: Arena Sport 2
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2500.ts
+#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/3r3burN.png", RS: Arena Sport 3
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2501.ts
+#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/h1XhGkz.png", RS: Arena Sport 4
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2502.ts
+#EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/036qMgu.png", RS: Arena Sport 5
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2503.ts
 #EXTINF:-1 tvg-id="SportKlub1.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gq41T8E.png", RS: Sport Klub 1
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/158360
 #EXTINF:-1 tvg-id="SportKlub1.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gq41T8E.png", RS: Sport Klub 1 Server 2
@@ -3252,17 +3268,37 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/55096
 
 #-*-- Sports Croatia -*--#
 #EXTINF:-1 tvg-id="ArenaSport1Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/RJrJGbW.png", HR: Arena Sport 01
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225657
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2473.ts
 #EXTINF:-1 tvg-id="ArenaSport2Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/aqlECBj.png", HR: Arena Sport 02
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225658
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2474.ts
 #EXTINF:-1 tvg-id="ArenaSport3Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/3r3burN.png", HR: Arena Sport 03
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225659
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2475.ts
 #EXTINF:-1 tvg-id="ArenaSport4Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/h1XhGkz.png", HR: Arena Sport 04
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225660
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2476.ts
 #EXTINF:-1 tvg-id="ArenaSport5Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/036qMgu.png", HR: Arena Sport 05
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225661
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2477.ts
 #EXTINF:-1 tvg-id="ArenaSport6Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/Z5PE4vx.png", HR: Arena Sport 06
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/225662
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2478.ts
+#EXTINF:-1 tvg-id="ArenaSport7Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/0fgvOrR.png", HR: Arena Sport 07
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2479.ts
+#EXTINF:-1 tvg-id="ArenaSport8Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/Wk9dr78.png", HR: Arena Sport 08
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2480.ts
+#EXTINF:-1 tvg-id="ArenaSport9Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/riMTqTu.png", HR: Arena Sport 09
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2481.ts
+#EXTINF:-1 tvg-id="ArenaSport10Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/oMiS7D3.png", HR: Arena Sport 10
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2482.ts
+#EXTINF:-1 tvg-id="SportKlub1Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/XVHewd6.png", HR: Sport Klub 1
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2466.ts
+#EXTINF:-1 tvg-id="SportKlub2Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/0HhM0xW.png", HR: Sport Klub 2
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2467.ts
+#EXTINF:-1 tvg-id="SportKlub3Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/KvaFzZp.png", HR: Sport Klub 3
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2468.ts
+#EXTINF:-1 tvg-id="SportKlub4Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/4zWdmVt.png", HR: Sport Klub 4
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2469.ts
+#EXTINF:-1 tvg-id="SportKlub5Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/pQshlmB.png", HR: Sport Klub 5
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2470.ts
+#EXTINF:-1 tvg-id="SportKlub6Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/gOOjGGf.png", HR: Sport Klub 6
+http://solo-v7.sytes.net:2082/live/XYUComune/uctTqrhSmG/2471.ts
 
 #-*-- Sports Colombia -*--#
 #EXTINF:-1 tvg-id="WinSports.co" group-title="🇨🇴| Sports Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/512px-WinSports2017.png", CO: Win Sports
