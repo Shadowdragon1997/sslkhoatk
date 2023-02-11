@@ -119,24 +119,12 @@ https://api.vthanhtivi.pw/v2/getlink/mytv/449/hd
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 1
-http://1.cvmtv.site/live1
+http://171.244.61.233/live1
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
-http://1.cvmtv.site/live2
+http://171.244.61.233/live2
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
-http://1.cvmtv.site/4KUHD
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 2
-http://vn1.vthanhtivi.com/4KUHD
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 3
-http://2.cvmtv.site/4KUHD
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K Server 4
-http://sg2.vthanhtivi.com/4KUHD
+http://171.244.61.233/4KUHD
 
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/06/97nfa2uc_banner8eef675b63285a818d4f567fcab69ba3_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-11/02: Western United FC - Adelaide United (Vòng 16 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/88451269-ea87-4c5e-8792-9a0b15587f93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/06/jgcptnsq_banner62b662f8d310a574e95bbffd8e4472ab_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-11/02: W.S Wanderers FC - Sydney FC (Vòng 16 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/72abe02a-4b79-4b83-bedc-00cea305934a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/06/wbf76wkv_banner10896081c194cbb9b54ec69160f6978a_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 18:15-11/02: Perth Glory - Melbourne City FC (Vòng 16 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/ccc7c753-b0e4-445b-be3c-849537fc7646/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/c34gw3w5_bannera6367fddfc7befc651f96fb52021616b_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 01:45-12/02: PSV Eindhoven - FC Groningen (Vòng 21 - VĐQG Hà Lan 2022/23)
 https://api.vthanhtivi.pw/v2/getlink/vieonevent/47a719ff-5e9f-481e-90ac-0a6621bd5bdc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/06/xhcf29hh_bannercf06ad3eff1d6c7b193a28ec68ac572d_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 10:45-12/02: Newcastle Jets - Melbourne Victory (Vòng 16 - VĐQG Úc 2022/23)
@@ -247,7 +235,7 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #-*-- VTV độ trễ thấp xem bóng đá -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
-http://1.cvmtv.site/vtv1
+http://171.244.61.233/vtv1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
@@ -257,13 +245,13 @@ http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV Server dự phòng
 http://vn2.vietanhtv.pw:8081/tv/vtv2/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
-http://1.cvmtv.site/vtv3
+http://171.244.61.233/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.1.118:10260
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 MyTV
 http://vnpt01-tha.duckdns.org:4025/rtp/232.84.2.32:10600
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
-http://1.cvmtv.site/vtv5
+http://171.244.61.233/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server dự phòng
 http://vn2.vietanhtv.pw:8081/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
@@ -273,7 +261,7 @@ https://nvzoftzsvflivnt.vcdn.com.vn/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=h
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên FPT
 https://nvzoftzsvflivnt.vcdn.com.vn/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tn@high.m3u8?hdnts=exp=1669760866~acl=/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f*~hmac=9bdcbbbbba76f2f0752eec42ffd6ea9c54754bcfba4f7f8ad48d233da75bb4d2
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
-http://1.cvmtv.site/vtvct
+http://171.244.61.233/vtvct
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT Server dự phòng
 http://vn2.vietanhtv.pw:8081/vtvct
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
@@ -1364,39 +1352,13 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/31/21o97bxq_banner4c83e1d990e4206563895086b7375148_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-11/02: Quay số mở thưởng Vietlott 11/02/2023
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/28c8ff6a-6cb7-4615-9b63-cdf104580f01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/01/31/enhmiim3_banner5d9948755fa5019825b87fc0179e5a86_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-12/02: Quay số mở thưởng Vietlott 12/02/2023
+https://api.vthanhtivi.pw/v2/getlink/vieonevent/9ebf9cdd-5660-49b7-86b4-2a2ad65999ae/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/27/7a/a6/6d/d1/15/27a6d-lasiantour2023internationalseriesomanngy3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-11/02: Asian Tour 2023 International Series Oman - Ngày 3
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6937/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d3/32/27/72/25/5f/d3272-lxuhng24hnhnnhvng23premierleaguearsenalvththchbrentford-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-11/02: Xu hướng 24h: Nhận định vòng 23 Premier League: Arsenal và thử thách Brentford
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6968/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ba/a9/9d/dc/c8/88/ba9dc-ldareyoubncdmma2tp20-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-11/02: Dare You - Bạn Có Dám - Mùa 2 - Tập 20
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5047/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/53/38/86/6c/cb/b5/5386c-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-11/02: Chúng Tôi Đơn Giản Là Gấu
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5690/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/a7/75/54/49/9d/da/a7549-lphngtrmytvcuchuyntnhyu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-11/02: Phòng trà MyTV - Câu chuyện tình yêu
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6922/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/87/7b/b1/11/19/98/87b11-lserieavng22empolivsspezia-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-11/02: Serie A - Vòng 22: Empoli vs Spezia
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6943/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/51/1e/e0/06/68/83/51e06-lbundesligavng20werderbremenvsdortmund-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-11/02: Bundesliga - Vòng 20: Werder Bremen vs Dortmund
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6952/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b4/41/1c/ca/a2/2e/b41ca-lbundesligavng20bayernmunichvsbochum-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-11/02: Bundesliga - Vòng 20: Bayern Munich vs Bochum
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6951/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/88/86/66/6f/f3/3f/8866f-llaligavng21almeriavsrealbetis-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:15-11/02: La Liga - Vòng 21: Almeria vs Real Betis
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6957/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b5/57/79/9f/fa/ad/b579f-lligue1vng23monacovspsg-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-11/02: Ligue 1 - Vòng 23: Monaco vs PSG
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6933/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/db/b1/12/22/22/25/db122-lthamvngtp21a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-11/02: Tham Vọng - Tập 21A
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6666/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/97/7a/a5/5b/b5/57/97a5b-lthamvngtp17b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:15-11/02: Tham Vọng - Tập 21B
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6667/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/73/36/6f/f8/86/6a/736f8-lthamvngtp22a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:30-11/02: Tham Vọng - Tập 22A
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6668/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fd/da/aa/a7/76/66/fdaa7-lthamvngtp22b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:45-11/02: Tham Vọng - Tập 22B
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6669/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f2/27/78/83/35/5d/f2783-lserieavng22leccevsasroma-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:00-12/02: Serie A - Vòng 22: Lecce vs AS Roma
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6945/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b5/57/79/9f/fa/ad/b579f-lligue1vng23monacovspsg-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-11/02: Ligue 1 - Vòng 23: Monaco vs PSG
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6933/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9e/ee/e7/7a/a9/9e/9ee7a-llaligavng21sevillavsmallorca-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-12/02: La Liga - Vòng 21: Sevilla vs Mallorca
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6959/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/34/47/7a/a0/0b/b1/347a0-lbundesligavng20rbleipzigvsunionberlin-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-12/02: Bundesliga - Vòng 20: RB Leipzig vs Union Berlin
@@ -1405,10 +1367,10 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/6955/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6934/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/0a/a7/75/50/09/9e/0a750-lserieavng22laziovsatalanta-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-12/02: Serie A - Vòng 22: Lazio vs Atalanta
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6944/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3f/fa/a5/5c/c4/41/3fa5c-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-12/02: Dance
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6920/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/05/54/4e/ee/e4/44/054ee-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-12/02: Những Chú Gấu Boonie
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5183/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3f/fa/a5/5c/c4/41/3fa5c-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-12/02: Dance
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6920/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d8/82/25/5a/ad/de/d825a-lcucphiulukthcast-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-12/02: Cuộc Phiêu Lưu Kỳ Thú Của Sư Tử
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6904/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/43/3a/a0/04/41/13/43a04-lasiantour2023internationalseriesomanngy4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-12/02: Asian Tour 2023 International Series Oman - Ngày 4
@@ -1417,18 +1379,18 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/6938/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6906/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/13/3b/b6/6a/ab/b0/13b6a-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-12/02: Bé Kẹo Bông Và Mẹ Đám Mây
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5563/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/96/64/4c/c0/03/37/964c0-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-12/02: Country
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6919/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d8/8b/ba/ab/be/eb/d8bab-lvleaguevng3topenlandbnhnhvsbecamexbnhdng-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-12/02: V.League - Vòng 3: Topenland Bình Định vs Becamex Bình Dương
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6966/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/18/82/22/21/1f/fe/18221-lvleaguevng3ngthanhhavsshbnng-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-12/02: V.League - Vòng 3: Đông Á Thanh Hóa vs SHB Đà Nẵng
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6965/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/96/64/4c/c0/03/37/964c0-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-12/02: Country
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6919/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/0a/a0/03/36/67/77/0a036-lligue1vng23toulousevsrennes-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-12/02: Ligue 1 - Vòng 23: Toulouse vs Rennes
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6941/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/7e/e7/72/2e/ed/d2/7e72e-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-12/02: Chúng Tôi Đơn Giản Là Gấu
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5552/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/6c/c0/05/5b/b0/08/6c05b-llaligavng21getafevsrayovallecano-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-12/02: La Liga - Vòng 21: Getafe vs Rayo Vallecano
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6958/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/7e/e7/72/2e/ed/d2/7e72e-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-12/02: Chúng Tôi Đơn Giản Là Gấu
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5552/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/33/3a/ab/b3/30/00/33ab3-limhnththaojoiltonlutterbachnhvchhngsiunh-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-12/02: Điểm hẹn thể thao: Joilton Lutterbach nhà vô địch hạng siêu nhẹ
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6939/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/88/81/17/7f/f7/79/8817f-lserieavng22bolognavsmonza-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-12/02: Serie A - Vòng 22: Bologna vs Monza
@@ -1451,10 +1413,10 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/6953/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6949/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5d/d0/09/96/63/34/5d096-llaligavng21valladolidvsosasuna-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-13/02: La Liga - Vòng 21: Valladolid vs Osasuna
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6961/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/15/52/21/13/32/21/15213-lserieavng22napolivscremonese-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-13/02: Serie A - Vòng 22: Napoli vs Cremonese
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6946/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f8/8b/b4/44/46/6a/f8b44-lligue1vng23lyonvslens-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-13/02: Ligue 1 - Vòng 23: Lyon vs Lens
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6940/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/15/52/21/13/32/21/15213-lserieavng22napolivscremonese-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-13/02: Serie A - Vòng 22: Napoli vs Cremonese
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6946/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/cd/d0/03/3d/d6/6c/cd03d-llaligavng21villarrealvsbarcelona-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-13/02: La Liga - Vòng 21: Villarreal vs Barcelona
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6964/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-13/02: Thử Thách Cùng Thần Tượng - Số 641
@@ -1467,10 +1429,10 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/6905/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5f/fe/e1/15/5a/a3/5fe15-lphimgtinaytopnhngphimngntnhbthcngthigian-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-13/02: Phim Gì Tối Nay? Top Những Phim Ngôn Tình Bất Hủ Cùng Thời Gian
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6932/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/04/48/83/3c/cf/fa/0483c-llphchonmkhchmicasleophn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-13/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 1
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5849/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5a/ad/dd/d8/8f/f5/5add8-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-13/02: Chúng Tôi Đơn Giản Là Gấu
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5553/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/04/48/83/3c/cf/fa/0483c-llphchonmkhchmicasleophn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-13/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 1
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5849/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/02/2d/d0/05/55/56/02d05-lserieavng22veronavssalernitana-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-14/02: Serie A - Vòng 22: Verona vs Salernitana
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6947/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/60/00/06/6e/e6/6d/6006e-lserieavng22sampdoriavsintermilan-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-14/02: Serie A - Vòng 22: Sampdoria vs Inter Milan
@@ -1486,54 +1448,54 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/6963/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b5/55/56/6c/ce/ec/b556c-llphchonmkhchmicasleophn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 4
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6564/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675913882/cmc_new/img.live_channel_schedule/0/0/131/67224/34418831.jpg" group-title="🗓| Sự kiện", 20:00-11/02: Giai Điệu Cảm Xúc
-https://api.vthanhtivi.pw/v2/getlink/cliptv/484/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676003193/cmc_new/img.live_channel_schedule/0/0/130/67015/34311915.jpg" group-title="🗓| Sự kiện", 17:25-11/02: Chuyến Săn Bão Táp
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675610163/cmc_new/img.live_channel_schedule/0/0/130/67061/34335649.jpg" group-title="🗓| Sự kiện", 17:30-11/02: Chúng Tôi Đơn Giản Là Gấu Con
-https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675841882/cmc_new/img.live_channel_schedule/0/0/131/67184/34398383.jpg" group-title="🗓| Sự kiện", 18:00-11/02: An Ninh 24h
-https://api.vthanhtivi.pw/v2/getlink/cliptv/312/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675668527/cmc_new/img.live_channel_schedule/0/0/130/67003/34305889.jpg" group-title="🗓| Sự kiện", 18:10-11/02: Trận Chiến Xe Ảo (Phần 1 - Tập 1)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676003193/cmc_new/img.live_channel_schedule/0/0/130/67015/34311916.jpg" group-title="🗓| Sự kiện", 18:15-11/02: Hành Trình Khám Phá: Tập Đặc Biệt
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675149954/cmc_new/img.live_channel_schedule/0/0/130/66633/34116402.jpg" group-title="🗓| Sự kiện", 18:30-11/02: Trang Trại Khủng Long
-https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676003026/cmc_new/img.live_channel_schedule/0/0/131/67216/34415061.jpg" group-title="🗓| Sự kiện", 18:30-11/02: Chuyển Động 24h
-https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675824953/cmc_new/img.live_channel_schedule/0/0/131/67223/34418517.jpg" group-title="🗓| Sự kiện", 18:30-11/02: Chuyển Động 365
-https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675151429/cmc_new/img.live_channel_schedule/0/0/130/66633/34116403.jpg" group-title="🗓| Sự kiện", 19:00-11/02: Chú Nhện Lucas
-https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676003026/cmc_new/img.live_channel_schedule/0/0/131/67216/34415062.jpg" group-title="🗓| Sự kiện", 19:00-11/02: Thời Sự 19h
-https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675824953/cmc_new/img.live_channel_schedule/0/0/131/67223/34418518.jpg" group-title="🗓| Sự kiện", 19:00-11/02: Tiếp Sóng Thời Sự VTV
-https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675668527/cmc_new/img.live_channel_schedule/0/0/130/67003/34305891.jpg" group-title="🗓| Sự kiện", 19:10-11/02: Giải Đấu Lớn: Bãi Biển Myrtle (Phần 22 - Tập 12)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676003193/cmc_new/img.live_channel_schedule/0/0/130/67015/34311917.jpg" group-title="🗓| Sự kiện", 19:10-11/02: Tìm Vàng: Khu Mỏ Bỏ Hoang Của Dave Turin
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675993589/cmc_new/img.live_channel_schedule/0/0/131/67323/34469413.jpg" group-title="🗓| Sự kiện", 19:15-11/02: Chuyến Xe Nhân Ái
-https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675652880/cmc_new/img.live_channel_schedule/0/0/131/67180/34396565.jpg" group-title="🗓| Sự kiện", 20:00-11/02: Thần Tượng Đối Thần Tượng
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675652904/cmc_new/img.live_channel_schedule/0/0/131/67208/34410868.jpg" group-title="🗓| Sự kiện", 20:00-12/02: Hát Ca Bềnh Bồng
 https://api.vthanhtivi.pw/v2/getlink/cliptv/158/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675824953/cmc_new/img.live_channel_schedule/0/0/131/67223/34418520.jpg" group-title="🗓| Sự kiện", 20:00-11/02: Thời Sự
-https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676003193/cmc_new/img.live_channel_schedule/0/0/130/67015/34311918.jpg" group-title="🗓| Sự kiện", 20:05-11/02: Chuyến Săn Bão Táp: Người Viking Trở Lại
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675588879/cmc_new/img.live_channel_schedule/0/0/130/66677/34138641.jpg" group-title="🗓| Sự kiện", 20:10-11/02: Thủa Ban Đầu Của Nhà Crood
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760148/cmc_new/img.live_channel_schedule/0/0/131/67090/34350366.jpg" group-title="🗓| Sự kiện", 20:12-11/02: Hồi Sinh Đống Sắt (Phần 4)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675999733/cmc_new/img.live_channel_schedule/0/0/130/66685/34143184.jpg" group-title="🗓| Sự kiện", 00:00-12/02: Đông Phương Chiến Ký (Phần 2 - Tập 1)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675999733/cmc_new/img.live_channel_schedule/0/0/130/66685/34143185.jpg" group-title="🗓| Sự kiện", 00:30-12/02: Đông Phương Chiến Ký (Phần 2 - Tập 2)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760016/cmc_new/img.live_channel_schedule/0/0/131/67090/34350378.jpg" group-title="🗓| Sự kiện", 03:57-12/02: Xưởng Xe Toàn Nữ
 https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675999733/cmc_new/img.live_channel_schedule/0/0/130/66685/34143177.jpg" group-title="🗓| Sự kiện", 20:30-11/02: Đông Phương Chiến Ký (Tập 11)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675999733/cmc_new/img.live_channel_schedule/0/0/130/66685/34143178.jpg" group-title="🗓| Sự kiện", 21:00-11/02: Đông Phương Chiến Ký (Tập 12)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675993589/cmc_new/img.live_channel_schedule/0/0/131/67323/34469417.jpg" group-title="🗓| Sự kiện", 21:00-11/02: Tuyệt Đỉnh Song Ca
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675993617/cmc_new/img.live_channel_schedule/0/0/131/67323/34469464.jpg" group-title="🗓| Sự kiện", 04:15-12/02: Tuyệt Đỉnh Song Ca
 https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676003193/cmc_new/img.live_channel_schedule/0/0/130/67015/34311919.jpg" group-title="🗓| Sự kiện", 21:00-11/02: Ký Sự Khám Phá
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760016/cmc_new/img.live_channel_schedule/0/0/131/67090/34350379.jpg" group-title="🗓| Sự kiện", 04:19-12/02: Xưởng Xe Toàn Nữ
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760148/cmc_new/img.live_channel_schedule/0/0/131/67090/34350380.jpg" group-title="🗓| Sự kiện", 04:42-12/02: Hồi Sinh Đống Sắt
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675824998/cmc_new/img.live_channel_schedule/0/0/131/67223/34418540.jpg" group-title="🗓| Sự kiện", 06:00-12/02: Việt Nam Ngày Mới
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675759949/cmc_new/img.live_channel_schedule/0/0/131/67090/34350382.jpg" group-title="🗓| Sự kiện", 06:00-12/02: Bên Trong West Coast Customs
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675911400/cmc_new/img.live_channel_schedule/0/0/130/67003/34305913.jpg" group-title="🗓| Sự kiện", 06:50-12/02: Giải Đấu Lớn: Bãi Biển Myrtle (Phần 22 - Tập 12)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675911400/cmc_new/img.live_channel_schedule/0/0/130/67003/34305914.jpg" group-title="🗓| Sự kiện", 07:35-12/02: Cuộc Đua Đến Tâm Trái Đất (Tập 1)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675149969/cmc_new/img.live_channel_schedule/0/0/130/66633/34116416.jpg" group-title="🗓| Sự kiện", 08:00-12/02: Trang Trại Khủng Long
+https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675695034/cmc_new/img.live_channel_schedule/0/0/130/66602/34100488.jpg" group-title="🗓| Sự kiện", 08:30-12/02: Rèn Luyện Cơ Thể (Tập 19)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/823/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675330291/cmc_new/img.live_channel_schedule/0/0/131/67090/34350387.jpg" group-title="🗓| Sự kiện", 08:38-12/02: Đại Tu
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675588879/cmc_new/img.live_channel_schedule/0/0/130/66677/34138675.jpg" group-title="🗓| Sự kiện", 08:40-12/02: Thủa Ban Đầu Của Nhà Crood
+https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675417324/cmc_new/img.live_channel_schedule/0/0/130/67061/34335667.jpg" group-title="🗓| Sự kiện", 09:00-12/02: Chúng Tôi Đơn Giản Là Gấu Con
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675696585/cmc_new/img.live_channel_schedule/0/0/130/66677/34138676.jpg" group-title="🗓| Sự kiện", 09:05-12/02: Home: Những Chuyến Phiêu Lưu Cùng Tip Và Oh
+https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675911400/cmc_new/img.live_channel_schedule/0/0/130/67003/34305916.jpg" group-title="🗓| Sự kiện", 09:10-12/02: Cuộc Cách Mạng Xe Hơi (Tập 4)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675999724/cmc_new/img.live_channel_schedule/0/0/130/66685/34143203.jpg" group-title="🗓| Sự kiện", 09:30-12/02: Đông Phương Chiến Ký (Tập 11)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675239035/cmc_new/img.live_channel_schedule/0/0/130/66677/34138677.jpg" group-title="🗓| Sự kiện", 09:30-12/02: Quỷ Lùn Tinh Nghịch: Giai Điệu Bất Tận
+https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675999724/cmc_new/img.live_channel_schedule/0/0/130/66685/34143204.jpg" group-title="🗓| Sự kiện", 10:00-12/02: Đông Phương Chiến Ký (Tập 12)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760016/cmc_new/img.live_channel_schedule/0/0/131/67090/34350389.jpg" group-title="🗓| Sự kiện", 10:07-12/02: Xưởng Xe Toàn Nữ
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760016/cmc_new/img.live_channel_schedule/0/0/131/67090/34350390.jpg" group-title="🗓| Sự kiện", 10:28-12/02: Xưởng Xe Toàn Nữ
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675999724/cmc_new/img.live_channel_schedule/0/0/130/66685/34143205.jpg" group-title="🗓| Sự kiện", 10:30-12/02: Đông Phương Chiến Ký (Phần 2 - Tập 1)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
@@ -1717,9 +1679,9 @@ https://playlist.vthanhtivi.pw/yoitv/get.php?id=thRBrsQy5LgM0YhR7EJudg==
 #EXTINF:-1 tvg-id="Ariang.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png", KR: Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="KBS1TV.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KR: KBS 1
-http://2.cvmtv.site/KBS1
+http://0.vylc.name.vn/KBS1
 #EXTINF:-1 tvg-id="KBS2TV.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KR: KBS 2
-http://2.cvmtv.site/KBS2
+http://0.vylc.name.vn/KBS2
 #EXTINF:-1 tvg-id="KBSDrama.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png", KR: KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 #EXTINF:-1 tvg-id="KBSJoy.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png", KR: KBS Joy
@@ -1822,21 +1784,21 @@ https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
 #-*-- China TV -*--#
 #EXTINF:-1 tvg-id="CCTV1.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CN: CCTV1 HD
-http://2.cvmtv.site/CCTV1
+http://0.vylc.name.vn/CCTV1
 #EXTINF:-1 tvg-id="CCTV2.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CN: CCTV2 HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/RvBLDLc/CCTV-3-BEARTV.png", CN: CCTV3 HD
-http://2.cvmtv.site/CCTV3
+http://0.vylc.name.vn/CCTV3
 #EXTINF:-1 tvg-id="CCTV4.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/XYw5T45/cctv4-BEARTV.png", CN: CCTV4 HD
-http://2.cvmtv.site/CCTV4
+http://0.vylc.name.vn/CCTV4
 #EXTINF:-1 tvg-id="CCTV5.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png", CN: CCTV5 - Thể Thao
-http://2.cvmtv.site/CCTV5
+http://0.vylc.name.vn/CCTV5
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png", CN: CCTV5+ Thể Thao
-http://2.cvmtv.site/CCTV5p
+http://0.vylc.name.vn/CCTV5p
 #EXTINF:-1 tvg-id="CCTV6.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/ScBcnDG/cctv6-BEARTV.png", CN: CCTV6 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/FBgLD25/cctv7-BEARTV.png", CN: CCTV7 HD
-http://2.cvmtv.site/CCTV7
+http://0.vylc.name.vn/CCTV7
 #EXTINF:-1 tvg-id="CCTV8.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/QYQHt0H/cctv8-BEARTV.png", CN: CCTV8 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/YjTHXp1/cctv9-BEARTV.png", CN: CCTV9 HD
@@ -1848,7 +1810,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/q5FCZCc/cctv12-BEARTV.png", CN: CCTV12 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CN: CCTV13 HD
-http://2.cvmtv.site/CCTV13
+http://0.vylc.name.vn/CCTV13
 #EXTINF:-1 tvg-id="CCTV14.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/HtWFFfx/cctv14-BEARTV.png", CN: CCTV14 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/s3PMJvW/cctv15-BEARTV.png", CN: CCTV15 HD
@@ -1868,7 +1830,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/fNjFPVZ/Hunan-TV-BEARTV.png", CN: Hồ Nam
 http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/d67LysT/Chi-t-Giang-BEARTV.png", CN: Chiết Giang
-http://2.cvmtv.site/Zhejiang
+http://0.vylc.name.vn/Zhejiang
 #EXTINF:-1 tvg-id="" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/MPQGTZn/Giang-T-BEARTV.png", CN: Giang Tô
 http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/PYsHhX5/Giang-T-y-BEARTV.png", CN: Giang Tây
@@ -1880,15 +1842,15 @@ http://39.135.163.5:6610/shandong_cabletv.live.zte.com////CHANNEL00000347/index.
 #EXTINF:-1 tvg-id="" group-title="🇨🇳| China TV" tvg-logo="https://i.ibb.co/W2fxCd3/Thi-n-T-n-BEARTV.png", CN: Thiên Tân
 http://39.134.65.162/PLTV/88888888/224/3221225665/1.m3u8
 #EXTINF:-1 tvg-id="GreatSportsChannel.cn" group-title="🇨🇳| China TV" tvg-logo="https://i.imgur.com/HmlGhYD.png", Great Sports
-http://2.cvmtv.site/WXTY
+http://0.vylc.name.vn/WXTY
 
 #-*-- UK TV -*--#
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One
-http://2.cvmtv.site/BBC1
+http://0.vylc.name.vn/BBC1
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One Server 2
 http://113.190.70.190:8889/evol.php?id=17305
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two
-http://2.cvmtv.site/BBC2
+http://0.vylc.name.vn/BBC2
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two Server 2
 http://113.190.70.190:8889/evol.php?id=17318
 #EXTINF:-1 tvg-id="BBCThree.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png", UK: BBC Three
@@ -1898,49 +1860,49 @@ http://113.190.70.190:8889/evol.php?id=17331
 #EXTINF:-1 tvg-id="CBeebies.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/512px-CBeebies.png", UK: CBeebies
 http://113.190.70.190:8889/evol.php?id=17282
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png", UK: BBC News
-http://2.cvmtv.site/bbcnews
+http://0.vylc.name.vn/bbcnews
 #EXTINF:-1 tvg-id="BBCRedButton1.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/1280px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png", UK: BBC RB 1
-http://2.cvmtv.site/BBCRB1
+http://0.vylc.name.vn/BBCRB1
 #EXTINF:-1 tvg-id="BBCParliament.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1200px-BBC_Parliament_Logo.svg.png", UK: BBC Parliament
-http://2.cvmtv.site/BBCPar
+http://0.vylc.name.vn/BBCPar
 #EXTINF:-1 tvg-id="Channel4.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png", UK: Channel 4
-http://2.cvmtv.site/channel4
+http://0.vylc.name.vn/channel4
 #EXTINF:-1 tvg-id="Channel5.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/1200px-Channel_5_Logo_2016_SVG.svg.png", UK: Channel 5
-http://2.cvmtv.site/channel5
+http://0.vylc.name.vn/channel5
 #EXTINF:-1 tvg-id="CBBC.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1200px-CBBC_%282022%29.svg.png", UK: CBBC
-http://2.cvmtv.site/CBBC
+http://0.vylc.name.vn/CBBC
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV
-http://2.cvmtv.site/ITV
+http://0.vylc.name.vn/ITV
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV Server 2
 http://113.190.70.190:8889/evol.php?id=17295
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png", UK: ITV2
-http://2.cvmtv.site/ITV2
+http://0.vylc.name.vn/ITV2
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png", UK: ITV2 Server 2
 http://113.190.70.190:8889/evol.php?id=17397
 #EXTINF:-1 tvg-id="ITV3.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png", UK: ITV3
-http://2.cvmtv.site/ITV3
+http://0.vylc.name.vn/ITV3
 #EXTINF:-1 tvg-id="ITV3.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png", UK: ITV3 Server 2
 http://113.190.70.190:8889/evol.php?id=17396
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png", UK: ITV4
-http://2.cvmtv.site/ITV4
+http://0.vylc.name.vn/ITV4
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png", UK: ITV4 Server 2
 http://113.190.70.190:8889/evol.php?id=17395
 #EXTINF:-1 tvg-id="STV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png", UK: STV
-http://2.cvmtv.site/STV
+http://0.vylc.name.vn/STV
 #EXTINF:-1 tvg-id="SkyNews.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", UK: Sky News
-http://2.cvmtv.site/SkyNews
+http://0.vylc.name.vn/SkyNews
 
 #-*-- Germany TV -*--#
 #EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/512px-Das_Erste_2014.svg.png", DE: Das Erste
 
 #EXTINF:-1 tvg-id="ZDF.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png", DE: ZDF
-http://2.cvmtv.site/ZDF
+http://0.vylc.name.vn/ZDF
 #EXTINF:-1 tvg-id="RTLGermany.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png", DE: RTL
-http://2.cvmtv.site/RTL
+http://0.vylc.name.vn/RTL
 #EXTINF:-1 tvg-id="RTLZwei.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/800px-RTLZWEI_Logo_2019.svg.png", DE: RTL Zwei
-http://2.cvmtv.site/RTLII
+http://0.vylc.name.vn/RTLII
 #EXTINF:-1 tvg-id="ProSiebenGermany.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png", DE: ProSieben Germany
-http://2.cvmtv.site/ProSieben
+http://0.vylc.name.vn/ProSieben
 #EXTINF:-1 tvg-id="Pro7Maxx.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1280px-ProSieben_MAXX_Logo.svg.png", DE: Pro7 MAXX
 
 #EXTINF:-1 tvg-id="tagesschau24.de" group-title="🇩🇪| Germany TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/1200px-Tagesschau24HD.svg.png", DE: Tagesschau24
@@ -1964,27 +1926,27 @@ http://2.cvmtv.site/ProSieben
 
 #-*-- Italy TV -*--#
 #EXTINF:-1 tvg-id="Rai1.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD
-http://2.cvmtv.site/Rai1
+http://0.vylc.name.vn/Rai1
 #EXTINF:-1 tvg-ID="Rai1.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD Server 2
 http://113.190.70.190:8889/evol.php?id=68620
 #EXTINF:-1 tvg-id="Rai2.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD
-http://2.cvmtv.site/Rai2
+http://0.vylc.name.vn/Rai2
 #EXTINF:-1 tvg-ID="Rai2.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD Server 2
 http://113.190.70.190:8889/evol.php?id=68621
 #EXTINF:-1 tvg-id="Rai3.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png", IT: Rai 3
-http://2.cvmtv.site/Rai3
+http://0.vylc.name.vn/Rai3
 #EXTINF:-1 tvg-id="RaiNews24.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1024px-Rai_News_24_logo_%282022%29.svg.png", IT: Rai News 24
 
 
 #-*-- Turkey TV -*--#
 #EXTINF:-1 tvg-id="TRT1.tr" group-title="🇹🇷| Turkey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png", TR: TRT1
-http://2.cvmtv.site/TRT1
+http://0.vylc.name.vn/TRT1
 #EXTINF:-1 tvg-id="TRT2.tr" group-title="🇹🇷| Turkey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png", TR: TRT2
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" group-title="🇹🇷| Turkey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/1200px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png", TR: TRT Haber
-http://2.cvmtv.site/TRT_Haber
+http://0.vylc.name.vn/TRT_Haber
 #EXTINF:-1 tvg-id="TRTTurk.tr" group-title="🇹🇷| Turkey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png", TR: TRT Turk
-http://2.cvmtv.site/TRT_Turk
+http://0.vylc.name.vn/TRT_Turk
 
 #-*-- Portugal TV -*--#
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="🇵🇹| Portugal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png", PT: RTP 1
@@ -2002,37 +1964,37 @@ http://2.cvmtv.site/TRT_Turk
 
 #-*-- Poland TV -*--#
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png", PL: TVP 1
-http://2.cvmtv.site/TVP1
+http://0.vylc.name.vn/TVP1
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png", PL: TVP 1 Server 2
 http://113.190.70.190:8889/evol.php?id=67959
 #EXTINF:-1 tvg-id="TVP2.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png", PL: TVP 2
-http://2.cvmtv.site/TVP2
+http://0.vylc.name.vn/TVP2
 #EXTINF:-1 tvg-id="TVP2.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png", PL: TVP 2 Server 2
 http://113.190.70.190:8889/evol.php?id=67958
 #EXTINF:-1 tvg-id="TVP3.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 3
-http://2.cvmtv.site/TVP3
+http://0.vylc.name.vn/TVP3
 #EXTINF:-1 tvg-id="TVP3.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 3 Server 2
 http://113.190.70.190:8889/evol.php?id=67957
 #EXTINF:-1 tvg-id="TVP4.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 4
 http://113.190.70.190:8889/evol.php?id=67956
 #EXTINF:-1 tvg-id="TVPHD.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png", PL: TVP HD
-http://2.cvmtv.site/TVPHD
+http://0.vylc.name.vn/TVPHD
 #EXTINF:-1 tvg-id="TVPHD.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png", PL: TVP HD Server 2
 http://113.190.70.190:8889/evol.php?id=67960
 #EXTINF:-1 tvg-id="TVPInfo.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png", PL: TVP Info
-http://2.cvmtv.site/TVPInfo
+http://0.vylc.name.vn/TVPInfo
 #EXTINF:-1 tvg-id="PolsatNews.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png", PL: Polsat News
-http://2.cvmtv.site/PolsatNews
+http://0.vylc.name.vn/PolsatNews
 
 #-*-- USA TV -*--#
 #EXTINF:-1 tvg-id="NBCEast.us" group-title="🇺🇸| USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png", US: NBC
-http://2.cvmtv.site/NBC
+http://0.vylc.name.vn/NBC
 #EXTINF:-1 tvg-id="CBSEast.us" group-title="🇺🇸| USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png", US: CBS
-http://2.cvmtv.site/CBS
+http://0.vylc.name.vn/CBS
 #EXTINF:-1 tvg-id="ABCEast.us" group-title="🇺🇸| USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png", US: ABC
-http://2.cvmtv.site/ABC
+http://0.vylc.name.vn/ABC
 #EXTINF:-1 tvg-id="FoxMiddleEast.us" group-title="🇺🇸| USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png", US: FOX
-http://2.cvmtv.site/FOX
+http://0.vylc.name.vn/FOX
 #EXTINF:-1 tvg-id="UniMasEast.us" group-title="🇺🇸| USA TV" tvg-logo="https://st1.uvnimg.com/dims4/default/c7fd409/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F57%2F9a%2F2ef55e7f4057beb6024842c8fdef%2Funiversal.jpg", US: Unimas
 
 #EXTINF:-1 tvg-id="UnivisionWest.us" group-title="🇺🇸| USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png", US: Univision
@@ -2040,43 +2002,43 @@ http://2.cvmtv.site/FOX
 
 #-*-- Australia TV -*--#
 #EXTINF:-1 tvg-id="10Sydney.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png", AU: 10 (Network Ten)
-http://2.cvmtv.site/Ten
+http://0.vylc.name.vn/Ten
 #EXTINF:-1 tvg-id="10Bold.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png", AU: 10 Bold (Ten Bold)
-http://2.cvmtv.site/Bold
+http://0.vylc.name.vn/Bold
 #EXTINF:-1 tvg-id="7HD.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png", AU: 7 (Network Seven)
-http://2.cvmtv.site/Seven
+http://0.vylc.name.vn/Seven
 #EXTINF:-1 tvg-id="9.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png", AU: 9 (Network Nine WWOS)
-http://2.cvmtv.site/Nine
+http://0.vylc.name.vn/Nine
 #EXTINF:-1 tvg-id="9Gem.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png", AU: 9Gem
-http://2.cvmtv.site/Gem
+http://0.vylc.name.vn/Gem
 #EXTINF:-1 tvg-id="SBSOne.au" group-title="🇦🇺| Australia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png", AU: SBS One
-http://2.cvmtv.site/SBSOne
+http://0.vylc.name.vn/SBSOne
 #EXTINF:-1 tvg-id="SBSViceland.au" group-title="🇦🇺| Australia TV" tvg-logo="https://i.imgur.com/yIdjafM.png", AU: SBS Viceland
-http://2.cvmtv.site/SBSViceland
+http://0.vylc.name.vn/SBSViceland
 
 #-*-- Russia/Ukraine TV -*--#
 #EXTINF:-1 tvg-ID="OPT1.ua" group-title="🇷🇺/🇺🇬| Russia/Ukraine TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi", UA: OPT1
-http://2.cvmtv.site/OPT1
+http://0.vylc.name.vn/OPT1
 #EXTINF:-1 tvg-ID="Russia1.ru" group-title="🇷🇺/🇺🇬| Russia/Ukraine TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/1920px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png", RU: Russia 1
-http://2.cvmtv.site/Russia1
+http://0.vylc.name.vn/Russia1
 #EXTINF:-1 tvg-ID="NTV.ru" group-title="🇷🇺/🇺🇬| Russia/Ukraine TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1200px-NTV_logo_2003.svg.png", RU: NTV
-http://2.cvmtv.site/NTV
+http://0.vylc.name.vn/NTV
 
 #----------------Netherlands-----------------
 #EXTINF:-1 tvg-ID="NPO2.nl" group-title="🇳🇱 | Netherlands TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/512px-NPO_2_logo_2014.svg.png", NL: NPO2
-http://2.cvmtv.site/NPO2
+http://0.vylc.name.vn/NPO2
 #EXTINF:-1 tvg-ID="NPO3.nl" group-title="🇳🇱 | Netherlands TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/512px-NPO_3_logo_2014.svg.png", NL: NPO3
-http://2.cvmtv.site/NPO3
+http://0.vylc.name.vn/NPO3
 #EXTINF:-1 tvg-ID="RTL4.nl" group-title="🇳🇱 | Netherlands TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png", NL: RTL4
-http://2.cvmtv.site/RTL4
+http://0.vylc.name.vn/RTL4
 #EXTINF:-1 tvg-ID="RTL5.nl" group-title="🇳🇱 | Netherlands TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/RTL_5_logo_2017.png/512px-RTL_5_logo_2017.png", NL: RTL5
-http://2.cvmtv.site/RTL5
+http://0.vylc.name.vn/RTL5
 #EXTINF:-1 tvg-ID="SBS6.nl" group-title="🇳🇱 | Netherlands TV" tvg-logo="https://i.imgur.com/Pxatn6x.png", NL: SBS6
-http://2.cvmtv.site/SBS6
+http://0.vylc.name.vn/SBS6
 #EXTINF:-1 tvg-ID="RTL7.nl" group-title="🇳🇱 | Netherlands TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/RTL_7_Logo.svg/512px-RTL_7_Logo.svg.png", NL: RTL7
-http://2.cvmtv.site/RTL7
+http://0.vylc.name.vn/RTL7
 #EXTINF:-1 tvg-ID="RTL8.nl" group-title="🇳🇱 | Netherlands TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RTL_8_logo_2017.png/512px-RTL_8_logo_2017.png", NL: RTL8
-http://2.cvmtv.site/RTL8
+http://0.vylc.name.vn/RTL8
 
 #-*-- Malaysia TV -*--#
 #EXTINF:-1 tvg-ID="TV1.my" group-title="🇲🇾| Malaysia TV" tvg-logo="https://i.imgur.com/wSyPmiY.png", MY: TV1
@@ -2202,7 +2164,7 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/229683
 
 #-*-- Sports UK -*--#
 #EXTINF:-1 group-title="🇬🇧| Sports UK" tvg-logo="https://supersport-cms-prod.azureedge.net/media/icxfej42/premier-league.png?width=500", Premier League Event
-http://1.cvmtv.site/EPL
+http://171.244.61.233/EPL
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/rsT6Cu2.png", UK: Sky Sports Football FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/Bi8uR5O.png", UK: Sky Sports Main Event FHD
@@ -2214,7 +2176,7 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53986
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/ChWdcRC.png", UK: Sky Sports Premier League FHD Server 2
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/263
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/ChWdcRC.png", UK: Sky Sports Premier League FHD Server 3
-http://2.cvmtv.site/SkyPL
+http://0.vylc.name.vn/SkyPL
 #EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/XBMm9XT.png", UK: Sky Sports Arena FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94997
 #EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/XBMm9XT.png", UK: Sky Sports Arena HD
@@ -2314,11 +2276,11 @@ http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/45429.ts
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.imgur.com/4nQOtYJ.png", US: CBS Sports Network FHD
 http://113.190.70.190:8889/iprotv.php?id=10709
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD
-http://2.cvmtv.site/ESPN
+http://0.vylc.name.vn/ESPN
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD Server 2
 http://live.easy24dar.tk:80/9cgFkGQwmD/qfnJgoWYYG/74481
 #EXTINF:-1 tvg-id="ESPN2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png", US: ESPN 2 FHD
-http://2.cvmtv.site/ESPN2
+http://0.vylc.name.vn/ESPN2
 #EXTINF:-1 tvg-id="ESPN2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png", US: ESPN 2 FHD Server 2
 http://tv.allkaicerteam.com:8080/kaicer_VIPzex84p/m3xs72/743
 #EXTINF:-1 tvg-id="USANetworkEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png", US: USA Network FHD
@@ -2326,11 +2288,11 @@ http://141.94.163.202:80/play/live.php?mac=00:1A:79:70:30:14&stream=489&extensio
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png", US: Golf Channel FHD
 
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD
-http://2.cvmtv.site/FS1
+http://0.vylc.name.vn/FS1
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/512px-2015_Fox_Sports_1_logo.svg.png", US: Fox Sports 1 FHD Server 2
 http://live.easy24dar.tk:80/9cgFkGQwmD/qfnJgoWYYG/74489
 #EXTINF:-1 tvg-id="FoxSports2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png", US: Fox Sports 2 FHD
-http://2.cvmtv.site/FS2
+http://0.vylc.name.vn/FS2
 #EXTINF:-1 tvg-id="FoxSports2.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png", US: Fox Sports 2 FHD
 http://live.easy24dar.tk:80/9cgFkGQwmD/qfnJgoWYYG/74490
 #EXTINF:-1 tvg-id="TNTEast.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png", US: TNT East FHD
@@ -2352,9 +2314,9 @@ http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/45429.ts
 #EXTINF:-1 tvg-id="BarcaTV.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/E2VDORP.png", ES: Barca TV FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/130818
 #EXTINF:-1 tvg-id="DAZN1Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/9A63D4g.png", ES: Dazn 1 FHD
-http://2.cvmtv.site/DAZN1
+
 #EXTINF:-1 tvg-id="DAZN2Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/BevbzGm.png", ES: Dazn 2 FHD
-http://2.cvmtv.site/DAZN2
+
 #EXTINF:-1 tvg-id="DAZN3Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/w3z54t6.png", ES: Dazn 3 FHD
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5591.ts
 #EXTINF:-1 tvg-id="DAZN4Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/t0R8mOg.png", ES: Dazn 4 FHD
@@ -2368,7 +2330,7 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5607.ts
 #EXTINF:-1 tvg-id="Eurosport2.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Eurosport 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5608.ts
 #EXTINF:-1 tvg-id="DeportesporMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/512px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png", ES: Deportes por Movistar+
-http://2.cvmtv.site/M_DE
+
 #EXTINF:-1 tvg-id="Deportes5porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/DIFgr2d.png", ES: Deportes 5 por Movistar+
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285690
 #EXTINF:-1 tvg-id="Deportes6porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/gI3Sd74.png", ES: Deportes 6 por Movistar+
@@ -2380,31 +2342,31 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/269466
 #EXTINF:-1 tvg-id="LaLiga5porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/xQ5r9ta.png", ES: LaLiga 5 por Movistar+
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281792
 #EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", ES: Liga de Campeones por Movistar+
-http://2.cvmtv.site/M_LC
+
 #EXTINF:-1 tvg-id="LigadeCampeones2porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/9ajldOZ.png", ES: Liga de Campeones 2 por Movistar+
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81096
 
 #-*-- Sports Netherlands -*--#
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" group-title="🇳🇱| Sports Netherlands" tvg-logo="https://i.imgur.com/4Mf67WJ.png", NL: Ziggo Sport Select FHD
-http://2.cvmtv.site:8080/stream/channelid/1500720339
+http://0.vylc.name.vn:8080/stream/channelid/1500720339
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" group-title="🇳🇱| Sports Netherlands" tvg-logo="https://i.imgur.com/NtGDkBo.png", NL: Ziggo Sport Voetbal FHD
-http://2.cvmtv.site:8080/stream/channelid/414989288
+http://0.vylc.name.vn:8080/stream/channelid/414989288
 #EXTINF:-1 tvg-id="ZiggoSportTennis.nl" group-title="🇳🇱| Sports Netherlands" tvg-logo="https://i.imgur.com/DwBdh1o.png", NL: Ziggo Sport Tennis FHD
-http://2.cvmtv.site:8080/stream/channelid/1547463735
+http://0.vylc.name.vn:8080/stream/channelid/1547463735
 #EXTINF:-1 tvg-id="ZiggoSportGolf.nl" group-title="🇳🇱| Sports Netherlands" tvg-logo="https://i.imgur.com/R2lrtSn.png", NL: Ziggo Sport Golf FHD
-http://2.cvmtv.site:8080/stream/channelid/1127618614
+http://0.vylc.name.vn:8080/stream/channelid/1127618614
 #EXTINF:-1 tvg-id="ZiggoSportDocu.nl" group-title="🇳🇱| Sports Netherlands" tvg-logo="https://i.imgur.com/R2lrtSn.png", NL: Ziggo Sport Docu FHD
-http://2.cvmtv.site:8080/stream/channelid/1403710339
+http://0.vylc.name.vn:8080/stream/channelid/1403710339
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" group-title="🇳🇱| Sports Netherlands" tvg-logo="https://i.imgur.com/R2lrtSn.png", NL: Ziggo Sport Racing FHD
-http://2.cvmtv.site:8080/stream/channelid/891465161
+http://0.vylc.name.vn:8080/stream/channelid/891465161
 
 #-*-- Sports Central Europe -*--#
 #EXTINF:-1 tvg-ID="DiemaSport.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/mVTmLXm.png", BG: Diema Sport FHD
-http://2.cvmtv.site/Diema1
+http://0.vylc.name.vn/Diema1
 #EXTINF:-1 tvg-ID="DiemaSport2.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/4Cscok5.png", BG: Diema Sport 2 FHD
-http://2.cvmtv.site/Diema2
+http://0.vylc.name.vn/Diema2
 #EXTINF:-1 tvg-ID="DiemaSport3.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DiemaSport3logo.png/512px-DiemaSport3logo.png", BG: Diema Sport 3 HD
-http://2.cvmtv.site/Diema3
+http://0.vylc.name.vn/Diema3
 
 #-*-- Sports French -*--#
 #EXTINF:-1 tvg-ID="Eurosport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/z3fQ87X.png", FR: Eurosport 1 HD
@@ -2446,11 +2408,11 @@ http://webtv360.org:8000/Fernando/Fernando/16678
 #EXTINF:-1 tvg-ID="RMCSport7.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 7 FHD
 http://webtv360.org:8000/Fernando/Fernando/16679
 #EXTINF:-1 tvg-ID="beINSports1France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/KPbwfw1.png", FR: beIN Sports 1 FHD
-http://2.cvmtv.site:8080/stream/channelid/1625287896
+http://0.vylc.name.vn:8080/stream/channelid/1625287896
 #EXTINF:-1 tvg-ID="beINSports1France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/KPbwfw1.png", FR: beIN Sports 1 FHD Server 2
 http://113.190.70.190:8889/evol.php?id=56580
 #EXTINF:-1 tvg-ID="beINSports2France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/3fA6lC6.png", FR: beIN Sports 2 FHD
-http://2.cvmtv.site:8080/stream/channelid/2047845480
+http://0.vylc.name.vn:8080/stream/channelid/2047845480
 #EXTINF:-1 tvg-ID="beINSports2France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/3fA6lC6.png", FR: beIN Sports 2 FHD Server 2
 http://113.190.70.190:8889/evol.php?id=56579
 #EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: beIN Sports 3 FHD
@@ -2958,43 +2920,43 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15886
 #EXTINF:-1 tvg-id="PolsatSportPremium6PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/YrveCmM.png", PL: Polsat Sport Premium 6 FHD Server 2
 http://113.190.70.190:8889/prostv.php?id=147389
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sport 1 FHD
-http://2.cvmtv.site:8080/stream/channelid/836061641
+http://0.vylc.name.vn:8080/stream/channelid/836061641
 #EXTINF:-1 tvg-ID="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sports 1 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2560
 #EXTINF:-1 tvg-ID="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sports 1 FHD Server 3
 http://113.190.70.190:8889/evol.php?id=67795
 #EXTINF:-1 tvg-id="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sport 2 FHD
-http://2.cvmtv.site:8080/stream/channelid/1604309142
+http://0.vylc.name.vn:8080/stream/channelid/1604309142
 #EXTINF:-1 tvg-ID="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sports 2 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2561
 #EXTINF:-1 tvg-ID="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sports 2 FHD Server 3
 http://113.190.70.190:8889/evol.php?id=67794
 #EXTINF:-1 tvg-id="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sport 3 FHD
-http://2.cvmtv.site:8080/stream/channelid/1655748057
+http://0.vylc.name.vn:8080/stream/channelid/1655748057
 #EXTINF:-1 tvg-ID="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sports 3 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12739
 #EXTINF:-1 tvg-ID="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sports 3 FHD Server 3
 http://113.190.70.190:8889/evol.php?id=67793
 #EXTINF:-1 tvg-id="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sport 4 FHD
-http://2.cvmtv.site:8080/stream/channelid/1958327260
+http://0.vylc.name.vn:8080/stream/channelid/1958327260
 #EXTINF:-1 tvg-ID="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sports 4 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12740
 #EXTINF:-1 tvg-ID="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sports 4 FHD Server 3
 http://113.190.70.190:8889/evol.php?id=67792
 #EXTINF:-1 tvg-id="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD
-http://2.cvmtv.site:8080/stream/channelid/701074256
+http://0.vylc.name.vn:8080/stream/channelid/701074256
 #EXTINF:-1 tvg-ID="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8857
 #EXTINF:-1 tvg-ID="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD Server 3
 http://113.190.70.190:8889/evol.php?id=67799
 #EXTINF:-1 tvg-id="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD
-http://2.cvmtv.site:8080/stream/channelid/842661572
+http://0.vylc.name.vn:8080/stream/channelid/842661572
 #EXTINF:-1 tvg-ID="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8823
 #EXTINF:-1 tvg-ID="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD Server 3
 http://113.190.70.190:8889/evol.php?id=67808
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD
-http://2.cvmtv.site:8080/stream/channelid/1209045940
+http://0.vylc.name.vn:8080/stream/channelid/1209045940
 #EXTINF:-1 tvg-ID="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8899
 #EXTINF:-1 tvg-ID="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD Server 3
@@ -3004,13 +2966,13 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8900
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/8x1FV3o.png", PL: Polsat Sport Fight HD
 http://113.190.70.190:8889/evol.php?id=67807
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD
-http://2.cvmtv.site:8080/stream/channelid/684151253
+http://0.vylc.name.vn:8080/stream/channelid/684151253
 #EXTINF:-1 tvg-ID="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8921
 #EXTINF:-1 tvg-ID="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD Server 3
 http://113.190.70.190:8889/evol.php?id=75753
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD
-http://2.cvmtv.site:8080/stream/channelid/1705267767
+http://0.vylc.name.vn:8080/stream/channelid/1705267767
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8973
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD Server 3
@@ -3024,19 +2986,19 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/19625
 #EXTINF:-1 tvg-id="CanalPlusSport4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 4 FHD Server 2
 http://113.190.70.190:8889/evol.php?id=75828
 #EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 FHD
-http://2.cvmtv.site:8080/stream/channelid/1048689498
+http://0.vylc.name.vn:8080/stream/channelid/1048689498
 #EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8874
 #EXTINF:-1 tvg-id="CanalPlusPremium.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/J8qzBV1.png", PL: Canal+ Premium HD
-http://2.cvmtv.site:8080/stream/channelid/881008572
+http://0.vylc.name.vn:8080/stream/channelid/881008572
 #EXTINF:-1 tvg-id="CanalPlusFamilyPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/pHbg0HS.png", PL: Canal+ Family HD
-http://2.cvmtv.site:8080/stream/channelid/1732441088
+http://0.vylc.name.vn:8080/stream/channelid/1732441088
 #EXTINF:-1 tvg-id="CanalPlusNow.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/512px-C%2BNow.png", PL: Canal+ Now HD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15327
 #EXTINF:-1 tvg-id="Eurosport1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/z3fQ87X.png", PL: Eurosport 1
-http://2.cvmtv.site/es1
+http://0.vylc.name.vn/es1
 #EXTINF:-1 tvg-id="Eurosport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/0xpN9B6.png", PL: Eurosport 2
-http://2.cvmtv.site/es2
+http://0.vylc.name.vn/es2
 #EXTINF:-1 tvg-ID="ExtremeSportsChannelPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/512px-Extreme_Sports_Channel.svg.png", PL: Extreme Sports Channel Poland FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8914
 #EXTINF:-1 tvg-ID="FightBox.pl" group-title="🇵🇱| Sports Poland" tvg-logo="", PL: Fightbox FHD
@@ -3052,7 +3014,7 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8915
 #EXTINF:-1 tvg-id="Eurosport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/0xpN9B6.png", PL: Eurosport 2 HD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8959
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
-http://2.cvmtv.site:8080/stream/channelid/1560768115
+http://0.vylc.name.vn:8080/stream/channelid/1560768115
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD Server 2
 http://113.190.70.190:8889/evol.php?id=67806
 
@@ -3348,23 +3310,23 @@ http://ys-users.com:8080/Rebel/45Wgd6Qet7/118286
 
 #-*-- Sports Russia/Ukraine -*--#
 #EXTINF:-1 tvg-ID="SetantaSports1.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png", UA: Setanta Sports 1 HD
-http://2.cvmtv.site/Setanta1
+http://0.vylc.name.vn/Setanta1
 #EXTINF:-1 tvg-ID="SetantaSportsUkraine.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a0000015409aecba539a5b8c7ff7cd6e837/160x120", UA: Setanta Sports Ukraine HD
-http://2.cvmtv.site/Setanta2
+http://0.vylc.name.vn/Setanta2
 #EXTINF:-1 tvg-id="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD
-http://2.cvmtv.site/matchtv
+http://0.vylc.name.vn/matchtv
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
 http://113.190.70.190:8889/evol.php?id=21420
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD
-http://2.cvmtv.site/futbol1
+http://0.vylc.name.vn/futbol1
 #EXTINF:-1 tvg-ID="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD Server 2
 http://113.190.70.190:8889/evol.php?id=21418
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD
-http://2.cvmtv.site/futbol2
+http://0.vylc.name.vn/futbol2
 #EXTINF:-1 tvg-ID="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD Server 2
 http://113.190.70.190:8889/evol.php?id=21417
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD
-http://2.cvmtv.site/futbol3
+http://0.vylc.name.vn/futbol3
 #EXTINF:-1 tvg-ID="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD Server 2
 http://113.190.70.190:8889/evol.php?id=21416
 #EXTINF:-1 tvg-id="MatchPremier.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/GQPyHYK.png", RU: Маtch Premier HD
@@ -3446,23 +3408,23 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/c
 https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-12/02: Full HD RB Leipzig vs Union Berlin (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may038FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-12/02: Nhà đài RB Leipzig vs Union Berlin (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+https://obevcimanyd179314182.thapcam.link/live/may111/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-12/02: SD1 Bournemouth AFC vs Newcastle United (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-12/02: SD2 Bournemouth AFC vs Newcastle United (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-12/02: HD Bournemouth AFC vs Newcastle United (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-12/02: Full HD Bournemouth AFC vs Newcastle United (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+https://179672673.global.cdnfastest.com/live/may076FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-12/02: Nhà đài Bournemouth AFC vs Newcastle United (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
