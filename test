@@ -1,0 +1,60 @@
+#EXTINF:-1 tvg-id="hbohd" group-logo="https://client.iptvhay.site/wintv/wintv/url?url=http://get.vuitv.pro/logo1234/HBO.png" group-title="HBO GO" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/12/m4oqw0d9_hbongagn4f6616f355267f3c46c8ffa59075e7cd.png" ,HBO HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&key=hbohd.mpd
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=hbohd.mpd
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-logo="" group-title="HBO GO" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang.png" ,Cinemax HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&key=cinemaxhd.mpd
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=cinemaxhd.mpd
+
+#EXTINF:-1 tvg-id="HBOFamilyAsia" group-logo="" group-title="HBO GO" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://iptvhay.site/api/livetv/image/9n5pphIiuEjpVQs771tMQxGOGyc6KcxflfGvqowp.jpg" ,HBO Family Asia
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=HBOFamilyAsia.m3u8
+
+#EXTINF:-1 tvg-id="HBOhistAsia" group-logo="" group-title="HBO GO" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://iptvhay.site/api/livetv/image/K4GM0SZzkgHgT4AVWqPCtJt72Fh2GLZc1Qdt6n2g.jpg" ,HBO Hits Asia
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=HBOhistAsia.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature" group-logo="" group-title="HBO GO" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://iptvhay.site/api/livetv/image/DxwBerSxcNhDxnJEWkwJjq2HiCTQzrRSwIlR6ZGX.png" ,HBO Signature
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=HBOSignature.m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-logo="https://client.iptvhay.site/wintv/wintv/url?url=http://get.vuitv.pro/logo1234/K%2B.png" group-title="K+" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://api.vuitv.pro/api/livetv/image/T3A0ELQp3FPGk4wczgVEM0NrPicrSzEf4sy5MU24.png" ,K+ Sport 1 SD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&key=ksport1hd.mpd
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=ksport1hd.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-logo="" group-title="K+" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2.png" ,K+ Sport 2 SD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&key=ksport2hd.mpd
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=ksport2hd.mpd
+
+#EXTINF:-1 tvg-id="cinehd" group-logo="" group-title="K+" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/8z1f0fys_banner9f65603d1e046826129d3ef9956f5b8b.png" ,K+Cine SD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&key=cinehd.mpd
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=cinehd.mpd
+
+#EXTINF:-1 tvg-id="lifehd" group-logo="" group-title="K+" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/21/qvdrfjej_banner8c14595ff1f38fc300635ca9b99ad80a.png" ,K+Life SD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&key=lifehd.mpd
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=lifehd.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-logo="" group-title="K+" tvg-logo="https://client.iptvhay.site/wintv/wintv/url?url=https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/bnnbx18i_k-kidb515f8f72ae65d5a7bc1414183e7a391.png" ,K+ Kids SD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&key=kkidshd.mpd
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=kkidshd.mpd
